@@ -30,8 +30,7 @@
 2. ### What are the phases of SDLC?
 
     The SDLC methodology consists  of the following phases of software development:
-    
-![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png)
+    ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png)
 
     1. **Stage 1 – Requirement Analysis/Planning**  You can also use ES6 class to define a component. The above function component can be written as:
     2. **Stage 2 – Design**  You can also use ES6 class to define a component. The above function component can be written as:
