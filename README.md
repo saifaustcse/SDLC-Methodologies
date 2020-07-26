@@ -40,6 +40,7 @@
       What data will serve as the input of the software?
       What data will be the output given by the software?
       Who is going to use the software?
+      
     2. **Stage 2 – Design**  You can also use ES6 class to define a component. The above function component can be written as:
     3. **Stage 3 – Development/Implementation**  You can also use ES6 class to define a component. The above function component can be written as:
     4. **Stage 4 – Testing/Quality Assurance**  You can also use ES6 class to define a component. The above function component can be written as:
