@@ -1,4 +1,4 @@
-## SDLC Methodologies
+## SDLC Methodologies Catagories and sub Catagories
 
 ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/backend.png)
 
