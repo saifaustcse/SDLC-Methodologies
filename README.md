@@ -1,10 +1,7 @@
 
-> Roadmap to becoming a .net developer in 2020
+> Top SDLC Methodologies
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a .net backend developer. I made these charts inspired from https://github.com/kamranahmedse/developer-roadmap for sharing my knowlegdge with others and learn form others.
 
-If you think that these can be improved in anyway, please do suggest.
+## SDLC Methodologies
 
-## .net back-end Roadmap
-
-![](https://github.com/saifaustcse/.net-developer-roadmap/blob/master/images/backend.png)
+![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/backend.png)
