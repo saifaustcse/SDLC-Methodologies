@@ -31,12 +31,12 @@
 
     The SDLC methodology consists  of the following phases of software development
 
-    1. **Stage 1 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
-    2. **Stage 2 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
-    3. **Stage 3 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
-    4. **Stage 4 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
-    5. **Stage 5 – Planning** You can also use ES6 class to define a component. The above function component can be written as:
-    6. **Stage 6 – Planning** You can also use ES6 class to define a component. The above function component can be written as:
+    1. **Stage 1 – Requirement Analysis/Planning**  You can also use ES6 class to define a component. The above function component can be written as:
+    2. **Stage 2 – Design**  You can also use ES6 class to define a component. The above function component can be written as:
+    3. **Stage 3 – Development/Implementation**  You can also use ES6 class to define a component. The above function component can be written as:
+    4. **Stage 4 – Testing/Quality Assurance**  You can also use ES6 class to define a component. The above function component can be written as:
+    5. **Stage 5 – Deployment/Release** You can also use ES6 class to define a component. The above function component can be written as:
+    6. **Stage 6 – Maiantenance** You can also use ES6 class to define a component. The above function component can be written as:
 
 
    **[⬆ Back to Top](#table-of-contents)**
