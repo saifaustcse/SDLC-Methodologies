@@ -7,11 +7,11 @@
                     "typeID": "Arrow",
                     "zOrder": "0",
                     "w": "23",
-                    "h": "1596",
+                    "h": "1588",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "527",
-                    "y": "138",
+                    "x": "529",
+                    "y": "64",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -21,52 +21,21 @@
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.4293525528936238,
-                            "y": -0.0012919896640826902
+                            "x": 0.4294821798990798,
+                            "y": -0.0012251154913870007
                         },
                         "p2": {
-                            "x": 0.2659269120033514,
-                            "y": 1596.484304279847
+                            "x": 0,
+                            "y": 1588
                         },
                         "rightArrow": "false",
                         "shape": "line"
                     }
                 },
                 {
-                    "ID": "28",
-                    "typeID": "Icon",
-                    "zOrder": "1",
-                    "measuredW": "48",
-                    "measuredH": "48",
-                    "x": "520",
-                    "y": "1766",
-                    "properties": {
-                        "color": "2848996",
-                        "icon": {
-                            "ID": "flag-checkered",
-                            "size": "large"
-                        }
-                    }
-                },
-                {
-                    "ID": "29",
-                    "typeID": "Label",
-                    "zOrder": "2",
-                    "measuredW": "113",
-                    "measuredH": "26",
-                    "x": "505",
-                    "y": "1887",
-                    "properties": {
-                        "bold": "true",
-                        "color": "2848996",
-                        "size": "18",
-                        "text": "Start Building"
-                    }
-                },
-                {
                     "ID": "36",
                     "typeID": "TextInput",
-                    "zOrder": "3",
+                    "zOrder": "1",
                     "w": "522",
                     "measuredW": "187",
                     "measuredH": "32",
@@ -82,7 +51,7 @@
                 {
                     "ID": "90",
                     "typeID": "TextInput",
-                    "zOrder": "4",
+                    "zOrder": "2",
                     "w": "439",
                     "measuredW": "54",
                     "measuredH": "32",
@@ -98,7 +67,7 @@
                 {
                     "ID": "120",
                     "typeID": "TextInput",
-                    "zOrder": "5",
+                    "zOrder": "3",
                     "w": "322",
                     "measuredW": "119",
                     "measuredH": "32",
@@ -114,7 +83,7 @@
                 {
                     "ID": "123",
                     "typeID": "TextInput",
-                    "zOrder": "6",
+                    "zOrder": "4",
                     "w": "439",
                     "measuredW": "86",
                     "measuredH": "32",
@@ -130,7 +99,7 @@
                 {
                     "ID": "125",
                     "typeID": "TextInput",
-                    "zOrder": "7",
+                    "zOrder": "5",
                     "w": "439",
                     "measuredW": "106",
                     "measuredH": "32",
@@ -146,7 +115,7 @@
                 {
                     "ID": "126",
                     "typeID": "TextInput",
-                    "zOrder": "8",
+                    "zOrder": "6",
                     "w": "439",
                     "measuredW": "60",
                     "measuredH": "32",
@@ -162,7 +131,7 @@
                 {
                     "ID": "127",
                     "typeID": "TextInput",
-                    "zOrder": "9",
+                    "zOrder": "7",
                     "w": "352",
                     "measuredW": "305",
                     "measuredH": "32",
@@ -178,7 +147,7 @@
                 {
                     "ID": "128",
                     "typeID": "TextInput",
-                    "zOrder": "10",
+                    "zOrder": "8",
                     "w": "439",
                     "measuredW": "81",
                     "measuredH": "32",
@@ -194,7 +163,7 @@
                 {
                     "ID": "129",
                     "typeID": "TextInput",
-                    "zOrder": "11",
+                    "zOrder": "9",
                     "w": "439",
                     "measuredW": "325",
                     "measuredH": "32",
@@ -210,12 +179,12 @@
                 {
                     "ID": "130",
                     "typeID": "TextInput",
-                    "zOrder": "12",
+                    "zOrder": "10",
                     "w": "439",
                     "measuredW": "80",
                     "measuredH": "32",
-                    "x": "608",
-                    "y": "1688",
+                    "x": "597",
+                    "y": "1630",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -226,7 +195,7 @@
                 {
                     "ID": "132",
                     "typeID": "Arrow",
-                    "zOrder": "13",
+                    "zOrder": "11",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -256,7 +225,7 @@
                 {
                     "ID": "133",
                     "typeID": "Arrow",
-                    "zOrder": "14",
+                    "zOrder": "12",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -286,7 +255,7 @@
                 {
                     "ID": "134",
                     "typeID": "Arrow",
-                    "zOrder": "15",
+                    "zOrder": "13",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -316,7 +285,7 @@
                 {
                     "ID": "135",
                     "typeID": "Arrow",
-                    "zOrder": "16",
+                    "zOrder": "14",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -346,7 +315,7 @@
                 {
                     "ID": "136",
                     "typeID": "Arrow",
-                    "zOrder": "17",
+                    "zOrder": "15",
                     "w": "60",
                     "h": "1",
                     "measuredW": "150",
@@ -376,7 +345,7 @@
                 {
                     "ID": "140",
                     "typeID": "Arrow",
-                    "zOrder": "18",
+                    "zOrder": "16",
                     "w": "61",
                     "h": "1",
                     "measuredW": "150",
@@ -406,7 +375,7 @@
                 {
                     "ID": "142",
                     "typeID": "Arrow",
-                    "zOrder": "19",
+                    "zOrder": "17",
                     "w": "10",
                     "h": "710",
                     "measuredW": "150",
@@ -436,7 +405,7 @@
                 {
                     "ID": "143",
                     "typeID": "TextInput",
-                    "zOrder": "20",
+                    "zOrder": "18",
                     "w": "355",
                     "measuredW": "77",
                     "measuredH": "32",
@@ -452,7 +421,7 @@
                 {
                     "ID": "144",
                     "typeID": "TextInput",
-                    "zOrder": "21",
+                    "zOrder": "19",
                     "w": "353",
                     "measuredW": "66",
                     "measuredH": "32",
@@ -468,13 +437,13 @@
                 {
                     "ID": "145",
                     "typeID": "Arrow",
-                    "zOrder": "22",
+                    "zOrder": "20",
                     "w": "66",
                     "h": "1",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "531",
-                    "y": "1703",
+                    "x": "529",
+                    "y": "1651",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -498,7 +467,7 @@
                 {
                     "ID": "147",
                     "typeID": "TextInput",
-                    "zOrder": "23",
+                    "zOrder": "21",
                     "w": "352",
                     "measuredW": "236",
                     "measuredH": "32",
@@ -514,7 +483,7 @@
                 {
                     "ID": "148",
                     "typeID": "TextInput",
-                    "zOrder": "24",
+                    "zOrder": "22",
                     "w": "417",
                     "measuredW": "408",
                     "measuredH": "32",
@@ -530,7 +499,7 @@
                 {
                     "ID": "150",
                     "typeID": "TextInput",
-                    "zOrder": "25",
+                    "zOrder": "23",
                     "w": "355",
                     "measuredW": "60",
                     "measuredH": "32",
@@ -546,7 +515,7 @@
                 {
                     "ID": "153",
                     "typeID": "TextInput",
-                    "zOrder": "26",
+                    "zOrder": "24",
                     "w": "355",
                     "measuredW": "71",
                     "measuredH": "32",
@@ -562,7 +531,7 @@
                 {
                     "ID": "154",
                     "typeID": "TextInput",
-                    "zOrder": "27",
+                    "zOrder": "25",
                     "w": "322",
                     "measuredW": "110",
                     "measuredH": "32",
@@ -578,7 +547,7 @@
                 {
                     "ID": "158",
                     "typeID": "Title",
-                    "zOrder": "28",
+                    "zOrder": "26",
                     "w": "282",
                     "measuredW": "158",
                     "measuredH": "44",
@@ -591,7 +560,7 @@
                 {
                     "ID": "159",
                     "typeID": "TextInput",
-                    "zOrder": "29",
+                    "zOrder": "27",
                     "w": "439",
                     "measuredW": "217",
                     "measuredH": "32",
@@ -607,7 +576,7 @@
                 {
                     "ID": "160",
                     "typeID": "Arrow",
-                    "zOrder": "30",
+                    "zOrder": "28",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -637,7 +606,7 @@
                 {
                     "ID": "161",
                     "typeID": "Arrow",
-                    "zOrder": "31",
+                    "zOrder": "29",
                     "w": "66",
                     "h": "1",
                     "measuredW": "150",
@@ -667,7 +636,7 @@
                 {
                     "ID": "162",
                     "typeID": "Arrow",
-                    "zOrder": "32",
+                    "zOrder": "30",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -697,7 +666,7 @@
                 {
                     "ID": "163",
                     "typeID": "Arrow",
-                    "zOrder": "33",
+                    "zOrder": "31",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -727,7 +696,7 @@
                 {
                     "ID": "164",
                     "typeID": "Arrow",
-                    "zOrder": "34",
+                    "zOrder": "32",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -757,7 +726,7 @@
                 {
                     "ID": "165",
                     "typeID": "Arrow",
-                    "zOrder": "35",
+                    "zOrder": "33",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -787,7 +756,7 @@
                 {
                     "ID": "166",
                     "typeID": "Arrow",
-                    "zOrder": "36",
+                    "zOrder": "34",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -817,7 +786,7 @@
                 {
                     "ID": "167",
                     "typeID": "Arrow",
-                    "zOrder": "37",
+                    "zOrder": "35",
                     "w": "58",
                     "h": "1",
                     "measuredW": "150",
@@ -852,10 +821,10 @@
             "parentID": null
         },
         "resourceID": "BFCFC1E8-55CF-472E-A725-6C815B23176B",
-        "mockupH": "1795",
-        "mockupW": "1192",
+        "mockupH": "1598",
+        "mockupW": "1176",
         "measuredW": "1697",
-        "measuredH": "1913",
+        "measuredH": "1662",
         "version": "1.0"
     }
 }
