@@ -12,49 +12,31 @@
 
 | No. | Topic |
 | --- | --------- |
-|1  | [What are the major features of React?](#what-are-the-major-features-of-react) |
-|2  | [How to create components in React?](#how-to-create-components-in-react) |
+|1  | [What is SDLC??](#what-is-SDLC) |
+|2  | [How to create components in React?](#what-are-the-phases-of-SDLC ) |
 
 
 ## Core React
 
   
-1. ### What are the major features of React?
+1. ### What is SDLC?
 
-    The major features of React are:
-
-    * It uses **VirtualDOM** instead of RealDOM considering that RealDOM manipulations are expensive.
-    * Supports **server-side rendering**.
-    * Follows **Unidirectional** data flow or data binding.
-    * Uses **reusable/composable** UI components to develop the view.
+    The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-
     
-2. ### How to create components in React?
+2. ### What are the phases of SDLC?
 
-    There are two possible ways to create a component.
+    The SDLC methodology consists  of the following phases of software development
 
-    1. **Function Components:** This is the simplest way to create a component. Those are pure JavaScript functions that accept props object as first parameter and return React elements:
-
-        ```jsx harmony
-        function Greeting({ message }) {
-          return <h1>{`Hello, ${message}`}</h1>
-
-        }
-        ```
-
-    2. **Class Components:** You can also use ES6 class to define a component. The above function component can be written as:
-
-        ```jsx harmony
-        class Greeting extends React.Component {
-          render() {
-            return <h1>{`Hello, ${this.props.message}`}</h1>
-          }
-        }
-        ```
+    1. **Stage 1 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
+    2. **Stage 2 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
+    3. **Stage 3 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
+    4. **Stage 4 – Planning**  You can also use ES6 class to define a component. The above function component can be written as:
+    5. **Stage 5 – Planning** You can also use ES6 class to define a component. The above function component can be written as:
+    6. **Stage 6 – Planning** You can also use ES6 class to define a component. The above function component can be written as:
 
 
    **[⬆ Back to Top](#table-of-contents)**
