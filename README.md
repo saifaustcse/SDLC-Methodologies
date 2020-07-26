@@ -3,37 +3,23 @@
 ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/backend.png)
 
 
-# SDLC Methodologies
+# Find me
 
-> Click :star:If you think that these can be improved in anyway, please do suggest. Pull Request are highly appreciated. Follow me [@Saif(https://www.linkedin.com/in/saif-aust-cse/) for technical updates.
+> If you think that these can be improved in anyway, please do suggest. Pull Request are highly appreciated. Follow me [@Saif(https://www.linkedin.com/in/saif-aust-cse/) for technical updates.
 
 
 ### Table of Contents
 
 | No. | Topic |
 | --- | --------- |
-|   | **Methodologies** |
-|1  | [What is React?](#what-is-react) |
-|2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
-|3  | [What is JSX?](#what-is-jsx) |
-|4  | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component) |
-|5  | [How to create components in React?](#how-to-create-components-in-react) |
-
-
-|   | **React Testing** |
-|146| [What is Shallow Renderer in React testing?](#what-is-shallow-renderer-in-react-testing) |
-|147| [What is TestRenderer package in React?](#what-is-testrenderer-package-in-react) |
-|148| [What is the purpose of ReactTestUtils package?](#what-is-the-purpose-of-reacttestutils-package) |
-|149| [What is Jest?](#what-is-jest) |
-|150| [What are the advantages of Jest over Jasmine?](#what-are-the-advantages-of-jest-over-jasmine) |
-|151| [Give a simple example of Jest test case](#give-a-simple-example-of-jest-test-case) |
+|1  | [What are the major features of React?](#what-are-the-major-features-of-react) |
+|2  | [How to create components in React?](#how-to-create-components-in-react) |
 
 
 ## Core React
 
-
-    
-2. ### What are the major features of React?
+  
+1. ### What are the major features of React?
 
     The major features of React are:
 
@@ -47,7 +33,7 @@
     
 
     
-5. ### How to create components in React?
+2. ### How to create components in React?
 
     There are two possible ways to create a component.
 
