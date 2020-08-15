@@ -28,20 +28,22 @@
     The SDLC methodology consists  of the following phases of software development:
     ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png)
 
-    1. **Stage 1 – Requirement Analysis/Planning**  The very first phase of the SDLC starts with requirement gathering. This is known as the planning stage. It is the most             important phase of the entire SDLC from the perspective of project managers and stakeholders.
-         The planning stage answers questions such as:
+    1. **Phases 1 – Requirement Analysis/Planning**  The very first phase of the SDLC starts with requirement gathering. This is known as the planning stage. It is the most             important phase of the entire SDLC from the perspective of project managers and stakeholders.
+        The planning stage answers questions such as:
 
         * How the software will be used?
         * What data will serve as the input of the software?
         * What data will be the output given by the software?
         * Who is going to use the software?
+        
+        
       
       
-    2. **Stage 2 – Design**  You can also use ES6 class to define a component. The above function component can be written as:
-    3. **Stage 3 – Development/Implementation**  You can also use ES6 class to define a component. The above function component can be written as:
-    4. **Stage 4 – Testing/Quality Assurance**  You can also use ES6 class to define a component. The above function component can be written as:
-    5. **Stage 5 – Deployment/Release** You can also use ES6 class to define a component. The above function component can be written as:
-    6. **Stage 6 – Maiantenance** You can also use ES6 class to define a component. The above function component can be written as:
+    2. **Phases 2 – Design**  You can also use ES6 class to define a component. The above function component can be written as:
+    3. **Phases 3 – Development/Implementation**  You can also use ES6 class to define a component. The above function component can be written as:
+    4. **Phases 4 – Testing/Quality Assurance**  You can also use ES6 class to define a component. The above function component can be written as:
+    5. **Phases 5 – Deployment/Release** You can also use ES6 class to define a component. The above function component can be written as:
+    6. **Phases 6 – Maiantenance** You can also use ES6 class to define a component. The above function component can be written as:
 
 
    **[⬆ Back to Top](#table-of-contents)**
