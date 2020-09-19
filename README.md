@@ -39,7 +39,7 @@
         * Who is going to use the software?
        
        **Sub Phase 2 –  Feasibility Study** 
-       In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of            resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
+        In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of           resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
         * Economic: Is it financially viable to invest in the project based on the available resources?
         * Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
         * Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
