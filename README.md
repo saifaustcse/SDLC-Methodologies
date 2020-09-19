@@ -11,7 +11,8 @@
 |2  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
 |3  | [Pros and Corns of SDLC](#Pros-and-Corns-of-SDLC ) |
 |4  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
-|4  | [Waterfall?](#Waterfall ) |
+|5  | [Waterfall](#Waterfall ) |
+|5  | [Waterfall](#Waterfall ) |
 
 ## Details 
 
@@ -96,8 +97,25 @@
       
               
 3. ### Waterfall
-  Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
-
+    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
+    
+    
+ 
+    Pros:
+   
+        **Sub Phase 1 –  Requirement Analysis** 
+        * How the software will be used?
+        * What data will serve as the input of the software?
+        * What data will be the output given by the software?
+        * Who is going to use the software?
+        
+    Cons:
+   
+        **Sub Phase 1 –  Requirement Analysis** 
+        * How the software will be used?
+        * What data will serve as the input of the software?
+        * What data will be the output given by the software?
+        * Who is going to use the software?
 .
 
 
