@@ -11,8 +11,8 @@
 |2  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
 |3  | [Pros and Corns of SDLC](#Pros-and-Corns-of-SDLC ) |
 |4  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
-|5  | [Waterfall](#Waterfall ) |
-|5  | [Waterfall](#Waterfall ) |
+|5  | [Waterfall Model](#Waterfall-Model ) |
+|6  | [Iterative Model](#Iterative-Model ) |
 
 ## Details 
 
@@ -69,7 +69,6 @@
         In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If         the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle. 
        
         Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the           code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases           such as oracle, MSSQL, MySQL, MongoDb are used for dumping data.
-            
         
     4. **Phase 4 – Testing/Quality Assurance** 
         In this phase systems integration and system testing (of programs and procedures)—normally carried out by a Quality Assurance (QA) professional—to determine if the               proposed design meets the initial set of business goals. Testing may be repeated, specifically to check for errors, bugs and interoperability. This testing will be               performed until the end user finds it acceptable.
@@ -87,16 +86,15 @@
    **[⬆ Back to Top](#table-of-contents)**
    
    
-2. ### Top-SDLC-methodologies
+4. ### Top-SDLC-methodologies
 
     ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
 
 
    **[⬆ Back to Top](#table-of-contents)**
   
-      
               
-3. ### Waterfall
+5. ### Waterfall Model
     Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
  
     <div  style="text-align: center;">
@@ -118,7 +116,27 @@
         * No working software module is produced until late during the life cycle.
         * The progress of the stage is hard to measure while it is still in the development
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
-.
+        
+
+   **[⬆ Back to Top](#table-of-contents)**
+   
+ 6. ### Iterative Model
+    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+    <div>
+
+    Pros:
+    
+        * Simple and easy to understand and use
+        * 
+        * 
+        
+    Cons:
+   
+        * Cannot accommodate changing requirements.
+        *
 
 
    **[⬆ Back to Top](#table-of-contents)**
