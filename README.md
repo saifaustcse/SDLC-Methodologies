@@ -123,8 +123,10 @@
    
     **[⬆ Back to Top](#table-of-contents)**
     
- 6. ### Iterative Model
-    Iterative Model 
+ 6. ### Iterative and incremental Model
+    The Iterative SDLC model does not need the full list of requirements before the project starts. The development process may start with implementation of a small set of the       software requirements and iteratively enhances the evolving versions until the complete system is implemented and ready to be deployed.
+   
+    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology. Each phase or iteration of the Iterative model           produces a newer, better version of the software under development. 
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
