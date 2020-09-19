@@ -1,6 +1,6 @@
 # Find me
 
-> If you think that these can be improved in anyway, please do suggest. Pull Request are highly appreciated. Follow me [@Saif(https://www.linkedin.com/in/saif-aust-cse/) for technical updates.
+> If you think that these can be improved in anyway, please do suggest. Pull Request are highly appreciated. Find me if you wish [@Saif(https://www.linkedin.com/in/saif-aust-cse/).
 
 
 ### Table of Contents
@@ -9,6 +9,7 @@
 | --- | --------- |
 |1  | [What is SDLC??](#what-is-SDLC) |
 |2  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
+|3  | [Pros and Corns of SDLC](#Pros-and-Corns-SDLC ) |
 |3  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
 |3  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
 
@@ -82,6 +83,16 @@
    **[⬆ Back to Top](#table-of-contents)**
    
        
+       
+              
+3. ### Pros-and-Corns-SDLC
+
+    ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
+
+
+   **[⬆ Back to Top](#table-of-contents)**
+  
+  
 2. ### Top-SDLC-methodologies
 
     ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
