@@ -123,7 +123,7 @@
    
     **[⬆ Back to Top](#table-of-contents)**
     
- 5. ### Iterative Model
+ 6. ### Iterative Model
     Iterative Model 
  
     <div  style="text-align: center;">
@@ -142,7 +142,27 @@
         * 
         * 
         * 
-   **[⬆ Back to Top](#table-of-contents)**
+    **[⬆ Back to Top](#table-of-contents)**
 
-  
+      
+ 7. ### Spiral Model
+    Spiral Model 
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+    <div>
+
+    Pros:
+    
+        * 
+        *
+        *
+        * 
+        
+    Cons:
+   
+        * 
+        * 
+        * 
+    **[⬆ Back to Top](#table-of-contents)**
 
