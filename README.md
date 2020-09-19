@@ -36,12 +36,8 @@
         * What data will serve as the input of the software?
         * What data will be the output given by the software?
         * Who is going to use the software?
-        
-       **Sub Phase 2 –  Defining Requirements**  
-        Once the requirement analysis is done the next step is to clearly define and document the product requirements and get them approved from the     
-        customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
-        
-       **Sub Phase 3 –  Feasibility Study** 
+       
+       **Sub Phase 2 –  Feasibility Study** 
        In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of            resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
         * Economic: Is it financially viable to invest in the project based on the available resources?
         * Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
@@ -50,11 +46,16 @@
         * Schedule: Can we finish the project in time?
         * Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
-    2. **Phases 2 – Design**  You can also use ES6 class to define a component. The above function component can be written as:
-    3. **Phases 3 – Development/Implementation**  You can also use ES6 class to define a component. The above function component can be written as:
-    4. **Phases 4 – Testing/Quality Assurance**  You can also use ES6 class to define a component. The above function component can be written as:
-    5. **Phases 5 – Deployment/Release** You can also use ES6 class to define a component. The above function component can be written as:
-    6. **Phases 6 – Maiantenance** You can also use ES6 class to define a component. The above function component can be written as:
+        **Sub Phase 3 –  Defining Requirements**  
+        Once the requirement analysis and feasibility ftudy is done the next step is to clearly define and document the product requirements and get them approved from the               customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
+        
+    2. **Phase 2 – Design**
+    The third phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system which will       be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It"s during this phase that they will     consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system to accomplish its objectives.
+   
+    3. **Phase 3 – Development/Implementation**  You can also use ES6 class to define a component. The above function component can be written as:
+    4. **Phase 4 – Testing/Quality Assurance**  You can also use ES6 class to define a component. The above function component can be written as:
+    5. **Phase 5 – Deployment/Release** You can also use ES6 class to define a component. The above function component can be written as:
+    6. **Phase 6 – Maiantenance** You can also use ES6 class to define a component. The above function component can be written as:
 
 
    **[⬆ Back to Top](#table-of-contents)**
