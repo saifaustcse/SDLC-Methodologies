@@ -102,12 +102,10 @@
     
  
     Pros:
-   
-        **Sub Phase 1 –  Requirement Analysis** 
-        * How the software will be used?
-        * What data will serve as the input of the software?
-        * What data will be the output given by the software?
-        * Who is going to use the software?
+        * Simple and easy to understand and use
+        * Each stage are clearly defined
+        * Process and results are well documented.
+        * Easy to manage due to the rigidity of the model. 
         
     Cons:
    
