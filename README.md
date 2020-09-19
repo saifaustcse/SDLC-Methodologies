@@ -13,6 +13,10 @@
 |4  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
 |5  | [Waterfall Model](#Waterfall-Model ) |
 |6  | [Iterative Model](#Iterative-Model ) |
+|7  | [Spiral Model](#Spiral-Model ) |
+|8  | [V-Model Model](#V-Model-Model ) |
+|9  | [RAD Model](#RAD-Model ) |
+|10 | [Prototype Model](#Prototype-Model ) |
 
 ## Details 
 
@@ -121,7 +125,7 @@
    **[⬆ Back to Top](#table-of-contents)**
    
  6. ### Iterative Model
-    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
+    Iterative .....
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
@@ -129,15 +133,66 @@
 
     Pros:
     
-        * Simple and easy to understand and use
+        * 
         * 
         * 
         
     Cons:
    
-        * Cannot accommodate changing requirements.
+        * 
         *
+        
+       
+  7. ### Spiral Model
+    Spiral .....
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+    <div>
 
+    Pros:
+    
+        * 
+        * 
+        * 
+        
+    Cons:
+   
+        * 
+
+  7. ### V-Model Model
+    V-Model .....
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+    <div>
+
+    Pros:
+    
+        * 
+        * 
+        * 
+        
+    Cons:
+   
+        *
+  
+  7. ### V-Model Model
+    V-Model .....
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+    <div>
+
+    Pros:
+    
+        * 
+        * 
+        * 
+        
+    Cons:
+   
+        *
 
    **[⬆ Back to Top](#table-of-contents)**
   
