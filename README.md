@@ -27,11 +27,10 @@
 2. ### What are the phases of SDLC?
 
     The SDLC methodology consists  of the following phases of software development:
+    
     <div  style="text-align: center;">
-         <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png " width="48">
+       <img src="https://github.com/saifaustcse/SDLC_Methodologies/raw/master/images/sdlc_1.png" alt="" style="max-width: 30%;">
     <div>
-  
-    ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png)
 
     1. **Phase 1 – Analysis/Planning**  
       The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders.       It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
