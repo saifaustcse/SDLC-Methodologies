@@ -35,16 +35,16 @@
         * What data will serve as the input of the software?
         * What data will be the output given by the software?
         * Who is going to use the software?
+        
      Defining Requirements: Once the requirement analysis is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
 
      Feasibility Study: In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
-
-Economic: Is it financially viable to invest in the project based on the available resources?
-Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
-Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
-Technical: What is the availability of technology and HR resources to support the SLDC process?
-Schedule: Can we finish the project in time?
-Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
+* Economic: Is it financially viable to invest in the project based on the available resources?
+* Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
+* Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
+* Technical: What is the availability of technology and HR resources to support the SLDC process?
+* Schedule: Can we finish the project in time?
+* Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
      
       
