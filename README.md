@@ -29,19 +29,19 @@
     ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png)
 
     1. **Phase 1 – Planning**  The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
-    Planning pahse can be divided in 3 sub pahses:
+         Planning pahse can be divided in 3 sub pahses:
     
-    **Sub Phase 1 –  Requirement Analysis** 
+        **Sub Phase 1 –  Requirement Analysis** 
         * How the software will be used?
         * What data will serve as the input of the software?
         * What data will be the output given by the software?
         * Who is going to use the software?
         
-     **Sub Phase 2 –  Defining Requirements**  
+       **Sub Phase 2 –  Defining Requirements**  
         Once the requirement analysis is done the next step is to clearly define and document the product requirements and get them approved from the     
         customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
         
-     **Sub Phase 2 –  Feasibility Study** 
+       **Sub Phase 3 –  Feasibility Study** 
        In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of            resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
         * Economic: Is it financially viable to invest in the project based on the available resources?
         * Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
