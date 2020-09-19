@@ -69,13 +69,14 @@
     4. **Phase 4 – Testing/Quality Assurance** 
         In this phase systems integration and system testing (of programs and procedures)—normally carried out by a Quality Assurance (QA) professional—to determine if the               proposed design meets the initial set of business goals. Testing may be repeated, specifically to check for errors, bugs and interoperability. This testing will be               performed until the end user finds it acceptable.
         
-        During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the             non-functional testing is carried out. Another part of this phase is verification and validation, both of which will help ensure the program"s successful completion.
+        During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the             non-functional testing is carried out.
     
     5. **Phase 5 – Deployment/Release** 
-        In this stage of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If         the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle. 
+        This phase is carried out right after the successful testing of the software product. It is simply delivering the software to the end-user or installing it onto the             customer’s system(s).
+        The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the developer team             working on the project afterward. Once all the changes are complete, the final deployment takes place.
 
     6. **Phase 6 – Maiantenance** 
-        In this stage of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If         the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle. 
+        The final phase involves maintenance and regular required updates. This step is when end users can fine-tune the system, if they wish, to boost performance, add new             capabilities or meet additional user requirements
 
 
    **[⬆ Back to Top](#table-of-contents)**
