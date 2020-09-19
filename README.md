@@ -27,8 +27,10 @@
 2. ### What are the phases of SDLC?
 
     The SDLC methodology consists  of the following phases of software development:
-    <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png " width="48">
-    
+    <div  style="text-align: center;">
+         <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png " width="48">
+    <div>
+  
     ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/sdlc_1.png)
 
     1. **Phase 1 – Analysis/Planning**  
