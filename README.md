@@ -9,11 +9,11 @@
 | --- | --------- |
 |1  | [What is SDLC??](#what-is-SDLC) |
 |2  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
-|3  | [Pros and Corns of SDLC](#Pros-and-Corns-SDLC ) |
-|3  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
-|3  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
+|3  | [Pros and Corns of SDLC](#Pros-and-Corns-of-SDLC ) |
+|4 | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
+|5 | [Waterfall?(Waterfall)|
 
-## Core React
+## Details 
 
   
 1. ### What is SDLC?
@@ -85,9 +85,31 @@
        
        
               
-3. ### Pros-and-Corns-SDLC
+3. ### Pros-and-Corns-of-SDLC
 
-    ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
+Disadvantages of using the SDLC emerge when there is a need for many iterations of the development or when stakeholders need to review the software being designed on a regular basis.
+
+Pros of SDLC:
+Ample documentation
+Comprehensive steps
+Ease of maintenance
+Effective development and design standards
+Evaluation of cost as well as completion targets
+Possibility to monitor full-scale projects
+Powerful control
+Precise user input
+Tolerates changes in MIS of staffing
+Cons of SDLC:
+Difficult to estimate costs and project overruns
+Inflexible to changes in requirements
+Increased development cost and development time
+Limited automation of document and standards
+Little parallelism
+The software is required to be thoroughly defined before beginning
+User input might be limited in some scenarios
+There are several alternatives to SDLC. The most popular one is the RAD or Rapid Application Development.
+
+RAD offers implementation of CASE tools, joint application development, and prototyping. Desirable advantages of RAD are active user involvement, faster approach, and reduced development cost.
 
 
    **[⬆ Back to Top](#table-of-contents)**
