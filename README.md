@@ -120,80 +120,29 @@
         * No working software module is produced until late during the life cycle.
         * The progress of the stage is hard to measure while it is still in the development
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
-        
+   
+    **[⬆ Back to Top](#table-of-contents)**
+    
+ 5. ### Iterative Model
+    Iterative Model 
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+    <div>
 
+    Pros:
+    
+        * 
+        *
+        *
+        * 
+        
+    Cons:
+   
+        * 
+        * 
+        * 
    **[⬆ Back to Top](#table-of-contents)**
-   
- 6. ### Iterative Model
-    Iterative .....
- 
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
-    <div>
 
-    Pros:
-    
-        * 
-        * 
-        * 
-        
-    Cons:
-   
-        * 
-        *
-        
-       
-  7. ### Spiral Model
-    Spiral .....
- 
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
-    <div>
-
-    Pros:
-    
-        * 
-        * 
-        * 
-        
-    Cons:
-   
-        * 
-
-  7. ### V-Model Model
-    V-Model .....
- 
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
-    <div>
-
-    Pros:
-    
-        * 
-        * 
-        * 
-        
-    Cons:
-   
-        *
-  
-  7. ### V-Model Model
-    V-Model .....
- 
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
-    <div>
-
-    Pros:
-    
-        * 
-        * 
-        * 
-        
-    Cons:
-   
-        *
-
-   **[⬆ Back to Top](#table-of-contents)**
   
 
