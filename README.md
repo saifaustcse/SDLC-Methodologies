@@ -113,7 +113,8 @@
     Cons:
    
         * Cannot accommodate changing requirements.
-        * Any change in the later stages would lead to cost higher as the changes would be required in all the phases
+        * Any change in the later stages would lead to cost higher as the changes would be required 
+          in all the phases
         * No working software module is produced until late during the life cycle.
         * The progress of the stage is hard to measure while it is still in the development
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
