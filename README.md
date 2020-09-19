@@ -98,10 +98,9 @@
               
 3. ### Waterfall
     Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
-    
-    
  
     Pros:
+    
         * Simple and easy to understand and use
         * Each stage are clearly defined
         * Process and results are well documented.
@@ -109,11 +108,11 @@
         
     Cons:
    
-        **Sub Phase 1 –  Requirement Analysis** 
-        * How the software will be used?
-        * What data will serve as the input of the software?
-        * What data will be the output given by the software?
-        * Who is going to use the software?
+        * Cannot accommodate changing requirements.
+        * Any change in the later stages would lead to cost higher as the changes would be required in all the phases
+        * No working software module is produced until late during the life cycle.
+        * The progress of the stage is hard to measure while it is still in the development
+        * Not suitable for the projects where requirements are at a moderate to high risk of changing.
 .
 
 
