@@ -12,7 +12,7 @@
 |3  | [Pros and Corns of SDLC](#Pros-and-Corns-of-SDLC ) |
 |4  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
 |5  | [Waterfall Model](#Waterfall-Model ) |
-|6  | [Iterative Model](#Iterative-Model ) |
+|6  | [Iterative and incremental Model](#Iterative-incremental-Model ) |
 |7  | [Spiral Model](#Spiral-Model ) |
 |8  | [V-Model Model](#V-Model-Model ) |
 |9  | [RAD Model](#RAD-Model ) |
