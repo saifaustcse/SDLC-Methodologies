@@ -106,8 +106,7 @@
     <div>
 
     Pros:
-    
-        * Simple and easy to understand and use
+
         * Each stage are clearly defined
         * Process and results are well documented.
         * Easy to manage due to the rigidity of the model. 
@@ -134,34 +133,29 @@
 
     Pros:
     
-        * Some working functionality can be developed quickly and early in the life cycle.
-        * Results are obtained early and periodically.
-        * Parallel development can be planned.
-        * Progress can be measured.
+        * It supports changing requirements.
         * Less costly to change the scope/requirements.
+        * Some working functionality can be developed quickly and early in the life cycle.
+        * With every increment, operational product is delivered.
+        * Results are obtained early and periodically.
+        * It delivers business value early in the development lifecycle
+        * Progress can be measured.
+        * Parallel development can be planned.
         * Testing and debugging during smaller iteration is easy.
         * Risks are identified and resolved during iteration; and each iteration is an easily managed milestone.
-        * Easier to manage risk - High risk part is done first.
-        * With every increment, operational product is delivered.
         * Issues, challenges and risks identified from each increment can be utilized/applied to the next increment.
-        * Risk analysis is better.
-        * It supports changing requirements.
-        * Initial Operating time is less.
-        * Better suited for large and mission-critical projects.
         * During the life cycle, software is produced early which facilitates customer evaluation and feedback.
         
     Cons:
    
-        * More resources may be required.
         * Although cost of change is lesser, but it is not very suitable for changing requirements.
+        * Each iteration is rigid
+        * More resources may be required.
         * More management attention is required.
-        * System architecture or design issues may arise because not all requirements are gathered in the beginning of the entire life cycle.
-        * Defining increments may require definition of the complete system.
-        * Not suitable for smaller projects.
         * Management complexity is more.
+        * System architecture or design issues may arise because not all requirements are gathered in the beginning of the entire life cycle.
         * End of project may not be known which is a risk.
         * Highly skilled resources are required for risk analysis.
-        * Projects progress is highly dependent upon the risk analysis phase
 
         
     **[⬆ Back to Top](#table-of-contents)**
