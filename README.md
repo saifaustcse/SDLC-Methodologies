@@ -13,10 +13,11 @@
 |4  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
 |5  | [Waterfall Model](#Waterfall-Model ) |
 |6  | [Iterative and incremental Model](#Iterative-and-incremental-Model ) |
-|7  | [Spiral Model](#Spiral-Model ) |
-|8  | [V-Model Model](#V-Model-Model ) |
-|9  | [RAD Model](#RAD-Model ) |
-|10 | [Prototype Model](#Prototype-Model ) |
+|7  | [Prototype Model](#Prototype-Model ) |
+|8  | [Spiral Model](#Spiral-Model ) |
+|9  | [V-Model Model](#V-Model-Model ) |
+|10 | [RAD Model](#RAD-Model ) |
+|11 | [Prototype Model](#Prototype-Model ) |
 
 ## Details 
 
@@ -105,6 +106,14 @@
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
     <div>
 
+    Use cases for the Waterfall model:
+        * This model is used only when the requirements are very well known, clear and fixed.
+        * Product definition is stable
+        * No ambiguous requirements
+        * The requirements are precisely documented
+        * The technologies stack is predefined which makes it not dynamic
+        * The project is short
+
     Pros:
 
         * Each stage are clearly defined
@@ -123,13 +132,18 @@
     **[⬆ Back to Top](#table-of-contents)**
     
  6. ### Iterative and incremental Model
-    The Iterative SDLC model does not need the full list of requirements before the project starts. The development process may start with implementation of a small set of the       software requirements and iteratively enhances the evolving versions until the complete system is implemented and ready to be deployed.
+    The Iterative SDLC model does not need the full list of requirements before the project starts. The development process may start with implementation of a small set of the software requirements and iteratively enhances the evolving versions until the complete system is implemented and ready to be deployed.
    
-    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology. Each phase or iteration of the Iterative model           produces a newer, better version of the software under development. 
+    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology. Each phase or iteration of the Iterative model produces a newer, better version of the software under development. 
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="500" height="300">
     <div>
+
+    Use cases for the Iterative and incremental model:
+
+        * This model can be used when the requirements of the complete system are clearly defined and understood.
+        * There is a need to get a functinal module of the product to the market early.
 
     Pros:
     
@@ -148,25 +162,58 @@
         
     Cons:
    
-        * Although cost of change is lesser, but it is not very suitable for changing requirements.
+        * Needs a clear and complete definition of the whole system before it can be broken down and built incrementally.
         * Each iteration is rigid
+        * Although cost of change is lesser, but it is not very suitable for changing requirements.
         * More resources may be required.
-        * More management attention is required.
-        * Management complexity is more.
-        * System architecture or design issues may arise because not all requirements are gathered in the beginning of the entire life cycle.
-        * End of project may not be known which is a risk.
         * Highly skilled resources are required for risk analysis.
+        * More management attention is required.
 
         
     **[⬆ Back to Top](#table-of-contents)**
 
       
- 7. ### Spiral Model
-    Spiral Model 
+ 7. ### Prototype Model
+
+    Prototyping Model is a software development model in which prototype is built, tested, and reworked until an acceptable prototype is achieved. It also creates base to produce the final system or software. It works best in scenarios where the project's requirements are not known in detail.
+
+    Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
     <div>
+
+    Use cases for the Waterfall model:
+
+        * It is used when user is not sure of the system, in other words requirements are incomplete.
+
+    Pros:
+    
+        * 
+        *
+        *
+        * 
+        
+    Cons:
+   
+        * 
+        * 
+        * 
+    **[⬆ Back to Top](#table-of-contents)**
+
+
+    7. ### Spiral Model
+
+    Spiral Model 
+
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+    <div>
+
+    Use cases for the Waterfall model:
+
+        * It is used when user is not sure of the system, in other words requirements are incomplete.
 
     Pros:
     
