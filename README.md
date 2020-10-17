@@ -134,7 +134,7 @@
     **[⬆ Back to Top](#table-of-contents)**
     
  6. ### Iterative and incremental Model
- 
+
     The Iterative SDLC model does not need the full list of requirements before the project starts. The development process may start with implementation of a small set of the software requirements and iteratively enhances the evolving versions until the complete system is implemented and ready to be deployed.
    
     The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology. Each phase or iteration of the Iterative model produces a newer, better version of the software under development. 
@@ -178,7 +178,11 @@
       
  7. ### Prototype Model
 
-    Prototyping Model is a software development model in which prototype is built, tested, and reworked until an acceptable prototype is achieved. It also creates base to produce the final system or software. It works best in scenarios where the project's requirements are not known in detail.
+    Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
+
+    Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
+
+    Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
 
     Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
  
@@ -186,22 +190,69 @@
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
     <div>
 
-    Use cases for the Waterfall model:
+
+    Use cases for the Prototype model:
 
         * It is used when user is not sure of the system, in other words requirements are incomplete.
 
     Pros:
     
-        * 
-        *
-        *
-        * 
+        * The prototype helps to gain a better understanding of the customer's needs.
+        * Prototypes can be changed and even discarded.
+        * During the entire cycle, the clients stay in the loop. Thus, transparency during the development is maintained 
+        * Prototyping Methodology is quite adaptive as any updates or new requirements are accommodated 
+        * It mitigates or eliminates  the risks before the actual product is developed 
+        * One can expect quality results with this SDLC process as any flaws can be identified and refined before the development initiates
+        * Increased user involvement in the product even before its implementation.
+        * Since a working model of the system is displayed, the users get a better understanding of the system being developed.
+        * Reduces time and cost as the defects can be detected much earlier.
+        * Quicker user feedback is available leading to better solutions.
+        * Missing functionality can be identified easily.
+        * Confusing or difficult functions can be identified.
+        * Prototype model reduces the cost and time of development as the defects are found much earlier.
+        * Missing feature or functionality or a change in requirement can be identified in the evaluation phase and 
+          can be implemented in the refined prototype.
+        * Involvement of a customer from the initial stage reduces any confusion in the requirement or understanding of any functionality.
+        * Users are actively involved in development. Therefore, errors can be detected in the initial stage of the software development process.
+        * Missing functionality can be identified, which helps to reduce the risk of failure as Prototyping is also * considered as a risk reduction activity.
+        * Helps team member to communicate effectively
+        * Customer satisfaction exists because the customer can feel the product at a very early stage.
+        * There will be hardly any chance of software rejection.
+        * Quicker user feedback helps you to achieve better software development solutions.
+        * Allows the client to compare if the software code matches the software specification.
+        * It helps you to find out the missing functionality in the system.
+        * It also identifies the complex or difficult functions.
+        * Encourages innovation and flexible designing.
+        * It is a straightforward model, so it is easy to understand.
+        * No need for specialized experts to build the model
+        * The prototype serves as a basis for deriving a system specification.
+        * The prototype helps to gain a better understanding of the customer's needs.
+        * Prototypes can be changed and even discarded.
+        * A prototype also serves as the basis for operational specifications.
+        * Prototypes may offer early training for future users of the software system.
         
     Cons:
    
-        * 
-        * 
-        * 
+        * It can be comparatively costly as more time and resources are required for prototyping 
+        * Revisions and updates affect the project workflow and duration
+        * Since the customer is involved in every phase, the customer can change the requirement of the end product   
+          which increases the complexity of the scope and may increase the delivery time of the product.
+        * Risk of insufficient requirement analysis owing to too much dependency on the prototype.
+        * Users may get confused in the prototypes and actual systems.
+        * Practically, this methodology may increase the complexity of the system as scope of the system may expand      beyond original plans.
+        * Developers may try to reuse the existing prototypes to build the actual system, even when it is not technically feasible.
+        * The effort invested in building prototypes may be too much if it is not monitored properly.
+        * Prototyping is a slow and time taking process.
+        * The cost of developing a prototype is a total waste as the prototype is ultimately thrown away.
+        * Prototyping may encourage excessive change requests.
+        * Some times customers may not be willing to participate in the iteration cycle for the longer time duration.
+        * There may be far too many variations in software requirements when each time the prototype is evaluated by the customer.
+        * Poor documentation because the requirements of the customers are changing.
+        * It is very difficult for software developers to accommodate all the changes demanded by the clients.
+        * After seeing an early prototype model, the customers may think that the actual product will be delivered to him soon.
+        * The client may lose interest in the final product when he or she is not happy with the initial prototype.
+        * Developers who want to build prototypes quickly may end up building sub-standard development solutions.
+
     **[⬆ Back to Top](#table-of-contents)**
 
 
