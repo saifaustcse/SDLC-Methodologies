@@ -180,15 +180,15 @@
 
     Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
 
-    Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
-
-    Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
-
     Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
     <div>
+
+    Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
+
+    Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
 
 
     Use cases for the Prototype model:
@@ -199,37 +199,15 @@
     
         * The prototype helps to gain a better understanding of the customer's needs.
         * Prototypes can be changed and even discarded.
-        * During the entire cycle, the clients stay in the loop. Thus, transparency during the development is maintained 
         * Prototyping Methodology is quite adaptive as any updates or new requirements are accommodated 
-        * It mitigates or eliminates  the risks before the actual product is developed 
-        * One can expect quality results with this SDLC process as any flaws can be identified and refined before the development initiates
         * Increased user involvement in the product even before its implementation.
-        * Since a working model of the system is displayed, the users get a better understanding of the system being developed.
-        * Reduces time and cost as the defects can be detected much earlier.
-        * Quicker user feedback is available leading to better solutions.
-        * Missing functionality can be identified easily.
-        * Confusing or difficult functions can be identified.
-        * Prototype model reduces the cost and time of development as the defects are found much earlier.
-        * Missing feature or functionality or a change in requirement can be identified in the evaluation phase and 
-          can be implemented in the refined prototype.
-        * Involvement of a customer from the initial stage reduces any confusion in the requirement or understanding of any functionality.
-        * Users are actively involved in development. Therefore, errors can be detected in the initial stage of the software development process.
-        * Missing functionality can be identified, which helps to reduce the risk of failure as Prototyping is also * considered as a risk reduction activity.
-        * Helps team member to communicate effectively
-        * Customer satisfaction exists because the customer can feel the product at a very early stage.
-        * There will be hardly any chance of software rejection.
-        * Quicker user feedback helps you to achieve better software development solutions.
-        * Allows the client to compare if the software code matches the software specification.
-        * It helps you to find out the missing functionality in the system.
+        * Allows the client to compare if the software code matches the software specification.   
+        * It mitigates or eliminates  the risks before the actual product is developed 
+        * Quicker client feedback is available leading to better solutions.
+        * Missing functionality can be identified in the evaluation phase and can be implemented in the refined prototype.
         * It also identifies the complex or difficult functions.
         * Encourages innovation and flexible designing.
-        * It is a straightforward model, so it is easy to understand.
         * No need for specialized experts to build the model
-        * The prototype serves as a basis for deriving a system specification.
-        * The prototype helps to gain a better understanding of the customer's needs.
-        * Prototypes can be changed and even discarded.
-        * A prototype also serves as the basis for operational specifications.
-        * Prototypes may offer early training for future users of the software system.
         
     Cons:
    
