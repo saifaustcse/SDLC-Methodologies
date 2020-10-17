@@ -100,6 +100,7 @@
   
               
 5. ### Waterfall Model
+
     Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
  
     <div  style="text-align: center;">
@@ -107,6 +108,7 @@
     <div>
 
     Use cases for the Waterfall model:
+
         * This model is used only when the requirements are very well known, clear and fixed.
         * Product definition is stable
         * No ambiguous requirements
@@ -132,6 +134,7 @@
     **[⬆ Back to Top](#table-of-contents)**
     
  6. ### Iterative and incremental Model
+ 
     The Iterative SDLC model does not need the full list of requirements before the project starts. The development process may start with implementation of a small set of the software requirements and iteratively enhances the evolving versions until the complete system is implemented and ready to be deployed.
    
     The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology. Each phase or iteration of the Iterative model produces a newer, better version of the software under development. 
