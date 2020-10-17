@@ -204,31 +204,25 @@
         * Allows the client to compare if the software code matches the software specification.   
         * It mitigates or eliminates  the risks before the actual product is developed 
         * Quicker client feedback is available leading to better solutions.
-        * Missing functionality can be identified in the evaluation phase and can be implemented in the refined prototype.
+        * Missing functionality identified in the evaluation phase and implemented in the refined prototype.
         * It also identifies the complex or difficult functions.
         * Encourages innovation and flexible designing.
         * No need for specialized experts to build the model
         
     Cons:
    
-        * It can be comparatively costly as more time and resources are required for prototyping 
-        * Revisions and updates affect the project workflow and duration
-        * Since the customer is involved in every phase, the customer can change the requirement of the end product   
-          which increases the complexity of the scope and may increase the delivery time of the product.
+        * Prototyping is a time consuming  process.
+        * It can be comparatively costly as more time and resources are required for prototyping
+        * The cost of developing a prototype is a total waste as the prototype is ultimately thrown away.
         * Risk of insufficient requirement analysis owing to too much dependency on the prototype.
         * Users may get confused in the prototypes and actual systems.
-        * Practically, this methodology may increase the complexity of the system as scope of the system may expand      beyond original plans.
         * Developers may try to reuse the existing prototypes to build the actual system, even when it is not technically feasible.
         * The effort invested in building prototypes may be too much if it is not monitored properly.
-        * Prototyping is a slow and time taking process.
-        * The cost of developing a prototype is a total waste as the prototype is ultimately thrown away.
         * Prototyping may encourage excessive change requests.
-        * Some times customers may not be willing to participate in the iteration cycle for the longer time duration.
         * There may be far too many variations in software requirements when each time the prototype is evaluated by the customer.
         * Poor documentation because the requirements of the customers are changing.
         * It is very difficult for software developers to accommodate all the changes demanded by the clients.
         * After seeing an early prototype model, the customers may think that the actual product will be delivered to him soon.
-        * The client may lose interest in the final product when he or she is not happy with the initial prototype.
         * Developers who want to build prototypes quickly may end up building sub-standard development solutions.
 
     **[⬆ Back to Top](#table-of-contents)**
