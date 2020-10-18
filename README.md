@@ -12,10 +12,10 @@
 |3  | [Pros and Corns of SDLC](#Pros-and-Corns-of-SDLC ) |
 |4  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
 |5  | [Waterfall Model](#Waterfall-Model ) |
-|6  | [Iterative and incremental Model](#Iterative-and-incremental-Model ) |
+|6  | [V-Model Model](#V-Model-Model ) |
 |7  | [Prototype Model](#Prototype-Model ) |
-|8  | [Spiral Model](#Spiral-Model ) |
-|9  | [V-Model Model](#V-Model-Model ) |
+|8  | [Iterative and incremental Model](#Iterative-and-incremental-Model ) |
+|9  | [Spiral Model](#Spiral-Model ) |
 |10 | [RAD Model](#RAD-Model ) |
 |11 | [Prototype Model](#Prototype-Model ) |
 
@@ -101,7 +101,7 @@
               
 5. ### Waterfall Model
 
-    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed     before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and     moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
+    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
@@ -132,50 +132,140 @@
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
    
     **[⬆ Back to Top](#table-of-contents)**
-    
- 6. ### Iterative and incremental Model
 
-    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.    
+6. ### V-Shaped Model
 
-    In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
+    V-shaped SDLC model is an expansion of classic waterfall model where each development activity is associated with a testing phase. It is also known as Verification and Validation model. 
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
     <div>
 
-    Use cases for the Iterative and incremental model:
+    The V-Model contains Verification phases on one side of the Validation phases on the other side. Verification and Validation process is joined by coding phase in V-shape. Thus it is known as V-Model.
 
-        * This model can be used when the requirements of the complete system are clearly defined and understood.
-        * There is a need to get a functinal module of the product to the market early.
+    **Verification:** It involves a static analysis method (review) done without executing code. It is the process of evaluation of the product development process to find whether specified requirements meet.
+
+    **Validation:** It involves dynamic analysis method (functional, non-functional), testing is done by executing code. Validation is the process to classify the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.
+
+    **V-Model - Verification Phases:**
+
+    1. **Business requirement analysis:** This is the first step where product requirements understood from the customer's side. This phase contains detailed communication to understand customer's expectations and exact requirements.
+
+    2. **System Design:** In this stage system engineers analyze and interpret the business of the proposed system by studying the user requirements document.
+
+    3. **Architecture Design:** The baseline in selecting the architecture is that it should understand all which typically consists of the list of modules, brief functionality of each module, their interface relationships, dependencies, database tables, architecture diagrams, technology detail, etc. The integration testing model is carried out in a particular phase.
+
+    4. **Module Design:** In the module design phase, the system breaks down into small modules. The detailed design of the modules is specified, which is known as Low-Level Design.
+
+    5. **Coding Phase:** After designing, the coding phase is started. Based on the requirements, a suitable programming language is decided. There are some guidelines and standards for coding. Before checking in the repository, the final build is optimized for better performance, and the code goes through many code reviews to check the performance.
+
+    **V-Model - Validation Phases:**
+
+    1. **Unit Testing:** Unit Test Plans are developed during module design phase. These Unit Test Plans are executed to eliminate bugs at code or unit level.
+
+    2. **Integration testing:** After completion of unit testing Integration testing is performed. In integration testing, the modules are integrated and the system is tested. Integration testing is performed on the Architecture design phase. This test verifies the communication of modules among themselves.
+
+    3. **System Testing:** System testing test the complete application with its functionality, inter dependency, and communication.It tests the functional and non-functional requirements of the developed application.
+
+    4. **User Acceptance Testing (UAT):** UAT is performed in a user environment that resembles the production environment. UAT verifies that the delivered system meets user’s requirement and system is ready for use in real world.
+
+    Use cases for the Waterfall model:
+
+        * This model is used only when the requirements are very well known, clear and fixed.
+        * Product definition is stable
+        * No ambiguous requirements
+        * The requirements are precisely documented
+        * The technologies stack is predefined which makes it not dynamic
+        * The project is short
+        * When the requirement is well defined and not ambiguous.
+        * The V-shaped model should be used for small to medium-sized projects where requirements are clearly defined and fixed.
+        * The V-shaped model should be chosen when sample technical resources are available with essential technical expertise.
+        * Requirements are well defined, clearly documented and fixed.
+        * Product definition is stable.
+        * Technology is not dynamic and is well understood by the project team.
+        * There are no ambiguous or undefined requirements.
+        * The project is short.
+        * The V-shaped model should be used for small to medium sized projects where requirements are clearly defined and fixed.
+        * The V-Shaped model should be chosen when ample technical resources are available with needed technical expertise.
+        * For the projects where an accurate product testing is required
+        * For the small and mid-sized projects, where requirements are strictly predefined
+        * The engineers of the required qualification, especially testers, are within easy reach.
+        * Where requirements are clearly defined and fixed.
+        * The V-Model is used when ample technical resources are available with technical expertise.
 
     Pros:
-    
-        * It supports changing requirements.
-        * Less costly to change the scope/requirements.
-        * Results are obtained early and periodically.
-        * With every increment, operational product is delivered.
-        * It delivers business value early in the development lifecycle
-        * Progress can be measured.
-        * Parallel development can be planned.
-        * Testing and debugging during smaller iteration is easy.
-        * Customer evaluation and feedback is available in each increment which leading to better solutions.
-        * Issues, challenges and risks identified from each increment can be resolved to the next increment.
-        
-        
+
+        * Ability to avoid the downward flow of defects
+        * An apt fit for small projects with easily understandable requirements
+        * Higher success chances
+        * Offers great ease and simplicity
+        * Proactive tracking of potential defects
+        * Saves a lot of time as planning and designing related to testing is done way before the actual coding takes place. 
+        * Every stage of V-shaped model has strict results so it’s easy to control	
+        * Testing and verification take place in the early stages	
+        * Good for the small projects, where requirements are static and clear	
+        * It is a simple and easily understandable model.
+        * V –model approach is good for smaller projects wherein the requirement is defined and it freezes in the early stage.
+        * It is a systematic and disciplined model which results in a high-quality product.
+        * Simple and easy to use.
+        * Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
+        * Proactive defect tracking – that is defects are found at early stage.
+        * Avoids the downward flow of the defects.
+        * Works well for small projects where requirements are easily understood.
+        * This is a highly-disciplined model and Phases are completed one at a time.
+        * Works well for smaller projects where requirements are very well understood.
+        * Simple and easy to understand and use.
+        * Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
+        * Covers all functional areas.
+        * Contains instructions and recommendations, which provide a detailed explanation of problems involved.
+        * Emphasizes the significance of testing and ensures that testing is planned.
+        * Easy to Understand.
+        * Testing Methods like planning, test designing happens well before coding.
+        * This saves a lot of time. Hence a higher chance of success over the waterfall model.
+        * Avoids the downward flow of the defects.
+        * Works well for small plans where requirements are easily understood.
+        * This is a highly disciplined model and Phases are completed one at a time.
+        * V-Model is used for small projects where project requirements are clear.
+        * Simple and easy to understand and use.
+        * This model focuses on verification and validation activities early in the life cycle thereby enhancing the probability of building an error-free and good quality product.
+        * It enables project management to track progress accurately.
+
     Cons:
    
-        * Needs a clear and complete definition of the whole system before it can be broken down and built incrementally.
-        * Each iteration is rigid
-        * Although cost of change is lesser, but it is not very suitable for changing requirements.
-        * More resources may be required.
-        * Highly skilled resources are required for risk analysis.
-        * More management attention is required.
+        * Even more rigid and less flexible than the Waterfall model
+        * No early prototype creation is possible as the software is developed during the implementation phase
+        * Requirement and test documents need to be updated if any changes had to be made amid the software development
+        * Lack of the flexibility
+        * Bad choice for the small projects
+        * Relatively big risk
+        * V-shaped model is not good for ongoing projects.
+        * Requirement change at the later stage would cost too high.
+        * Very rigid and least flexible.
+        * Software is developed during the implementation phase, so no early prototypes of the software are produced.
+        * If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+        * High risk and uncertainty.
+        * Not a good model for complex and object-oriented projects.
+        * Poor model for long and ongoing projects.
+        * Not suitable for the projects where requirements are at a moderate to high risk of changing.
+        * Once an application is in the testing stage, it is difficult to go back and change a functionality.
+        * No working software is produced until late during the life cycle.
+        * The processes are institutionalized during the project and when the project is finished, they are abolished.
+        * Very rigid and least flexible.
+        * Not a good for a complex project.
+        * Software is developed during the implementation stage, so no early prototypes of the software are produced.
+        * If any changes happen in the midway, then the test documents along with the required documents, has to be updated.
+        * High risk and uncertainty.
+        * It is not a good for complex and object-oriented projects.
+        * It is not suitable for projects where requirements are not clear and contains high risk of changing.
+        * This model does not support iteration of phases.
+        * It does not easily handle concurrent events.
 
-        
+
+    **Difference between V-model and Waterfall model:**
+   
     **[⬆ Back to Top](#table-of-contents)**
-
-      
- 7. ### Prototype Model
+    
+7. ### Prototype Model
 
     Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
 
@@ -226,8 +316,49 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
+8. ### Iterative and incremental Model
 
-    7. ### Spiral Model
+    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.    
+
+    In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="500" height="300">
+    <div>
+
+    Use cases for the Iterative and incremental model:
+
+        * This model can be used when the requirements of the complete system are clearly defined and understood.
+        * There is a need to get a functinal module of the product to the market early.
+
+    Pros:
+    
+        * It supports changing requirements.
+        * Less costly to change the scope/requirements.
+        * Results are obtained early and periodically.
+        * With every increment, operational product is delivered.
+        * It delivers business value early in the development lifecycle
+        * Progress can be measured.
+        * Parallel development can be planned.
+        * Testing and debugging during smaller iteration is easy.
+        * Customer evaluation and feedback is available in each increment which leading to better solutions.
+        * Issues, challenges and risks identified from each increment can be resolved to the next increment.
+        
+        
+    Cons:
+   
+        * Needs a clear and complete definition of the whole system before it can be broken down and built incrementally.
+        * Each iteration is rigid
+        * Although cost of change is lesser, but it is not very suitable for changing requirements.
+        * More resources may be required.
+        * Highly skilled resources are required for risk analysis.
+        * More management attention is required.
+
+        
+    **[⬆ Back to Top](#table-of-contents)**
+
+
+9. ### Spiral Model
 
     Spiral Model 
 
