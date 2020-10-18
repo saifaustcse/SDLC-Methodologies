@@ -152,16 +152,15 @@
     
         * It supports changing requirements.
         * Less costly to change the scope/requirements.
-        * Some working functionality can be developed quickly and early in the life cycle.
-        * With every increment, operational product is delivered.
         * Results are obtained early and periodically.
+        * With every increment, operational product is delivered.
         * It delivers business value early in the development lifecycle
         * Progress can be measured.
         * Parallel development can be planned.
         * Testing and debugging during smaller iteration is easy.
-        * Risks are identified and resolved during iteration; and each iteration is an easily managed milestone.
-        * Issues, challenges and risks identified from each increment can be utilized/applied to the next increment.
-        * During the life cycle, software is produced early which facilitates customer evaluation and feedback.
+        * Customer evaluation and feedback is available in each increment which leading to better solutions.
+        * Issues, challenges and risks identified from each increment can be resolved to the next increment.
+        
         
     Cons:
    
