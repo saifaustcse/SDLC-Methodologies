@@ -9,19 +9,17 @@
 | --- | --------- |
 |1  | [What is SDLC??](#what-is-SDLC) |
 |2  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
-|3  | [Pros and Corns of SDLC](#Pros-and-Corns-of-SDLC ) |
-|4  | [Top SDLC Methodologies?](#Top-SDLC-methodologies ) |
-|5  | [Waterfall Model](#Waterfall-Model ) |
-|6  | [V-Model Model](#V-Model-Model ) |
-|7  | [Prototype Model](#Prototype-Model ) |
-|8  | [Iterative and incremental Model](#Iterative-and-incremental-Model ) |
-|9  | [Spiral Model](#Spiral-Model ) |
-|10 | [RAD Model](#RAD-Model ) |
-|11 | [Prototype Model](#Prototype-Model ) |
+|3  | [Top SDLC Methodologies?](#top-SDLC-methodologies ) |
+|4  | [Waterfall Model](#waterfall-model ) |
+|5  | [V-Shaped Model](#v-shaped-model ) |
+|6  | [Prototype Model](#prototype-model ) |
+|7  | [Iterative and incremental Model](#iterative-and-incremental-Model ) |
+|8  | [Spiral Model](#spiral-Model ) |
+|9  | [RAD Model](#RAD-Model ) |
+|10 | [Prototype Model](#prototype-Model ) |
 
 ## Details 
 
-  
 1. ### What is SDLC?
 
     The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
@@ -91,7 +89,7 @@
    **[⬆ Back to Top](#table-of-contents)**
    
    
-4. ### Top-SDLC-methodologies
+3. ### Top-SDLC-methodologies
 
     ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
 
@@ -99,7 +97,7 @@
    **[⬆ Back to Top](#table-of-contents)**
   
               
-5. ### Waterfall Model
+4. ### Waterfall Model
 
     Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
  
@@ -133,7 +131,7 @@
    
     **[⬆ Back to Top](#table-of-contents)**
 
-6. ### V-Shaped Model
+5. ### V-Shaped Model
 
     V-shaped SDLC model is an expansion of classic waterfall model where each development activity is associated with a testing phase. It is also known as Verification and Validation model. 
  
@@ -265,7 +263,7 @@
    
     **[⬆ Back to Top](#table-of-contents)**
     
-7. ### Prototype Model
+6. ### Prototype Model
 
     Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
 
@@ -316,7 +314,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-8. ### Iterative and incremental Model
+7. ### Iterative and incremental Model
 
     The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.    
 
@@ -358,7 +356,7 @@
     **[⬆ Back to Top](#table-of-contents)**
 
 
-9. ### Spiral Model
+8. ### Spiral Model
 
     Spiral Model 
 
