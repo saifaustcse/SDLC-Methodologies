@@ -190,48 +190,36 @@
         * The engineers of the required qualification, especially testers, are within easy reach.
         * Where requirements are clearly defined and fixed.
         * The V-Model is used when ample technical resources are available with technical expertise.
+        * V-Model is used for small projects where project requirements are clear.
+        * Good for the small projects, where requirements are static and clear	
+        * An apt fit for small projects with easily understandable requirements
+        * Works well for small projects where requirements are easily understood.
+        * V –model approach is good for smaller projects wherein the requirement is defined and it freezes in the early stage.
+        * It is not suitable for projects where requirements are not clear and contains high risk of changing.
 
     Pros:
 
         * Ability to avoid the downward flow of defects
-        * An apt fit for small projects with easily understandable requirements
         * Higher success chances
-        * Offers great ease and simplicity
-        * Proactive tracking of potential defects
+        * Proactive defect tracking – that is defects are found at early stage.
         * Saves a lot of time as planning and designing related to testing is done way before the actual coding takes place. 
         * Every stage of V-shaped model has strict results so it’s easy to control	
         * Testing and verification take place in the early stages	
-        * Good for the small projects, where requirements are static and clear	
-        * It is a simple and easily understandable model.
-        * V –model approach is good for smaller projects wherein the requirement is defined and it freezes in the early stage.
         * It is a systematic and disciplined model which results in a high-quality product.
-        * Simple and easy to use.
-        * Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
-        * Proactive defect tracking – that is defects are found at early stage.
-        * Avoids the downward flow of the defects.
-        * Works well for small projects where requirements are easily understood.
-        * This is a highly-disciplined model and Phases are completed one at a time.
-        * Works well for smaller projects where requirements are very well understood.
         * Simple and easy to understand and use.
+        * Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
+        * This is a highly-disciplined model and Phases are completed one at a time.
         * Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
         * Covers all functional areas.
         * Contains instructions and recommendations, which provide a detailed explanation of problems involved.
         * Emphasizes the significance of testing and ensures that testing is planned.
-        * Easy to Understand.
-        * Testing Methods like planning, test designing happens well before coding.
-        * This saves a lot of time. Hence a higher chance of success over the waterfall model.
-        * Avoids the downward flow of the defects.
-        * Works well for small plans where requirements are easily understood.
-        * This is a highly disciplined model and Phases are completed one at a time.
-        * V-Model is used for small projects where project requirements are clear.
-        * Simple and easy to understand and use.
         * This model focuses on verification and validation activities early in the life cycle thereby enhancing the probability of building an error-free and good quality product.
         * It enables project management to track progress accurately.
 
     Cons:
    
         * Even more rigid and less flexible than the Waterfall model
-        * No early prototype creation is possible as the software is developed during the implementation phase
+        * No working software module is produced until late during the life cycle.
         * Requirement and test documents need to be updated if any changes had to be made amid the software development
         * Lack of the flexibility
         * Bad choice for the small projects
@@ -239,22 +227,14 @@
         * V-shaped model is not good for ongoing projects.
         * Requirement change at the later stage would cost too high.
         * Very rigid and least flexible.
-        * Software is developed during the implementation phase, so no early prototypes of the software are produced.
         * If any changes happen in midway, then the test documents along with requirement documents has to be updated.
         * High risk and uncertainty.
         * Not a good model for complex and object-oriented projects.
         * Poor model for long and ongoing projects.
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
         * Once an application is in the testing stage, it is difficult to go back and change a functionality.
-        * No working software is produced until late during the life cycle.
         * The processes are institutionalized during the project and when the project is finished, they are abolished.
-        * Very rigid and least flexible.
         * Not a good for a complex project.
-        * Software is developed during the implementation stage, so no early prototypes of the software are produced.
-        * If any changes happen in the midway, then the test documents along with the required documents, has to be updated.
-        * High risk and uncertainty.
-        * It is not a good for complex and object-oriented projects.
-        * It is not suitable for projects where requirements are not clear and contains high risk of changing.
         * This model does not support iteration of phases.
         * It does not easily handle concurrent events.
 
