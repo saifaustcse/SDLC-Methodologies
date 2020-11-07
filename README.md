@@ -136,7 +136,7 @@
     V-shaped SDLC model is an expansion of classic waterfall model where each development activity is associated with a testing phase. It is also known as Verification and Validation model. 
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/v-model.png" width="500" height="300">
     <div>
 
     The V-Model contains Verification phases on one side of the Validation phases on the other side. Verification and Validation process is joined by coding phase in V-shape. Thus it is known as V-Model.
@@ -250,7 +250,7 @@
     Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
     <div>
 
     Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
@@ -264,11 +264,11 @@
 
     Pros:
     
-        * The prototype helps to gain a better understanding of the customer's needs.
-        * Prototypes can be changed and even discarded.
         * Prototyping Methodology is quite adaptive as any updates or new requirements are accommodated 
+        * Prototypes can be changed and even discarded.
         * Increased user involvement in the product even before its implementation.
         * Allows the client to compare if the software code matches the software specification.   
+        * Helps to gain a better understanding of the customer's needs.
         * It mitigates or eliminates  the risks before the actual product is developed 
         * Quicker client feedback is available leading to better solutions.
         * Missing functionality identified in the evaluation phase and implemented in the refined prototype.
@@ -281,16 +281,17 @@
         * Prototyping is a time consuming  process.
         * It can be comparatively costly as more time and resources are required for prototyping
         * The cost of developing a prototype is a total waste as the prototype is ultimately thrown away.
-        * Risk of insufficient requirement analysis owing to too much dependency on the prototype.
-        * Users may get confused in the prototypes and actual systems.
-        * Developers may try to reuse the existing prototypes to build the actual system, even when it is not technically feasible.
         * The effort invested in building prototypes may be too much if it is not monitored properly.
+        * Poor documentation because the requirements of the customers are insufficient.
+        * Risk of insufficient requirement analysis owing to too much dependency on the prototype.
         * Prototyping may encourage excessive change requests.
         * There may be far too many variations in software requirements when each time the prototype is evaluated by the customer.
-        * Poor documentation because the requirements of the customers are changing.
         * It is very difficult for software developers to accommodate all the changes demanded by the clients.
+        * Users may get confused in the prototypes and actual systems.
         * After seeing an early prototype model, the customers may think that the actual product will be delivered to him soon.
         * Developers who want to build prototypes quickly may end up building sub-standard development solutions.
+        * Developers may try to reuse the existing prototypes to build the actual system, even when it is not technically feasible.
+        
 
     **[⬆ Back to Top](#table-of-contents)**
 
