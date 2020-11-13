@@ -7,14 +7,16 @@
 
 | No. | Topic |
 | --- | --------- |
-|1  | [What is SDLC??](#what-is-SDLC) |
+|1  | [What is SDLC?](#what-is-SDLC) |
 |2  | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC ) |
 |3  | [Top SDLC Methodologies?](#top-SDLC-methodologies ) |
 |4  | [Waterfall Model](#waterfall-model ) |
 |5  | [V-Shaped Model](#v-shaped-model ) |
-|6  | [Prototype Model](#prototype-model ) |
-|7  | [Iterative and incremental Model](#iterative-and-incremental-Model ) |
-|8  | [Spiral Model](#spiral-Model ) |
+|6  | [Difference between V-model and Waterfall model](#Difference-between-v-model-and-Waterfall-model ) |
+|7  | [Prototype Model](#prototype-model ) |
+|6  | [Difference between V-model and Prototype model](#Difference-between-v-model-and-prototype-model ) |
+|8  | [Iterative and incremental Model](#iterative-and-incremental-Model ) |
+|9  | [Spiral Model](#spiral-Model ) |
 |9  | [RAD Model](#RAD-Model ) |
 |10 | [Prototype Model](#prototype-Model ) |
 
@@ -56,7 +58,7 @@
         * Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
         **Sub Phase 3 –  Defining Requirements**  
-        Once the requirement analysis and feasibility ftudy is done the next step is to clearly define and document the product requirements and get them approved from the               customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
+        Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the               customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
         
     2. **Phase 2 – Design** 
       
@@ -108,11 +110,10 @@
     Use cases for the Waterfall model:
 
         * This model is used only when the requirements are very well known, clear and fixed.
-        * Product definition is stable
-        * No ambiguous requirements
+        * There are no ambiguous or undefined requirements.
         * The requirements are precisely documented
         * The technologies stack is predefined which makes it not dynamic
-        * The project is short
+        * The project is small or mid-sized 
 
     Pros:
 
@@ -170,32 +171,11 @@
     Use cases for the Waterfall model:
 
         * This model is used only when the requirements are very well known, clear and fixed.
-        * Product definition is stable
-        * No ambiguous requirements
+        * There are no ambiguous or undefined requirements.
         * The requirements are precisely documented
         * The technologies stack is predefined which makes it not dynamic
-        * The project is short
-        * When the requirement is well defined and not ambiguous.
-        * The V-shaped model should be used for small to medium-sized projects where requirements are clearly defined and fixed.
-        * The V-shaped model should be chosen when sample technical resources are available with essential technical expertise.
-        * Requirements are well defined, clearly documented and fixed.
-        * Product definition is stable.
-        * Technology is not dynamic and is well understood by the project team.
-        * There are no ambiguous or undefined requirements.
-        * The project is short.
-        * The V-shaped model should be used for small to medium sized projects where requirements are clearly defined and fixed.
-        * The V-Shaped model should be chosen when ample technical resources are available with needed technical expertise.
+        * The project is small or mid-sized 
         * For the projects where an accurate product testing is required
-        * For the small and mid-sized projects, where requirements are strictly predefined
-        * The engineers of the required qualification, especially testers, are within easy reach.
-        * Where requirements are clearly defined and fixed.
-        * The V-Model is used when ample technical resources are available with technical expertise.
-        * V-Model is used for small projects where project requirements are clear.
-        * Good for the small projects, where requirements are static and clear	
-        * An apt fit for small projects with easily understandable requirements
-        * Works well for small projects where requirements are easily understood.
-        * V –model approach is good for smaller projects wherein the requirement is defined and it freezes in the early stage.
-        * It is not suitable for projects where requirements are not clear and contains high risk of changing.
 
     Pros:
 
