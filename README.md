@@ -119,6 +119,7 @@
 
         * Each stage are clearly defined
         * Process and results are well documented.
+        * Simple and easy to understand and use.
         * Easy to manage due to the rigidity of the model. 
         
     Cons:
@@ -179,21 +180,14 @@
 
     Pros:
 
-        * Ability to avoid the downward flow of defects
-        * Higher success chances
-        * Proactive defect tracking – that is defects are found at early stage.
-        * Saves a lot of time as planning and designing related to testing is done way before the actual coding takes place. 
-        * Every stage of V-shaped model has strict results so it’s easy to control	
-        * Testing and verification take place in the early stages	
-        * It is a systematic and disciplined model which results in a high-quality product.
+        * Each stage are clearly defined
+        * Process and results are well documented.
         * Simple and easy to understand and use.
-        * Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
-        * This is a highly-disciplined model and Phases are completed one at a time.
-        * Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
+        * Easy to manage due to the rigidity of the model.
+        * Proactive defect tracking – that is defects are found at early stage.
+        * Testing and verification take place in the early stages thereby enhancing the probability of building an error-free and good quality product.
+        * Higher success chances
         * Covers all functional areas.
-        * Contains instructions and recommendations, which provide a detailed explanation of problems involved.
-        * Emphasizes the significance of testing and ensures that testing is planned.
-        * This model focuses on verification and validation activities early in the life cycle thereby enhancing the probability of building an error-free and good quality product.
         * It enables project management to track progress accurately.
 
     Cons:
