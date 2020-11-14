@@ -255,9 +255,10 @@
         * Users may get confused in the prototypes and actual systems.
         * After seeing an early prototype model, the customers may think that the actual product will be 
           delivered to him soon.
-        * Developers who want to build prototypes quickly may end up building sub-standard development solutions.
-        * Developers may try to reuse the existing prototypes to build the actual system, even when it is not 
-          technically feasible.
+        * Developers who want to build prototypes quickly may end up building sub-standard development 
+          solutions.
+        * Developers may try to reuse the existing prototypes to build the actual system, even when it is 
+          not technically feasible.
         
 
     **[⬆ Back to Top](#table-of-contents)**
