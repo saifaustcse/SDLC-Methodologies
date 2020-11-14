@@ -126,7 +126,7 @@
    
         * Cannot accommodate changing requirements.
         * Requirement change at the later stages would lead to cost higher as the changes would be required 
-        in all the phases
+          in all the phases
         * No working software module is produced until late during the life cycle.
         * The progress of the stage is hard to measure while it is still in the development
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
@@ -195,8 +195,9 @@
 
         * Cannot accommodate changing requirements.Even more rigid and less flexible than the Waterfall model.
         * Requirement change at the later stages would lead to cost higher as the changes would be required 
-        in all the phases
-        * Requirement and test documents need to be updated if any changes had to be made amid the software development
+          in all the phases
+        * Requirement and test documents need to be updated if any changes had to be made amid the software 
+          development
         * No working software module is produced until late during the life cycle.
         * The progress of the stage is hard to measure while it is still in the development
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
@@ -248,12 +249,15 @@
         * Poor documentation because the requirements of the customers are insufficient.
         * Risk of insufficient requirement analysis owing to too much dependency on the prototype.
         * Prototyping may encourage excessive change requests.
-        * There may be far too many variations in software requirements when each time the prototype is evaluated by the customer.
+        * There may be far too many variations in software requirements when each time the prototype is evaluated 
+          by the customer.
         * It is very difficult for software developers to accommodate all the changes demanded by the clients.
         * Users may get confused in the prototypes and actual systems.
-        * After seeing an early prototype model, the customers may think that the actual product will be delivered to him soon.
+        * After seeing an early prototype model, the customers may think that the actual product will be 
+          delivered to him soon.
         * Developers who want to build prototypes quickly may end up building sub-standard development solutions.
-        * Developers may try to reuse the existing prototypes to build the actual system, even when it is not technically feasible.
+        * Developers may try to reuse the existing prototypes to build the actual system, even when it is not 
+          technically feasible.
         
 
     **[⬆ Back to Top](#table-of-contents)**
@@ -270,7 +274,8 @@
 
     Use cases for the Iterative and incremental model:
 
-        * This model can be used when the requirements of the complete system are clearly defined and understood.
+        * This model can be used when the requirements of the complete system are clearly defined 
+          and understood.
         * There is a need to get a functinal module of the product to the market early.
 
     Pros:
@@ -289,7 +294,8 @@
         
     Cons:
    
-        * Needs a clear and complete definition of the whole system before it can be broken down and built incrementally.
+        * Needs a clear and complete definition of the whole system before it can be broken down and 
+          built incrementally.
         * Each iteration is rigid
         * Although cost of change is lesser, but it is not very suitable for changing requirements.
         * More resources may be required.
