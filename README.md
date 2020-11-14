@@ -125,8 +125,8 @@
     Cons:
    
         * Cannot accommodate changing requirements.
-        * Any change in the later stages would lead to cost higher as the changes would be required 
-          in all the phases
+        * Requirement change at the later stages would lead to cost higher as the changes would be required 
+        in all the phases
         * No working software module is produced until late during the life cycle.
         * The progress of the stage is hard to measure while it is still in the development
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
@@ -185,33 +185,22 @@
         * Simple and easy to understand and use.
         * Easy to manage due to the rigidity of the model.
         * Proactive defect tracking – that is defects are found at early stage.
-        * Testing and verification take place in the early stages thereby enhancing the probability of building an error-free and good quality product.
+        * Testing and verification take place in the early stages which leads to developing an error-free 
+          and good quality product.
         * Higher success chances
         * Covers all functional areas.
         * It enables project management to track progress accurately.
 
     Cons:
-   
-        * Even more rigid and less flexible than the Waterfall model
-        * No working software module is produced until late during the life cycle.
-        * Requirement and test documents need to be updated if any changes had to be made amid the software development
-        * Lack of the flexibility
-        * Bad choice for the small projects
-        * Relatively big risk
-        * V-shaped model is not good for ongoing projects.
-        * Requirement change at the later stage would cost too high.
-        * Very rigid and least flexible.
-        * If any changes happen in midway, then the test documents along with requirement documents has to be updated.
-        * High risk and uncertainty.
-        * Not a good model for complex and object-oriented projects.
-        * Poor model for long and ongoing projects.
-        * Not suitable for the projects where requirements are at a moderate to high risk of changing.
-        * Once an application is in the testing stage, it is difficult to go back and change a functionality.
-        * The processes are institutionalized during the project and when the project is finished, they are abolished.
-        * Not a good for a complex project.
-        * This model does not support iteration of phases.
-        * It does not easily handle concurrent events.
 
+        * Cannot accommodate changing requirements.Even more rigid and less flexible than the Waterfall model.
+        * Requirement change at the later stages would lead to cost higher as the changes would be required 
+        in all the phases
+        * Requirement and test documents need to be updated if any changes had to be made amid the software development
+        * No working software module is produced until late during the life cycle.
+        * The progress of the stage is hard to measure while it is still in the development
+        * Not suitable for the projects where requirements are at a moderate to high risk of changing.
+        * Not a good model for large or complex and object-oriented projects.
 
     **Difference between V-model and Waterfall model:**
    
