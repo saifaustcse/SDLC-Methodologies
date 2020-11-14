@@ -282,7 +282,7 @@
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
     <div>
 
-        **[⬆ Back to Top](#table-of-contents)**
+    **[⬆ Back to Top](#table-of-contents)**
 
 9. ### Iterative and incremental Model
 
@@ -336,7 +336,6 @@
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
     <div>
 
-       
     **[⬆ Back to Top](#table-of-contents)**
 
 11. ### Spiral Model
@@ -364,5 +363,6 @@
         * 
         * 
         * 
+        
     **[⬆ Back to Top](#table-of-contents)**
 
