@@ -249,8 +249,8 @@
         * Poor documentation because the requirements of the customers are insufficient.
         * Risk of insufficient requirement analysis owing to too much dependency on the prototype.
         * Prototyping may encourage excessive change requests.
-        * There may be far too many variations in software requirements when each time the prototype is evaluated 
-          by the customer.
+        * There may be far too many variations in software requirements when each time the prototype is 
+          evaluated by the customer.
         * It is very difficult for software developers to accommodate all the changes demanded by the clients.
         * Users may get confused in the prototypes and actual systems.
         * After seeing an early prototype model, the customers may think that the actual product will be 
