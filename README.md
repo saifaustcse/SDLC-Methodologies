@@ -211,7 +211,7 @@
 
 6. ### Difference between Waterfall and V-model:
 
-   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
@@ -276,11 +276,13 @@
 
 8. ### Difference between Waterfall and Prototype model
 
-   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
     <div>
+
+        **[⬆ Back to Top](#table-of-contents)**
 
 9. ### Iterative and incremental Model
 
@@ -326,14 +328,16 @@
     **[⬆ Back to Top](#table-of-contents)**
 
 
-
 10. ### Difference between Waterfall and Incremental model
 
-   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
  
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
     <div>
+
+       
+    **[⬆ Back to Top](#table-of-contents)**
 
 11. ### Spiral Model
 
