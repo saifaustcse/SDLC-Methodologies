@@ -207,6 +207,17 @@
    
     **[⬆ Back to Top](#table-of-contents)**
     
+
+
+7. ### Difference between V-model and Waterfall model:
+
+   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
+    <div>
+
+
 6. ### Prototype Model
 
     Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
