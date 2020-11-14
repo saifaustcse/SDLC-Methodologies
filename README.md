@@ -12,13 +12,14 @@
 |3  | [Top SDLC Methodologies?](#top-SDLC-methodologies ) |
 |4  | [Waterfall Model](#waterfall-model ) |
 |5  | [V-Shaped Model](#v-shaped-model ) |
-|6  | [Difference between V-model and Waterfall model](#Difference-between-v-model-and-Waterfall-model ) |
+|6  | [Difference between Waterfall and V-model](#Difference-between-Waterfall-and-v-model ) |
 |7  | [Prototype Model](#prototype-model ) |
-|6  | [Difference between V-model and Prototype model](#Difference-between-v-model-and-prototype-model ) |
-|8  | [Iterative and incremental Model](#iterative-and-incremental-Model ) |
-|9  | [Spiral Model](#spiral-Model ) |
-|9  | [RAD Model](#RAD-Model ) |
-|10 | [Prototype Model](#prototype-Model ) |
+|8  | [Difference between Waterfall and Prototype model](#Difference-between-Waterfall-and-prototype-model ) |
+|9  | [Iterative and incremental Model](#iterative-and-incremental-Model ) |
+|10 | [Difference between Waterfall and Incremental model](#Difference-between-Waterfall-and-Incremental-model ) |
+|11 | [Spiral Model](#spiral-Model ) |
+|12 | [RAD Model](#RAD-Model ) |
+|13 | [Prototype Model](#prototype-Model ) |
 
 ## Details 
 
@@ -206,10 +207,9 @@
     **Difference between V-model and Waterfall model:**
    
     **[⬆ Back to Top](#table-of-contents)**
-    
 
 
-7. ### Difference between V-model and Waterfall model:
+6. ### Difference between Waterfall and V-model:
 
    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
  
@@ -218,7 +218,7 @@
     <div>
 
 
-6. ### Prototype Model
+7. ### Prototype Model
 
     Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
 
@@ -274,7 +274,15 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-7. ### Iterative and incremental Model
+8. ### Difference between Waterfall and Prototype model
+
+   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
+    <div>
+
+9. ### Iterative and incremental Model
 
     The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.    
 
@@ -318,7 +326,16 @@
     **[⬆ Back to Top](#table-of-contents)**
 
 
-8. ### Spiral Model
+
+10. ### Difference between Waterfall and Incremental model
+
+   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+ 
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
+    <div>
+
+11. ### Spiral Model
 
     Spiral Model 
 
