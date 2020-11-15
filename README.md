@@ -18,8 +18,10 @@
 |9  | [Iterative and incremental Model](#iterative-and-incremental-Model ) |
 |10 | [Difference between Waterfall and Incremental model](#Difference-between-Waterfall-and-Incremental-model ) |
 |11 | [Spiral Model](#spiral-Model ) |
-|12 | [RAD Model](#RAD-Model ) |
-|13 | [Prototype Model](#prototype-Model ) |
+|12 | [Difference between Waterfall and Spiral model](#Difference-between-Waterfall-and-Spiral-model ) |
+|13 | [RAD Model](#RAD-Model ) |
+|14 | [Difference between Waterfall and Spiral model](#Difference-between-Waterfall-and-Spiral-model ) |
+|15 | [References](#references) |
 
 ## Details 
 
@@ -350,11 +352,13 @@
     Use cases for the Waterfall model:
 
         * Customer isn’t sure about the requirements
-        * Customer is not sure of their requirements which is usually the case.
-        * Requirements are complex and need evaluation to get clarity.
-        * projects with unclear or complex requirements
-        * Requirements are a bit complicated and require continuous clarification.
-
+        * Requirements are unclear or complicated and require continuous clarification.
+        * Significant changes are expected in the product during the development cycle.
+        * Frequent releases of modules are required.
+        * Customer evaluation and feedback 
+        * The new product that should be released in a few stages to have enough of clients feedback
+        * New product line which should be released in phases to get enough customer feedback.
+        
         * medium to high risk projects;
         * For medium to high-risk projects.
         * Where the software needs continuous risk evaluation.
@@ -362,20 +366,12 @@
         * When there is a budget constraint and risk evaluation is important.
         * The projects with mid or high-level risk, where it is important to prevent these risks
 
-        * Major edits are expected during the development cycle
-        * The new product that should be released in a few stages to have enough of clients feedback
-        * Long-term project commitment because of potential changes to economic priorities as the requirements change with time.
-        * New product line which should be released in phases to get enough customer feedback.
-        * Significant changes are expected in the product during the development cycle.
-        * projects in which frequent releases are necessary;
-        * projects in which changes may be required at any time;
-        * long term projects that are not feasible due to altered economic priorities;
-       
-        * projects that would benefit from the creation of a prototype; and
+        
         * When the project is large.
-        * Software requires significant changes.
         * Where enough time frame is their to get end user feedback.
-        * Where releases are required to be frequent.
+        * long term projects that are not feasible due to altered economic priorities;
+        * Long-term project commitment because of potential changes to economic priorities as the requirements change with time.
+
 
     Pros:
     
@@ -434,5 +430,27 @@
         * Documentation is more as it has intermediate phases.
         * It is costly for smaller projects.
         
+    **[⬆ Back to Top](#table-of-contents)**
+
+    
+11. ### References
+
+    I have followed many articles but among them, the following articles are really helpful. Those articles helped me a lot and also encourage me to write this article according to my understanding.
+ 
+     * [tutorialspoint](https://www.tutorialspoint.com/sdlc/index.htm)
+     * [Top 12 SDLC Methodologies with Pros and Cons](https://www.techuz.com/blog/top-12-sdlc-methodologies-with-pros-and-cons/)
+     * [SDLC Methodologies](https://svitla.com/blog/sdlc-methodologies)
+     * [Top 6 SDLC Methodologies And How To Choose The Best One?](https://www.goodcore.co.uk/blog/sdlc-methodologies/)
+     * [Top 7 SDLC Methodologies](https://hackr.io/blog/sdlc-methodologies)
+     * [SDLC Models Explained: Agile, Waterfall, V-Shaped, Iterative, Spiral](https://existek.com/blog/sdlc-models/)
+     * [TOP SOFTWARE DEVELOPMENT MODELS: THEIR PROS & CONS](https://cybercraftinc.com/blog/top-software-development-models-their-pros-cons)
+     * [SDLC (Software Development Life Cycle) Phases, Methodologies, Process, And Models](https://www.softwaretestinghelp.com/software-development-life-cycle-sdlc/)
+    * [Waterfall vs. Incremental vs. Spiral vs. Rad Model: Key Difference](https://www.guru99.com/compare-waterfall-vs-incremental-vs-spiral-vs-rad.html)
+    * [What are the Different Types of Agile Methodologies?](https://www.wrike.com/project-management-guide/faq/what-are-the-different-types-of-agile-methodologies/)
+    * [Agile Methodologies](https://www.blueprintsys.com/agile-development-101/agile-methodologies)
+    * [Difference between V-model and Waterfall model](https://www.geeksforgeeks.org/difference-between-v-model-and-waterfall-model/)
+    * [Choosing the right Software development life cycle model](https://melsatar.blog/2012/03/21/choosing-the-right-software-development-life-cycle-model/?fbclid=IwAR1mpCDGUxD0CuhdSWtgtHsUEXQWMtPi4aWCdG03P1p-bYoXXY9M_geNZl4)
+    * [Spiral Model – What Is SDLC Spiral Model?](https://www.softwaretestinghelp.com/spiral-model-what-is-sdlc-spiral-model/)
+
     **[⬆ Back to Top](#table-of-contents)**
 
