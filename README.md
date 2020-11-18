@@ -355,61 +355,36 @@
         * Requirements are unclear or complicated and require continuous clarification.
         * Significant changes are expected in the product during the development cycle.
         * Frequent releases of modules are required.
-        * Customer evaluation and feedback 
-        * The new product that should be released in a few stages to have enough of clients feedback
-        * New product line which should be released in phases to get enough customer feedback.
-        
-        * medium to high risk projects;
+        * Customer evaluation and feedback is required in each increment to develop a better solutions.
         * For medium to high-risk projects.
-        * Where the software needs continuous risk evaluation.
-        * projects in which cost and risk analysis is important;
-        * When there is a budget constraint and risk evaluation is important.
-        * The projects with mid or high-level risk, where it is important to prevent these risks
-
-        
-        * When the project is large.
-        * Where enough time frame is their to get end user feedback.
-        * long term projects that are not feasible due to altered economic priorities;
-        * Long-term project commitment because of potential changes to economic priorities as the requirements change with time.
+        * Projects in which needs continuous risk evaluation.
+        * It is suitable for large and complex project
 
 
     Pros:
     
-        * The spiral model is known for its flexibility as changes can be made on the later stage of the project 
-        * It is one the Software Development Life Cycle Methodologies that helps in mitigating the risk by analyzing and solving it beforehand 
-        * Clients are connected with the development team and project as they share the requirements and feedbacks of each phase 
-        * It is suitable for long-term and complex project
-        * Able to accommodate new changes or functionality at a later stage of the development
-        * As the prototype build is done in small increments, cost estimation becomes easy
-        * Better risk management with repeated development
-        * Emphasizes on customer feedback
-        * Faster development and systematic addition of features
-        * Risk Analysis is done extensively using the prototype models.
+        * Flexibility - requirements changes can be easily adopted and incorporated at the later stage of the development
+        * Requirements can be captured more accurately by emphasizing customer feedback of each phase 
         * Any enhancement or change in the functionality can be done in the next iteration.
-        * Changing requirements can be accommodated.
+        * Customer satisfaction - Customer evaluation and feedback is available in in every phase which allows them to voice 
+          dissatisfactions or make changes before the product is fully built, saving the development team time and money.
+        * Risk handling - The spiral model involves risk analysis and handling in every phase which improve security and     
+          mitigates the chances of attacks and breakages.
         * Allows extensive use of prototypes.
-        * Requirements can be captured more accurately.
         * Users see the system early.
-        * Development can be divided into smaller parts and the risky parts can be developed earlier which helps in better risk management.
-        * Flexibility - Changes made to the requirements after development has started can be easily adopted and incorporated.
-        * Risk handling - The spiral model involves risk analysis and handling in every phase, improving security and the chances of avoiding attacks and breakages. The iterative development process also facilitates risk management.
-        * Customer satisfaction - The spiral model facilitates customer feedback. If the software is being designed for a customer, then the customer will be able to see and evaluate their product in every phase. This allows them to voice dissatisfactions or make changes before the product is fully built, saving the development team time and money.
-        * Development is fast
-        * Larger projects / software are created and handled in a strategic way
-        * Risk evaluation is proper.
-        * Control towards all the phases of development.
         * More and more features are added in a systematic way.
-        * Software is produced early.
-        * Has room for customer feedback and the changes are implemented faster.
+
         
     Cons:
    
         * Requires high risk-analysing expertise 
+        * Demands risk management expertise
+        * High risk of not meeting budget or schedule deadlines
+
         * The project takes a significantly long time to develop, increasing the overall expense of the project 
         * It is complex to understand and implement 
         * Since the number of iteration are unknown, the time required to complete the project remains a mystery
-        * Demands risk management expertise
-        * High risk of not meeting budget or schedule deadlines
+       
         * Impractical for small projects
         * Much more documentation due to intermediate phases  
         * The spiral model is best suited for large projects only.
@@ -425,10 +400,12 @@
         * Complexity - The spiral model is more complex than other SDLC options. For it to operate efficiently, protocols must be followed closely. Furthermore, there is increased documentation since the model involves intermediate phases.
         * Hard to manage time - Going into the project, the number of required phases is often unknown, making time management almost impossible. Therefore, there is always a risk for falling behind schedule or going over budget.
         * Risk analysis is important phase so requires expert people.
-        * Is not beneficial for smaller projects.
         * Spiral may go infinitely.
-        * Documentation is more as it has intermediate phases.
         * It is costly for smaller projects.
+        * Is not beneficial for smaller projects.
+
+        * Documentation is more as it has intermediate phases.
+        
         
     **[⬆ Back to Top](#table-of-contents)**
 
