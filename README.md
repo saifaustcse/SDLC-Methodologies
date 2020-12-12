@@ -145,7 +145,7 @@
 
 5. ### V-Shaped Model
 
-   V-shaped SDLC model is an expansion of classic waterfall model where each development activity is associated with a testing phase. It is also known as Verification and   
+   V-shaped SDLC model is an expansion of classic waterfall model where each development activity is associated with a   testing phase. It is also known as Verification and   
    Validation model. 
  
    <div  style="text-align: center;">
@@ -221,18 +221,15 @@
 
 6. ### Similarities between Waterfall and V-model:
  
-   <div  style="text-align: center;">
+  <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_similarities.PNG" width="500" height="300">
-    <div>
+  <div>
 
-6. ### Difference between Waterfall and V-model:
+7. ### Difference between Waterfall and V-model:
 
-   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
- 
-   <div  style="text-align: center;">
+  <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_differences.PNG" width="500" height="300">
-    <div>
-
+  <div>
 
 7. ### Prototype Model
 
