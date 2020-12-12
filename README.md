@@ -45,15 +45,15 @@
    Planning pahse can be divided in 3 sub pahses:
 
       **Sub Phase 1 –  Requirement Analysis** 
-
+      
       * How the software will be used?
       * What data will serve as the input of the software?
       * What data will be the output given by the software?
       * Who is going to use the software?
 
       **Sub Phase 2 –  Feasibility Study** 
-
-      In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
+      
+      In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of           resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
       * Economic: Is it financially viable to invest in the project based on the available resources?
       * Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
       * Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
@@ -62,8 +62,8 @@
       * Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
       **Sub Phase 3 –  Defining Requirements**  
-
-      Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
+      
+      Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the               customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
       
 
     **Phase 2 – Design** 
