@@ -219,12 +219,18 @@
   **[⬆ Back to Top](#table-of-contents)**
 
 
+6. ### Similarities between Waterfall and V-model:
+ 
+   <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_similarities.PNG" width="500" height="300">
+    <div>
+
 6. ### Difference between Waterfall and V-model:
 
    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_differences.PNG" width="500" height="300">
     <div>
 
 
