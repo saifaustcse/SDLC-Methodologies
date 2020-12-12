@@ -49,6 +49,7 @@
       * What data will serve as the input of the software?
       * What data will be the output given by the software?
       * Who is going to use the software?
+      
 
       **Sub Phase 2 –  Feasibility Study** 
       In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of           resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
@@ -59,8 +60,10 @@
       * Schedule: Can we finish the project in time?
       * Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
+
       **Sub Phase 3 –  Defining Requirements**  
       Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the               customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
+      
 
     **Phase 2 – Design** 
 
