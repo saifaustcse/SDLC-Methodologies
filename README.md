@@ -29,7 +29,7 @@
    
    The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
 
-   **[⬆ Back to Top](#table-of-contents)**
+  **[⬆ Back to Top](#table-of-contents)**
     
     
 2. ### What are the phases of SDLC?
@@ -41,18 +41,19 @@
    <div>
 
    **Phase 1 – Analysis/Planning**  
-   The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders.        It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
+   The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
    Planning pahse can be divided in 3 sub pahses:
 
       **Sub Phase 1 –  Requirement Analysis** 
+
       * How the software will be used?
       * What data will serve as the input of the software?
       * What data will be the output given by the software?
       * Who is going to use the software?
-      
 
       **Sub Phase 2 –  Feasibility Study** 
-      In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of           resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
+
+      In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
       * Economic: Is it financially viable to invest in the project based on the available resources?
       * Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
       * Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
@@ -60,41 +61,41 @@
       * Schedule: Can we finish the project in time?
       * Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
-
       **Sub Phase 3 –  Defining Requirements**  
-      Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the               customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed         and developed during the project life cycle.
+
+      Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
       
 
     **Phase 2 – Design** 
 
-    This phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system which will           be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It"s during this phase that they         will consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system to accomplish its                 objectives.
+    This phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system which will be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It"s during this phase that they will consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system to accomplish its objectives.
 
-    SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, usually           more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
+    SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, usually more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
 
-    This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time                 constraints, the best design approach is selected for the product.
+    This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time constraints, the best design approach is selected for the product.
 
-    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third             party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.
+    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.
 
     **Phase 3 – Development/Implementation** 
         
-    In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If         the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle. 
+    In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle. 
 
-    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the           code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases           such as oracle, MSSQL, MySQL, MongoDb are used for dumping data.
+    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases           such as oracle, MSSQL, MySQL, MongoDb are used for dumping data.
 
     **Phase 4 – Testing/Quality Assurance** 
         
-    In this phase systems integration and system testing (of programs and procedures)—normally carried out by a Quality Assurance (QA) professional—to determine if the               proposed design meets the initial set of business goals. Testing may be repeated, specifically to check for errors, bugs and interoperability. This testing will be               performed until the end user finds it acceptable.
+    In this phase systems integration and system testing (of programs and procedures)—normally carried out by a Quality Assurance (QA) professional—to determine if the proposed design meets the initial set of business goals. Testing may be repeated, specifically to check for errors, bugs and interoperability. This testing will be               performed until the end user finds it acceptable.
 
-    During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the             non-functional testing is carried out.
+    During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the non-functional testing is carried out.
 
     **Phase 5 – Deployment/Release** 
     
-    This phase is carried out right after the successful testing of the software product. It is simply delivering the software to the end-user or installing it onto the             customer’s system(s).
-    The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the developer team             working on the project afterward. Once all the changes are complete, the final deployment takes place.
+    This phase is carried out right after the successful testing of the software product. It is simply delivering the software to the end-user or installing it onto the customer’s system(s).
+    The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the developer team working on the project afterward. Once all the changes are complete, the final deployment takes place.
 
     **Phase 6 – Maiantenance** 
 
-    The final phase involves maintenance and regular required updates. This step is when end users can fine-tune the system, if they wish, to boost performance, add new             capabilities or meet additional user requirements
+    The final phase involves maintenance and regular required updates. This step is when end users can fine-tune the system, if they wish, to boost performance, add new capabilities or meet additional user requirements
 
 
    **[⬆ Back to Top](#table-of-contents)**
@@ -102,10 +103,10 @@
    
 3. ### Top-SDLC-methodologies
 
-   ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
+  ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
 
 
-   **[⬆ Back to Top](#table-of-contents)**
+  **[⬆ Back to Top](#table-of-contents)**
   
               
 4. ### Waterfall Model
@@ -153,33 +154,33 @@
 
    The V-Model contains Verification phases on one side of the Validation phases on the other side. Verification and Validation process is joined by coding phase in V-shape. Thus it is known as V-Model.
 
-    **Verification:** It involves a static analysis method (review) done without executing code. It is the process of evaluation of the product development process to find whether specified requirements meet.
+   **Verification:** It involves a static analysis method (review) done without executing code. It is the process of evaluation of the product development process to find whether specified requirements meet.
 
-    **Validation:** It involves dynamic analysis method (functional, non-functional), testing is done by executing code. Validation is the process to classify the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.
+   **Validation:** It involves dynamic analysis method (functional, non-functional), testing is done by executing code. Validation is the process to classify the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.
 
-    **V-Model - Verification Phases:**
+   **V-Model - Verification Phases:**
 
-    1. **Business requirement analysis:** This is the first step where product requirements understood from the customer's side. This phase contains detailed communication to understand customer's expectations and exact requirements.
+   1. **Business requirement analysis:** This is the first step where product requirements understood from the customer's side. This phase contains detailed communication to understand customer's expectations and exact requirements.
 
-    2. **System Design:** In this stage system engineers analyze and interpret the business of the proposed system by studying the user requirements document.
+   2. **System Design:** In this stage system engineers analyze and interpret the business of the proposed system by studying the user requirements document.
 
-    3. **Architecture Design:** The baseline in selecting the architecture is that it should understand all which typically consists of the list of modules, brief functionality of each module, their interface relationships, dependencies, database tables, architecture diagrams, technology detail, etc. The integration testing model is carried out in a particular phase.
+   3. **Architecture Design:** The baseline in selecting the architecture is that it should understand all which typically consists of the list of modules, brief functionality of each module, their interface relationships, dependencies, database tables, architecture diagrams, technology detail, etc. The integration testing model is carried out in a particular phase.
 
-    4. **Module Design:** In the module design phase, the system breaks down into small modules. The detailed design of the modules is specified, which is known as Low-Level Design.
+   4. **Module Design:** In the module design phase, the system breaks down into small modules. The detailed design of the modules is specified, which is known as Low-Level Design.
 
-    5. **Coding Phase:** After designing, the coding phase is started. Based on the requirements, a suitable programming language is decided. There are some guidelines and standards for coding. Before checking in the repository, the final build is optimized for better performance, and the code goes through many code reviews to check the performance.
+   5. **Coding Phase:** After designing, the coding phase is started. Based on the requirements, a suitable programming language is decided. There are some guidelines and standards for coding. Before checking in the repository, the final build is optimized for better performance, and the code goes through many code reviews to check the performance.
 
-    **V-Model - Validation Phases:**
+   **V-Model - Validation Phases:**
 
-    1. **Unit Testing:** Unit Test Plans are developed during module design phase. These Unit Test Plans are executed to eliminate bugs at code or unit level.
+   1. **Unit Testing:** Unit Test Plans are developed during module design phase. These Unit Test Plans are executed to eliminate bugs at code or unit level.
 
-    2. **Integration testing:** After completion of unit testing Integration testing is performed. In integration testing, the modules are integrated and the system is tested. Integration testing is performed on the Architecture design phase. This test verifies the communication of modules among themselves.
+   2. **Integration testing:** After completion of unit testing Integration testing is performed. In integration testing, the modules are integrated and the system is tested. Integration testing is performed on the Architecture design phase. This test verifies the communication of modules among themselves.
 
-    3. **System Testing:** System testing test the complete application with its functionality, inter dependency, and communication.It tests the functional and non-functional requirements of the developed application.
+   3. **System Testing:** System testing test the complete application with its functionality, inter dependency, and communication.It tests the functional and non-functional requirements of the developed application.
 
-    4. **User Acceptance Testing (UAT):** UAT is performed in a user environment that resembles the production environment. UAT verifies that the delivered system meets user’s requirement and system is ready for use in real world.
+   4. **User Acceptance Testing (UAT):** UAT is performed in a user environment that resembles the production environment. UAT verifies that the delivered system meets user’s requirement and system is ready for use in real world.
 
-    Use cases for the Waterfall model:
+   Use cases for the Waterfall model:
 
         * This model is used only when the requirements are very well known, clear and fixed.
         * There are no ambiguous or undefined requirements.
@@ -213,38 +214,38 @@
         * Not suitable for the projects where requirements are at a moderate to high risk of changing.
         * Not a good model for large or complex and object-oriented projects.
 
-    **Difference between V-model and Waterfall model:**
+   **Difference between V-model and Waterfall model:**
    
-    **[⬆ Back to Top](#table-of-contents)**
+  **[⬆ Back to Top](#table-of-contents)**
 
 
 6. ### Difference between Waterfall and V-model:
 
-    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+   Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
  
-    <div  style="text-align: center;">
+   <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
     <div>
 
 
 7. ### Prototype Model
 
-    Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
+   Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
 
-    Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
+   Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
  
-    <div  style="text-align: center;">
+   <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
-    <div>
+   <div>
 
-    Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
+   Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
 
-    Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
+   Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
 
 
-    Use cases for the Prototype model:
+   Use cases for the Prototype model:
 
-        * It is used when user is not sure of the system, in other words requirements are incomplete.
+       * It is used when user is not sure of the system, in other words requirements are incomplete.
 
     Pros:
     
