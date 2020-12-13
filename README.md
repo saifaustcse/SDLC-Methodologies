@@ -225,7 +225,7 @@
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_similarities.PNG" width="500" height="300">
    <div>
 
-7. ### Difference between Waterfall and V-model:
+7. ### Differences between Waterfall and V-model:
  
    <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_differences.PNG" width="500" height="300">
@@ -287,15 +287,17 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-8. ### Difference between Waterfall and Prototype model
-
-    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
+6. ### Similarities between Waterfall and Prototype model:
  
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
-    <div>
+   <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="500" height="300">
+   <div>
 
-    **[⬆ Back to Top](#table-of-contents)**
+7. ### Differences between Waterfall and Prototype model:
+ 
+   <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="500" height="300">
+   <div>
 
 9. ### Iterative and incremental Model
 
@@ -340,6 +342,18 @@
         
     **[⬆ Back to Top](#table-of-contents)**
 
+
+6. ### Similarities between Waterfall and incremental model:
+ 
+   <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="500" height="300">
+   <div>
+
+7. ### Differences between Waterfall and incremental model:
+ 
+   <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="500" height="300">
+   <div>
 
 10. ### Difference between Waterfall and Incremental model
 
