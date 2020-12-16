@@ -404,14 +404,13 @@
 -   Each module is developed like the waterfall model.
 -   The process of RAD model is building the Rapid prototype and deliver it to the clients and taking the reviews from them . If customer is satisfied then SRS document is created and designing phase is start
 
-        <div  style="text-align: center;">
-              <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
-        <div>
+      <div  style="text-align: center;">
+            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
+      <div>
 
-        
-        <div  style="text-align: center;">
-              <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
-        <div>
+      <div  style="text-align: center;">
+            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
+      <div>
 
     Steps in Rapid Application Development
 
@@ -427,8 +426,7 @@
 
     2. Prototype
        This is where the actual development takes place. Instead of following a strict set of requirements, developers create prototypes with different features and functions as fast as they can. These prototypes are then shown to the clients who decide what they like and what they don’t.
-
-    More often than not, these prototypes are quickly made to work, just to show off certain features, without proper polish. This is normal, and the final product is only created during the finalization stage where the client and developer can both agree on the final product.
+       More often than not, these prototypes are quickly made to work, just to show off certain features, without proper polish. This is normal, and the final product is only created during the finalization stage where the client and developer can both agree on the final product.
 
     3. Receive Feedback
        In this stage, feedback on what’s good, what’s not, what works, and what doesn’t is shared. Feedback isn’t limited to just pure functionality, but also visuals and interfaces.
