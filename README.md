@@ -344,15 +344,15 @@
 
 14. ### Spiral Model
 
-In 1986, the spiral model was proposed by Barry Boehm.
-Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative software development model.
-This model is suitable for large and complex projects.
-Spiral model is based on spirals (iterations) to develop a project.
-A phase in the software development life cycle is a loop of the spiral.
-This model works very well for large projects because it involves constant improvements until a final product is not build.
+-   In 1986, the spiral model was proposed by Barry Boehm.
+-   Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative
+-   software development model.
+-   This model is suitable for large and complex projects.
+-   Spiral model is based on spirals (iterations) to develop a project.
+-   A phase in the software development life cycle is a loop of the spiral.
+-   This model works very well for large projects because it involves constant improvements until a final product is not build.
 
     Spiral Model
-
 
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="800" height="400">
@@ -379,7 +379,6 @@ This model works very well for large projects because it involves constant impro
         * Allows extensive use of prototypes.
         * Users see the system early.
         * More and more features are added in a systematic way.
-
 
     Cons:
 
