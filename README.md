@@ -394,6 +394,53 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
+14. ### RAD Rapid application development) Model
+
+-   In 1986, the spiral model was proposed by Barry Boehm.
+-   Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative
+-   software development model.
+-   This model is suitable for large and complex projects.
+-   Spiral model is based on spirals (iterations) to develop a project.
+-   A phase in the software development life cycle is a loop of the spiral.
+-   This model works very well for large projects because it involves constant improvements until a final product is not build.
+
+    Spiral Model
+
+       <div  style="text-align: center;">
+             <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
+       <div>
+
+    Use cases for the Waterfall model:
+
+        * Customer isn’t sure about the requirements
+        * Requirements are unclear or complicated and require continuous clarification.
+        * Frequent releases of modules are required.
+        * Customer evaluation and feedback is required in each increment to develop a better solutions.
+        * Significant changes are expected in the product during the development cycle.
+        * Projects in which needs continuous risk evaluation.
+        * It is suitable for large and complex project
+
+    Pros:
+
+        * RAD model completes the project in a short period of time.
+        * The progress and development of project can be check on various stages .
+        * This model uses the powerful techniques and tools.
+        * reduce cost because very less developers are needed.
+        * Prototype is delivered to the customer so the customer is satisfied.
+        * It has more flexibility and adaptability to acquire the new requirements.
+        * Reusability of the components is increased.
+
+    Cons:
+
+        * Team leader must to do work with developers to complete the work on time.
+        * Customer involvement are needed .
+        * There are no reusable component are used to lead the failure of the project .
+        * This model works only when the requirements are clearly specified.
+        * This model can be more complex if prototype is refined again and again.
+        * RAD model is not suitable for the short projects.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
 11. ### References
 
     I have followed many articles but among them, the following articles are really helpful. Those articles helped me a lot and also encourage me to write this article according to my understanding.
