@@ -396,52 +396,80 @@
 
 14. ### RAD Rapid application development) Model
 
--   In 1986, the spiral model was proposed by Barry Boehm.
--   Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative
--   software development model.
--   This model is suitable for large and complex projects.
--   Spiral model is based on spirals (iterations) to develop a project.
--   A phase in the software development life cycle is a loop of the spiral.
--   This model works very well for large projects because it involves constant improvements until a final product is not build.
+-   Rapid application development model firstly introduced by IBM in 1980’s.
+-   RAD Model is generally based on the prototype model and iterative approach.
+-   This model is used to completing the process of software product developing in a very short time.
+-   The entire project is divided into various small modules and each module is allocated to different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project.
+-   If your project can be divided into many parts or modules then the Rapid application development model is used.
+-   Each module is developed like the waterfall model.
+-   The process of RAD model is building the Rapid prototype and deliver it to the clients and taking the reviews from them . If customer is satisfied then SRS document is created and designing phase is start
 
-    Spiral Model
+        <div  style="text-align: center;">
+              <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
+        <div>
 
-       <div  style="text-align: center;">
-             <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
-       <div>
+        
+        <div  style="text-align: center;">
+              <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
+        <div>
+
+    Steps in Rapid Application Development
+
+    Although RAD has changed over the years, these four basic steps provide some continuity over the years.
+
+    Define the requirements
+    Prototype
+    Receive Feedback
+    Finalize Software
+
+    1. Define the Requirements
+       At the very beginning, rapid application development sets itself apart from traditional software development models. It doesn’t require you to sit with end users and get a detailed list of specifications; instead, it asks for a broad requirement. The broad nature of the requirements helps you give specific requirements at different points of the development cycle.
+
+    2. Prototype
+       This is where the actual development takes place. Instead of following a strict set of requirements, developers create prototypes with different features and functions as fast as they can. These prototypes are then shown to the clients who decide what they like and what they don’t.
+
+    More often than not, these prototypes are quickly made to work, just to show off certain features, without proper polish. This is normal, and the final product is only created during the finalization stage where the client and developer can both agree on the final product.
+
+    3. Receive Feedback
+       In this stage, feedback on what’s good, what’s not, what works, and what doesn’t is shared. Feedback isn’t limited to just pure functionality, but also visuals and interfaces.
+
+    With this feedback in mind, prototyping continues. These two steps are repeated until a final product can be realized that fits both the developers’ and client’s requirements.
+
+    4.  Finalize Software
+        Here, features, functions, aesthetics, and interface of the software are finalized with the client. Stability, usability, and maintainability are of paramount importance before delivering to the client.
 
     Use cases for the Waterfall model:
 
-        * Customer isn’t sure about the requirements
-        * Requirements are unclear or complicated and require continuous clarification.
-        * Frequent releases of modules are required.
-        * Customer evaluation and feedback is required in each increment to develop a better solutions.
-        * Significant changes are expected in the product during the development cycle.
-        * Projects in which needs continuous risk evaluation.
-        * It is suitable for large and complex project
+          * Customer isn’t sure about the requirements
+          * Requirements are unclear or complicated and require continuous clarification.
+          * Frequent releases of modules are required.
+          * Customer evaluation and feedback is required in each increment to develop a better solutions.
+          * Significant changes are expected in the product during the development cycle.
+          * Projects in which needs continuous risk evaluation.
+          * It is suitable for large and complex project
 
     Pros:
 
-        * RAD model completes the project in a short period of time.
-        * The progress and development of project can be check on various stages .
-        * This model uses the powerful techniques and tools.
-        * reduce cost because very less developers are needed.
-        * Prototype is delivered to the customer so the customer is satisfied.
-        * It has more flexibility and adaptability to acquire the new requirements.
-        * Reusability of the components is increased.
+          * RAD model completes the project in a short period of time.
+          * The progress and development of project can be check on various stages .
+          * This model uses the powerful techniques and tools.
+          * reduce cost because very less developers are needed.
+          * Prototype is delivered to the customer so the customer is satisfied.
+          * It has more flexibility and adaptability to acquire the new requirements.
+          * Reusability of the components is increased.
 
     Cons:
 
-        * Team leader must to do work with developers to complete the work on time.
-        * Customer involvement are needed .
-        * There are no reusable component are used to lead the failure of the project .
-        * This model works only when the requirements are clearly specified.
-        * This model can be more complex if prototype is refined again and again.
-        * RAD model is not suitable for the short projects.
+          * Team leader must to do work with developers to complete the work on time.
+          * Customer involvement are needed .
+          * There are no reusable component are used to lead the failure of the project .
+          * This model works only when the requirements are clearly specified.
+          * This model can be more complex if prototype is refined again and again.
+          * RAD model is not suitable for the short projects.
 
     **[⬆ Back to Top](#table-of-contents)**
 
-11. ### References
+5.  ### References
 
     I have followed many articles but among them, the following articles are really helpful. Those articles helped me a lot and also encourage me to write this article according to my understanding.
 
