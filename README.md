@@ -436,32 +436,31 @@
 
     Use cases for the Waterfall model:
 
-          * Customer isn’t sure about the requirements
-          * Requirements are unclear or complicated and require continuous clarification.
-          * Frequent releases of modules are required.
-          * Customer evaluation and feedback is required in each increment to develop a better solutions.
-          * Significant changes are expected in the product during the development cycle.
-          * Projects in which needs continuous risk evaluation.
-          * It is suitable for large and complex project
+        * When a system needs to be produced in a short span of time (2-3 months)
+        * When the requirements are known
+        * When the user will be involved all through the life cycle
+        * When technical risk is less
+        * When there is a necessity to create a system that can be modularized in 2-3 months of time
+        * When a budget is high enough to afford designers for modeling along with the cost of automated tools for code generation
 
     Pros:
 
-          * RAD model completes the project in a short period of time.
-          * The progress and development of project can be check on various stages .
-          * This model uses the powerful techniques and tools.
-          * reduce cost because very less developers are needed.
-          * Prototype is delivered to the customer so the customer is satisfied.
-          * It has more flexibility and adaptability to acquire the new requirements.
-          * Reusability of the components is increased.
+        * RAD model completes the project in a short period of time.
+        * The progress and development of project can be check on various stages .
+        * This model uses the powerful techniques and tools.
+        * reduce cost because very less developers are needed.
+        * Prototype is delivered to the customer so the customer is satisfied.
+        * It has more flexibility and adaptability to acquire the new requirements.
+        * Reusability of the components is increased.
 
     Cons:
 
-          * Team leader must to do work with developers to complete the work on time.
-          * Customer involvement are needed .
-          * There are no reusable component are used to lead the failure of the project .
-          * This model works only when the requirements are clearly specified.
-          * This model can be more complex if prototype is refined again and again.
-          * RAD model is not suitable for the short projects.
+        * Team leader must to do work with developers to complete the work on time.
+        * Customer involvement are needed .
+        * There are no reusable component are used to lead the failure of the project .
+        * This model works only when the requirements are clearly specified.
+        * This model can be more complex if prototype is refined again and again.
+        * RAD model is not suitable for the short projects.
 
     **[⬆ Back to Top](#table-of-contents)**
 
