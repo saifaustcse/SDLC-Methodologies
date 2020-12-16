@@ -37,7 +37,7 @@
    The SDLC methodology consists  of the following phases of software development:
     
    <div  style="text-align: center;">
-         <img src="https://github.com/saifaustcse/SDLC_Methodologies/raw/master/images/sdlc_1.png" width="300" height="300">
+         <img src="https://github.com/saifaustcse/SDLC_Methodologies/raw/master/images/sdlc_1.png" width="800" height="300">
    <div>
 
    **Phase 1 – Analysis/Planning**  
@@ -114,7 +114,7 @@
    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed      before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and    moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="800" height="450">
    <div>
 
    Use cases for the Waterfall model:
@@ -149,7 +149,7 @@
    Validation model. 
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/v-model.png" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/v-model.png" width="800" height="450">
    <div>
 
    The V-Model contains Verification phases on one side of the Validation phases on the other side. Verification and Validation process is joined by coding phase in V-shape. Thus it is known as V-Model.
@@ -222,13 +222,13 @@
 6. ### Similarities between Waterfall and V-model:
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_similarities.PNG" width="600" height="400">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_similarities.PNG" width="800" height="450">
    <div>
 
 7. ### Differences between Waterfall and V-model:
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_differences.PNG" width="600" height="150">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_differences.PNG" width="800" height="200">
    <div>
 
 7. ### Prototype Model
@@ -238,7 +238,7 @@
    Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="800" height="450">
    <div>
 
    Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
@@ -290,13 +290,13 @@
 6. ### Similarities between Waterfall and Prototype model:
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="600" height="200">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
    <div>
 
 7. ### Differences between Waterfall and Prototype model:
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="600" height="400">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="800" height="450">
    <div>
 
 9. ### Iterative and incremental Model
@@ -306,7 +306,7 @@
     In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="800" height="450">
     <div>
 
     Use cases for the Iterative and incremental model:
@@ -346,13 +346,13 @@
 6. ### Similarities between Waterfall and incremental model:
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="600" height="100">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
    <div>
 
 7. ### Differences between Waterfall and incremental model:
  
    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="600" height="450">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
    <div>
 
 10. ### Difference between Waterfall and Incremental model
@@ -360,7 +360,7 @@
     Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="800" height="400">
     <div>
 
     **[⬆ Back to Top](#table-of-contents)**
@@ -371,7 +371,7 @@
 
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral.png" width="500" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral.png" width="800" height="450">
     <div>
 
     Use cases for the Waterfall model:
