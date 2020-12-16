@@ -416,10 +416,10 @@
 
     Although RAD has changed over the years, these four basic steps provide some continuity over the years.
 
-    Define the requirements
-    Prototype
-    Receive Feedback
-    Finalize Software
+    -   Define the requirements
+    -   Prototype
+    -   Receive Feedback
+    -   Finalize Software
 
     1. Define the Requirements
        At the very beginning, rapid application development sets itself apart from traditional software development models. It doesn’t require you to sit with end users and get a detailed list of specifications; instead, it asks for a broad requirement. The broad nature of the requirements helps you give specific requirements at different points of the development cycle.
@@ -429,12 +429,10 @@
        More often than not, these prototypes are quickly made to work, just to show off certain features, without proper polish. This is normal, and the final product is only created during the finalization stage where the client and developer can both agree on the final product.
 
     3. Receive Feedback
-       In this stage, feedback on what’s good, what’s not, what works, and what doesn’t is shared. Feedback isn’t limited to just pure functionality, but also visuals and interfaces.
+       In this stage, feedback on what’s good, what’s not, what works, and what doesn’t is shared. Feedback isn’t limited to just pure functionality, but also visuals and interfaces. With this feedback in mind, prototyping continues. These two steps are repeated until a final product can be realized that fits both the developers’ and client’s requirements.
 
-    With this feedback in mind, prototyping continues. These two steps are repeated until a final product can be realized that fits both the developers’ and client’s requirements.
-
-    4.  Finalize Software
-        Here, features, functions, aesthetics, and interface of the software are finalized with the client. Stability, usability, and maintainability are of paramount importance before delivering to the client.
+    4. Finalize Software
+       Here, features, functions, aesthetics, and interface of the software are finalized with the client. Stability, usability, and maintainability are of paramount importance before delivering to the client.
 
     Use cases for the Waterfall model:
 
