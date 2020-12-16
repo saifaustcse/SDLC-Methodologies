@@ -378,22 +378,19 @@
 
         * Customer isn’t sure about the requirements
         * Requirements are unclear or complicated and require continuous clarification.
-        * Significant changes are expected in the product during the development cycle.
         * Frequent releases of modules are required.
         * Customer evaluation and feedback is required in each increment to develop a better solutions.
-        * For medium to high-risk projects.
+        * Significant changes are expected in the product during the development cycle.
         * Projects in which needs continuous risk evaluation.
         * It is suitable for large and complex project
 
-
     Pros:
     
-        * Flexibility - requirements changes can be easily adopted and incorporated at the later stage of the development
+        * Requirements changes can be easily adopted and incorporated at the later stage of the development
         * Requirements can be captured more accurately by emphasizing customer feedback of each phase 
         * Any enhancement or change in the functionality can be done in the next iteration.
-        * Customer satisfaction - Customer evaluation and feedback is available in in every phase which allows them to voice 
-          dissatisfactions or make changes before the product is fully built, saving the development team time and money.
-        * Risk handling - The spiral model involves risk analysis and handling in every phase which improve security and     
+        * Customer evaluation and feedback is available in each increment which leading to better solutions.
+        * Handling risk analysis in every phase which improve security and     
           mitigates the chances of attacks and breakages.
         * Allows extensive use of prototypes.
         * Users see the system early.
@@ -402,35 +399,15 @@
         
     Cons:
    
+        * It is complex to understand , manage and implement 
         * Requires high risk-analysing expertise 
         * Demands risk management expertise
-        * High risk of not meeting budget or schedule deadlines
 
-        * The project takes a significantly long time to develop, increasing the overall expense of the project 
-        * It is complex to understand and implement 
         * Since the number of iteration are unknown, the time required to complete the project remains a mystery
-       
-        * Impractical for small projects
-        * Much more documentation due to intermediate phases  
-        * The spiral model is best suited for large projects only.
-        * The cost can be high as it might take a large number of iterations which can lead to high time to reach the final product
-        * Management is more complex.
+        * The project takes a significantly long time to develop, increasing the overall expense of the project 
         * End of the project may not be known early.
-        * Not suitable for small or low risk projects and could be expensive for small projects.
-        * Process is complex
-        * Spiral may go on indefinitely.
+        * High risk for falling behind schedule or going over budget.
         * Large number of intermediate stages requires excessive documentation.
-        * High cost - The spiral model is expensive and, therefore, is not suitable for small projects.
-        * Dependence on risk analysis - Since successful completion of the project depends on effective risk handling, then it is necessary for involved personnel to have expertise in risk assessment.
-        * Complexity - The spiral model is more complex than other SDLC options. For it to operate efficiently, protocols must be followed closely. Furthermore, there is increased documentation since the model involves intermediate phases.
-        * Hard to manage time - Going into the project, the number of required phases is often unknown, making time management almost impossible. Therefore, there is always a risk for falling behind schedule or going over budget.
-        * Risk analysis is important phase so requires expert people.
-        * Spiral may go infinitely.
-        * It is costly for smaller projects.
-        * Is not beneficial for smaller projects.
-
-        * Documentation is more as it has intermediate phases.
-        
         
     **[⬆ Back to Top](#table-of-contents)**
 
