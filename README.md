@@ -355,23 +355,13 @@
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
    <div>
 
-10. ### Difference between Waterfall and Incremental model
-
-    Besides that v-model is the alternate of the waterfall model. There is some difference between these two models which are given below..
- 
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="800" height="400">
-    <div>
-
-    **[⬆ Back to Top](#table-of-contents)**
-
 11. ### Spiral Model
 
     Spiral Model 
 
  
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral.png" width="800" height="450">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="800" height="400">
     <div>
 
     Use cases for the Waterfall model:
