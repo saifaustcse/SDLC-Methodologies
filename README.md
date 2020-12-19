@@ -399,6 +399,9 @@
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="800" height="450">
     <div>
+     <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental_.png" width="800" height="450">
+    <div>
 
     Use cases for the Iterative and incremental model:
 
@@ -454,7 +457,7 @@
     In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
 
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="800" height="450">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/iterative.png" width="800" height="450">
     <div>
 
     Use cases for the Iterative and incremental model:
@@ -517,7 +520,7 @@
     Spiral Model
 
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="800" height="400">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_model.png" width="800" height="400">
     <div>
 
     Use cases for the Waterfall model:
