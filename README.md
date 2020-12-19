@@ -509,53 +509,49 @@
 
 20. ### Spiral Model
 
--   In 1986, the spiral model was proposed by Barry Boehm
--   Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative
--   software development model
--   This model is suitable for large and complex projects
--   Spiral model is based on spirals (iterations) to develop a project
--   A phase in the software development life cycle is a loop of the spiral
--   This model works very well for large projects because it involves constant improvements until a final product is not build
+    -   The spiral model is an evolutionary software process model that is a combination of the Iterative and Prototyping with the systematic, controlled aspects of the waterfall model.
+    -   It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
+    -   It has very high emphasis on risk analysis during each each iteration
 
     Spiral Model
 
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_model.png" width="800" height="400">
-    <div>
+      <div  style="text-align: center;">
+            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_model.png" width="800" height="400">
+      <div>
 
     Use cases for the Waterfall model:
 
-        * Customer isn’t sure about the requirements
-        * Requirements are unclear or complicated and require continuous clarification
-        * Frequent releases of modules are required
-        * Customer evaluation and feedback is required in each increment to develop a better solutions
-        * Significant changes are expected in the product during the development cycle
-        * Projects in which needs continuous risk evaluation
-        * It is suitable for large and complex project
+          * Customer isn’t sure about the requirements
+          * Requirements are unclear or complicated and require continuous clarification
+          * Frequent releases of modules are required
+          * Customer evaluation and feedback is required in each increment to develop a better solutions
+          * Significant changes are expected in the product during the development cycle
+          * Projects in which needs continuous risk evaluation
+          * It is suitable for large and complex project
 
     Pros:
 
-        * Requirements changes can be easily adopted and incorporated at the later stage of the development
-        * Requirements can be captured more accurately by emphasizing customer feedback of each phase
-        * Any enhancement or change in the functionality can be done in the next iteration
-        * Customer evaluation and feedback is available in each increment which leading to better solutions
-        * Handling risk analysis in every phase which improve security and
-          mitigates the chances of attacks and breakages
-        * Allows extensive use of prototypes
-        * Users see the system early
-        * More and more features are added in a systematic way
+          * Requirements changes can be easily adopted and incorporated at the later stage of the development
+          * Requirements can be captured more accurately by emphasizing customer feedback of each phase
+          * Any enhancement or change in the functionality can be done in the next iteration
+          * Customer evaluation and feedback is available in each increment which leading to better solutions
+          * Handling risk analysis in every phase which improve security and
+            mitigates the chances of attacks and breakages
+          * Allows extensive use of prototypes
+          * Users see the system early
+          * More and more features are added in a systematic way
 
     Cons:
 
-        * It is complex to understand , manage and implement
-        * Requires high risk-analysing expertise
-        * Demands risk management expertise
+          * It is complex to understand , manage and implement
+          * Requires high risk-analysing expertise
+          * Demands risk management expertise
 
-        * Since the number of iteration are unknown, the time required to complete the project remains a mystery
-        * The project takes a significantly long time to develop, increasing the overall expense of the project
-        * End of the project may not be known early
-        * High risk for falling behind schedule or going over budget
-        * Large number of intermediate stages requires excessive documentation
+          * Since the number of iteration are unknown, the time required to complete the project remains a mystery
+          * The project takes a significantly long time to develop, increasing the overall expense of the project
+          * End of the project may not be known early
+          * High risk for falling behind schedule or going over budget
+          * Large number of intermediate stages requires excessive documentation
 
     **[⬆ Back to Top](#table-of-contents)**
 
