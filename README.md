@@ -105,7 +105,7 @@
 
 4.  ### Waterfall Model
 
-    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and moves forward in a linear flow. This SDLC methodology is best fitted for small projects where deliverables can be defined clearly.
+    Waterfall is a sequential and linear flow for developing a software application. The process is outlined by a series of finite stages, each of which must be fully completed before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and moves forward in a linear flow.
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/waterfall.jpg" width="800" height="450">
@@ -113,8 +113,8 @@
 
     Use cases for the Waterfall model:
 
-        * This model is used only when the requirements are very well known, clear and fixed.
-        * There are no ambiguous or undefined requirements.
+        * This model is used only when the requirements are very well known, clear and fixed
+        * There are no ambiguous or undefined requirements
         * The requirements are precisely documented
         * The technologies stack is predefined which makes it not dynamic
         * The project is small or mid-sized
@@ -122,18 +122,18 @@
     Pros:
 
         * Each stage are clearly defined
-        * Process and results are well documented.
-        * Simple and easy to understand and use.
-        * Easy to manage due to the rigidity of the model.
+        * Process and results are well documented
+        * Simple and easy to understand and use
+        * Easy to manage due to the rigidity of the model
 
     Cons:
 
-        * Cannot accommodate changing requirements.
+        * Cannot accommodate changing requirements
         * Requirement change at the later stages would lead to cost higher as the changes would be required
           in all the phases
-        * No working software module is produced until late during the life cycle.
+        * No working software module is produced until late during the life cycle
         * The progress of the stage is hard to measure while it is still in the development
-        * Not suitable for the projects where requirements are at a moderate to high risk of changing.
+        * Not suitable for the projects where requirements are at a moderate to high risk of changing
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -175,8 +175,8 @@
 
     Use cases for the Waterfall model:
 
-          * This model is used only when the requirements are very well known, clear and fixed.
-          * There are no ambiguous or undefined requirements.
+          * This model is used only when the requirements are very well known, clear and fixed
+          * There are no ambiguous or undefined requirements
           * The requirements are precisely documented
           * The technologies stack is predefined which makes it not dynamic
           * The project is small or mid-sized
@@ -185,27 +185,28 @@
     Pros:
 
           * Each stage are clearly defined
-          * Process and results are well documented.
-          * Simple and easy to understand and use.
-          * Easy to manage due to the rigidity of the model.
-          * Proactive defect tracking – that is defects are found at early stage.
+          * Process and results are well documented
+          * Simple and easy to understand and use
+          * Easy to manage due to the rigidity of the model
+          * Proactive defect tracking – that is defects are found at early stage
           * Testing and verification take place in the early stages which leads to developing an error-free
-            and good quality product.
+            and good quality product
           * Higher success chances
-          * Covers all functional areas.
-          * It enables project management to track progress accurately.
+          * Covers all functional areas
+          * It enables project management to track progress accurately
 
     Cons:
 
-          * Cannot accommodate changing requirements.Even more rigid and less flexible than the Waterfall model.
+          * Cannot accommodate changing requirements. Even more rigid and less flexible than 
+            the Waterfall model
           * Requirement change at the later stages would lead to cost higher as the changes would be required
             in all the phases
           * Requirement and test documents need to be updated if any changes had to be made amid the software
             development
-          * No working software module is produced until late during the life cycle.
+          * No working software module is produced until late during the life cycle
           * The progress of the stage is hard to measure while it is still in the development
-          * Not suitable for the projects where requirements are at a moderate to high risk of changing.
-          * Not a good model for large or complex and object-oriented projects.
+          * Not suitable for the projects where requirements are at a moderate to high risk of changing
+          * Not a good model for large or complex and object-oriented projects
 
     **Difference between V-model and Waterfall model:**
 
@@ -225,7 +226,9 @@
 
 8.  ### Prototype Model
 
-    Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer. It works best in scenarios where the project's requirements are not known in detail.
+    Prototyping model is a software development model in which prototype is built, tested, and reworked until the model is accepted by the customer.
+
+    Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
 
     Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
 
@@ -233,47 +236,43 @@
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="800" height="450">
     <div>
 
-    Once the requirement gathering is done, the quick design is created and the prototype which is presented to the customer for evaluation is built.
-
-    Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
-
     Use cases for the Prototype model:
 
-        * It is used when user is not sure of the system, in other words requirements are incomplete.
+        * It is used when user is not sure of the system, in other words requirements are incomplete
 
     Pros:
 
          * Prototyping Methodology is quite adaptive as any updates or new requirements are accommodated
-         * Prototypes can be changed and even discarded.
-         * Increased user involvement in the product even before its implementation.
-         * Allows the client to compare if the software code matches the software specification.
-         * Helps to gain a better understanding of the customer's needs.
+         * Prototypes can be changed and even discarded
+         * Increased user involvement in the product even before its implementation
+         * Allows the client to compare if the software code matches the software specification
+         * Helps to gain a better understanding of the customer's needs
          * It mitigates or eliminates  the risks before the actual product is developed
-         * Quicker client feedback is available leading to better solutions.
-         * Missing functionality identified in the evaluation phase and implemented in the refined prototype.
-         * It also identifies the complex or difficult functions.
-         * Encourages innovation and flexible designing.
+         * Quicker client feedback is available leading to better solutions
+         * Missing functionality identified in the evaluation phase and implemented in the refined prototype
+         * It also identifies the complex or difficult functions
+         * Encourages innovation and flexible designing
          * No need for specialized experts to build the model
 
     Cons:
 
-         * Prototyping is a time consuming  process.
+         * Prototyping is a time consuming  process
          * It can be comparatively costly as more time and resources are required for prototyping
-         * The cost of developing a prototype is a total waste as the prototype is ultimately thrown away.
-         * The effort invested in building prototypes may be too much if it is not monitored properly.
-         * Poor documentation because the requirements of the customers are insufficient.
+         * The cost of developing a prototype is a total waste as the prototype is ultimately thrown away
+         * The effort invested in building prototypes may be too much if it is not monitored properly
+         * Poor documentation because the requirements of the customers are insufficient
          * Risk of insufficient requirement analysis owing to too much dependency on the prototype.
-         * Prototyping may encourage excessive change requests.
+         * Prototyping may encourage excessive change requests
          * There may be far too many variations in software requirements when each time the prototype is
-           evaluated by the customer.
+           evaluated by the customer
          * It is very difficult for software developers to accommodate all the changes demanded by the clients.
-         * Users may get confused in the prototypes and actual systems.
+         * Users may get confused in the prototypes and actual systems
          * After seeing an early prototype model, the customers may think that the actual product will be
-           delivered to him soon.
+           delivered to him soon
          * Developers who want to build prototypes quickly may end up building sub-standard development
-           solutions.
+           solutions
          * Developers may try to reuse the existing prototypes to build the actual system, even when it is
-           not technically feasible.
+           not technically feasible
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -302,31 +301,31 @@
     Use cases for the Iterative and incremental model:
 
         * This model can be used when the requirements of the complete system are clearly defined
-          and understood.
-        * There is a need to get a functinal module of the product to the market early.
+          and understood
+        * There is a need to get a functinal module of the product to the market early
 
     Pros:
 
-        * It supports changing requirements.
-        * Less costly to change the scope/requirements.
-        * Results are obtained early and periodically.
-        * With every increment, operational product is delivered.
+        * It supports changing requirements
+        * Less costly to change the scope/requirements
+        * Results are obtained early and periodically
+        * With every increment, operational product is delivered
         * It delivers business value early in the development lifecycle
-        * Progress can be measured.
-        * Parallel development can be planned.
-        * Testing and debugging during smaller iteration is easy.
-        * Customer evaluation and feedback is available in each increment which leading to better solutions.
-        * Issues, challenges and risks identified from each increment can be resolved to the next increment.
+        * Progress can be measured
+        * Parallel development can be planned
+        * Testing and debugging during smaller iteration is easy
+        * Customer evaluation and feedback is available in each increment which leading to better solutions
+        * Issues, challenges and risks identified from each increment can be resolved to the next increment
 
     Cons:
 
         * Needs a clear and complete definition of the whole system before it can be broken down and
-          built incrementally.
+          built incrementally
         * Each iteration is rigid
-        * Although cost of change is lesser, but it is not very suitable for changing requirements.
-        * More resources may be required.
-        * Highly skilled resources are required for risk analysis.
-        * More management attention is required.
+        * Although cost of change is lesser, but it is not very suitable for changing requirements
+        * More resources may be required
+        * Highly skilled resources are required for risk analysis
+        * More management attention is required
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -344,13 +343,13 @@
 
 14. ### Spiral Model
 
--   In 1986, the spiral model was proposed by Barry Boehm.
+-   In 1986, the spiral model was proposed by Barry Boehm
 -   Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative
--   software development model.
--   This model is suitable for large and complex projects.
--   Spiral model is based on spirals (iterations) to develop a project.
--   A phase in the software development life cycle is a loop of the spiral.
--   This model works very well for large projects because it involves constant improvements until a final product is not build.
+-   software development model
+-   This model is suitable for large and complex projects
+-   Spiral model is based on spirals (iterations) to develop a project
+-   A phase in the software development life cycle is a loop of the spiral
+-   This model works very well for large projects because it involves constant improvements until a final product is not build
 
     Spiral Model
 
@@ -361,24 +360,24 @@
     Use cases for the Waterfall model:
 
         * Customer isn’t sure about the requirements
-        * Requirements are unclear or complicated and require continuous clarification.
-        * Frequent releases of modules are required.
-        * Customer evaluation and feedback is required in each increment to develop a better solutions.
-        * Significant changes are expected in the product during the development cycle.
-        * Projects in which needs continuous risk evaluation.
+        * Requirements are unclear or complicated and require continuous clarification
+        * Frequent releases of modules are required
+        * Customer evaluation and feedback is required in each increment to develop a better solutions
+        * Significant changes are expected in the product during the development cycle
+        * Projects in which needs continuous risk evaluation
         * It is suitable for large and complex project
 
     Pros:
 
         * Requirements changes can be easily adopted and incorporated at the later stage of the development
         * Requirements can be captured more accurately by emphasizing customer feedback of each phase
-        * Any enhancement or change in the functionality can be done in the next iteration.
-        * Customer evaluation and feedback is available in each increment which leading to better solutions.
+        * Any enhancement or change in the functionality can be done in the next iteration
+        * Customer evaluation and feedback is available in each increment which leading to better solutions
         * Handling risk analysis in every phase which improve security and
-          mitigates the chances of attacks and breakages.
-        * Allows extensive use of prototypes.
-        * Users see the system early.
-        * More and more features are added in a systematic way.
+          mitigates the chances of attacks and breakages
+        * Allows extensive use of prototypes
+        * Users see the system early
+        * More and more features are added in a systematic way
 
     Cons:
 
@@ -388,9 +387,9 @@
 
         * Since the number of iteration are unknown, the time required to complete the project remains a mystery
         * The project takes a significantly long time to develop, increasing the overall expense of the project
-        * End of the project may not be known early.
-        * High risk for falling behind schedule or going over budget.
-        * Large number of intermediate stages requires excessive documentation.
+        * End of the project may not be known early
+        * High risk for falling behind schedule or going over budget
+        * Large number of intermediate stages requires excessive documentation
 
     **[⬆ Back to Top](#table-of-contents)**
 
