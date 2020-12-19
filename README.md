@@ -513,17 +513,27 @@
     -   It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
     -   It has very high emphasis on risk analysis during each each iteration
 
-    Spiral Model
-
       <div  style="text-align: center;">
             <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_model.png" width="800" height="400">
       <div>
+
+    Each loop of the spiral is called a Phase of the software development process. Each phase of Spiral Model is divided into four quadrants as shown in the above figure. The functions of these four quadrants are discussed below-
+
+    1. **Determining objectives, alternatives and constraints:** 
+    Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.
+    2. **Evaluating alternatives, identifying and resolving risks:**  
+    During the second quadrant all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution is identified and the risks are resolved using the best possible strategy. At the end of this quadrant, Prototype is built for the best possible solution.
+    3. **Develop and verify next level project:**
+    During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
+    4. **Review and plan for the next Phase:** 
+    In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.
 
     Use cases for the Waterfall model:
 
           * Customer isn’t sure about the requirements
           * Requirements are unclear or complicated and require continuous clarification
           * Frequent releases of modules are required
+          * When creation of a prototype is applicable
           * Customer evaluation and feedback is required in each increment to develop a better solutions
           * Significant changes are expected in the product during the development cycle
           * Projects in which needs continuous risk evaluation
