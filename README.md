@@ -11,16 +11,24 @@
 | 3   | [Top SDLC Methodologies?](#top-SDLC-methodologies)                                                        |
 | 4   | [Waterfall Model](#waterfall-model)                                                                       |
 | 5   | [V-Shaped Model](#v-shaped-model)                                                                         |
-| 6   | [Difference between Waterfall and V-model](#Difference-between-Waterfall-and-v-model)                     |
-| 7   | [Prototype Model](#prototype-model)                                                                       |
-| 8   | [Difference between Waterfall and Prototype model](#Difference-between-Waterfall-and-prototype-model)     |
-| 9   | [Iterative and incremental Model](#iterative-and-incremental-Model)                                       |
-| 10  | [Difference between Waterfall and Incremental model](#Difference-between-Waterfall-and-Incremental-model) |
-| 11  | [Spiral Model](#spiral-Model)                                                                             |
-| 12  | [Difference between Waterfall and Spiral model](#Difference-between-Waterfall-and-Spiral-model)           |
-| 13  | [RAD Model](#RAD-Model)                                                                                   |
-| 14  | [Difference between Waterfall and Spiral model](#Difference-between-Waterfall-and-Spiral-model)           |
-| 15  | [References](#references)                                                                                 |
+| 6   | [Similarities between Waterfall and V-model](#Similarities-between-Waterfall-and-v-model)                 |
+| 7   | [Difference between Waterfall and V-model](#Difference-between-Waterfall-and-v-model)                     |
+| 8   | [Prototype Model](#prototype-model)                                                                       |
+| 9   | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
+| 10  | [Difference between Waterfall and Prototype model](#Difference-between-Waterfall-and-prototype-model)     |
+| 11  | [RAD Model](#RAD-Model)                                                                                   |
+| 12  | [Similarities between Waterfall and RAD model](#Similarities-between-Waterfall-and-RAD-model)             |
+| 13  | [Difference between Waterfall and RAD model](#Difference-between-Waterfall-and-RAD-model)                 |
+| 14  | [Incremental Model](#incremental-model)                                                                   |
+| 15  | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
+| 16  | [Difference between Waterfall and Incremental model](#Difference-between-Waterfall-and-Incremental-model) |
+| 17  | [Iterative Model](#iterative-model)                                                                       |
+| 18  | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
+| 19  | [Difference between Waterfall and Iterative model](#Difference-between-Waterfall-and-Iterative-model)     |
+| 20  | [Spiral Model](#spiral-model)                                                                             |
+| 21  | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
+| 22  | [Difference between Waterfall and Spiral model](#Difference-between-Waterfall-and-Spiral-model)           |
+| 23  | [References](#references)                                                                                 |
 
 ## Details
 
@@ -197,7 +205,7 @@
 
     Cons:
 
-          * Cannot accommodate changing requirements. Even more rigid and less flexible than 
+          * Cannot accommodate changing requirements. Even more rigid and less flexible than
             the Waterfall model
           * Requirement change at the later stages would lead to cost higher as the changes would be required
             in all the phases
@@ -288,112 +296,7 @@
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="800" height="450">
     <div>
 
-11. ### Iterative and incremental Model
-
-    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.
-
-    In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
-
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="800" height="450">
-    <div>
-
-    Use cases for the Iterative and incremental model:
-
-        * This model can be used when the requirements of the complete system are clearly defined
-          and understood
-        * There is a need to get a functinal module of the product to the market early
-
-    Pros:
-
-        * It supports changing requirements
-        * Less costly to change the scope/requirements
-        * Results are obtained early and periodically
-        * With every increment, operational product is delivered
-        * It delivers business value early in the development lifecycle
-        * Progress can be measured
-        * Parallel development can be planned
-        * Testing and debugging during smaller iteration is easy
-        * Customer evaluation and feedback is available in each increment which leading to better solutions
-        * Issues, challenges and risks identified from each increment can be resolved to the next increment
-
-    Cons:
-
-        * Needs a clear and complete definition of the whole system before it can be broken down and
-          built incrementally
-        * Each iteration is rigid
-        * Although cost of change is lesser, but it is not very suitable for changing requirements
-        * More resources may be required
-        * Highly skilled resources are required for risk analysis
-        * More management attention is required
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-12. ### Similarities between Waterfall and incremental model:
-
-    <div  style="text-align: center;">
-           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
-    <div>
-
-13. ### Differences between Waterfall and incremental model:
-
-    <div  style="text-align: center;">
-           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
-    <div>
-
-14. ### Spiral Model
-
--   In 1986, the spiral model was proposed by Barry Boehm
--   Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative
--   software development model
--   This model is suitable for large and complex projects
--   Spiral model is based on spirals (iterations) to develop a project
--   A phase in the software development life cycle is a loop of the spiral
--   This model works very well for large projects because it involves constant improvements until a final product is not build
-
-    Spiral Model
-
-    <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="800" height="400">
-    <div>
-
-    Use cases for the Waterfall model:
-
-        * Customer isn’t sure about the requirements
-        * Requirements are unclear or complicated and require continuous clarification
-        * Frequent releases of modules are required
-        * Customer evaluation and feedback is required in each increment to develop a better solutions
-        * Significant changes are expected in the product during the development cycle
-        * Projects in which needs continuous risk evaluation
-        * It is suitable for large and complex project
-
-    Pros:
-
-        * Requirements changes can be easily adopted and incorporated at the later stage of the development
-        * Requirements can be captured more accurately by emphasizing customer feedback of each phase
-        * Any enhancement or change in the functionality can be done in the next iteration
-        * Customer evaluation and feedback is available in each increment which leading to better solutions
-        * Handling risk analysis in every phase which improve security and
-          mitigates the chances of attacks and breakages
-        * Allows extensive use of prototypes
-        * Users see the system early
-        * More and more features are added in a systematic way
-
-    Cons:
-
-        * It is complex to understand , manage and implement
-        * Requires high risk-analysing expertise
-        * Demands risk management expertise
-
-        * Since the number of iteration are unknown, the time required to complete the project remains a mystery
-        * The project takes a significantly long time to develop, increasing the overall expense of the project
-        * End of the project may not be known early
-        * High risk for falling behind schedule or going over budget
-        * Large number of intermediate stages requires excessive documentation
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-14. ### RAD Rapid application development) Model
+11. ### RAD Rapid application development) Model
 
 -   Rapid application development model firstly introduced by IBM in 1980’s.
 -   RAD Model is generally based on the prototype model and iterative approach.
@@ -463,7 +366,189 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-5.  ### References
+12. ### Similarities between Waterfall and RAD model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
+    <div>
+
+13. ### Differences between Waterfall and RAD model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="800" height="450">
+    <div>
+
+14. ### Incremental Model
+
+    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.
+
+    In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
+
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="800" height="450">
+    <div>
+
+    Use cases for the Iterative and incremental model:
+
+        * This model can be used when the requirements of the complete system are clearly defined
+          and understood
+        * There is a need to get a functinal module of the product to the market early
+
+    Pros:
+
+        * It supports changing requirements
+        * Less costly to change the scope/requirements
+        * Results are obtained early and periodically
+        * With every increment, operational product is delivered
+        * It delivers business value early in the development lifecycle
+        * Progress can be measured
+        * Parallel development can be planned
+        * Testing and debugging during smaller iteration is easy
+        * Customer evaluation and feedback is available in each increment which leading to better solutions
+        * Issues, challenges and risks identified from each increment can be resolved to the next increment
+
+    Cons:
+
+        * Needs a clear and complete definition of the whole system before it can be broken down and
+          built incrementally
+        * Each iteration is rigid
+        * Although cost of change is lesser, but it is not very suitable for changing requirements
+        * More resources may be required
+        * Highly skilled resources are required for risk analysis
+        * More management attention is required
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+15. ### Similarities between Waterfall and Incremental model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
+    <div>
+
+16. ### Differences between Waterfall and Incremental model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
+    <div>
+
+17. ### Iterative Model
+
+    The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.
+
+    In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
+
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/incremental.png" width="800" height="450">
+    <div>
+
+    Use cases for the Iterative and incremental model:
+
+        * This model can be used when the requirements of the complete system are clearly defined
+          and understood
+        * There is a need to get a functinal module of the product to the market early
+
+    Pros:
+
+        * It supports changing requirements
+        * Less costly to change the scope/requirements
+        * Results are obtained early and periodically
+        * With every increment, operational product is delivered
+        * It delivers business value early in the development lifecycle
+        * Progress can be measured
+        * Parallel development can be planned
+        * Testing and debugging during smaller iteration is easy
+        * Customer evaluation and feedback is available in each increment which leading to better solutions
+        * Issues, challenges and risks identified from each increment can be resolved to the next increment
+
+    Cons:
+
+        * Needs a clear and complete definition of the whole system before it can be broken down and
+          built incrementally
+        * Each iteration is rigid
+        * Although cost of change is lesser, but it is not very suitable for changing requirements
+        * More resources may be required
+        * Highly skilled resources are required for risk analysis
+        * More management attention is required
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+18. ### Similarities between Waterfall and Iterative model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
+    <div>
+
+19. ### Differences between Waterfall and Iterative model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
+    <div>
+
+20. ### Spiral Model
+
+-   In 1986, the spiral model was proposed by Barry Boehm
+-   Spiral model is based on the evolutionary model which is the combination of linear sequential model and iterative
+-   software development model
+-   This model is suitable for large and complex projects
+-   Spiral model is based on spirals (iterations) to develop a project
+-   A phase in the software development life cycle is a loop of the spiral
+-   This model works very well for large projects because it involves constant improvements until a final product is not build
+
+    Spiral Model
+
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/spiral_.png" width="800" height="400">
+    <div>
+
+    Use cases for the Waterfall model:
+
+        * Customer isn’t sure about the requirements
+        * Requirements are unclear or complicated and require continuous clarification
+        * Frequent releases of modules are required
+        * Customer evaluation and feedback is required in each increment to develop a better solutions
+        * Significant changes are expected in the product during the development cycle
+        * Projects in which needs continuous risk evaluation
+        * It is suitable for large and complex project
+
+    Pros:
+
+        * Requirements changes can be easily adopted and incorporated at the later stage of the development
+        * Requirements can be captured more accurately by emphasizing customer feedback of each phase
+        * Any enhancement or change in the functionality can be done in the next iteration
+        * Customer evaluation and feedback is available in each increment which leading to better solutions
+        * Handling risk analysis in every phase which improve security and
+          mitigates the chances of attacks and breakages
+        * Allows extensive use of prototypes
+        * Users see the system early
+        * More and more features are added in a systematic way
+
+    Cons:
+
+        * It is complex to understand , manage and implement
+        * Requires high risk-analysing expertise
+        * Demands risk management expertise
+
+        * Since the number of iteration are unknown, the time required to complete the project remains a mystery
+        * The project takes a significantly long time to develop, increasing the overall expense of the project
+        * End of the project may not be known early
+        * High risk for falling behind schedule or going over budget
+        * Large number of intermediate stages requires excessive documentation
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+21. ### Similarities between Waterfall and Spiral model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
+    <div>
+
+22. ### Differences between Waterfall and Spiral model:
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
+    <div>
+
+23. ### References
 
     I have followed many articles but among them, the following articles are really helpful. Those articles helped me a lot and also encourage me to write this article according to my understanding.
 
