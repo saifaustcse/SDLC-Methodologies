@@ -12,22 +12,22 @@
 | 4   | [Waterfall Model](#waterfall-model)                                                                       |
 | 5   | [V-Shaped Model](#v-shaped-model)                                                                         |
 | 6   | [Similarities between Waterfall and V-model](#Similarities-between-Waterfall-and-v-model)                 |
-| 7   | [Difference between Waterfall and V-model](#Difference-between-Waterfall-and-v-model)                     |
+| 7   | [Differences between Waterfall and V-model](#Differences-between-Waterfall-and-v-model)                     |
 | 8   | [Prototype Model](#prototype-model)                                                                       |
 | 9   | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
-| 10  | [Difference between Waterfall and Prototype model](#Difference-between-Waterfall-and-prototype-model)     |
+| 10  | [Differences between Waterfall and Prototype model](#Differences-between-Waterfall-and-prototype-model)     |
 | 11  | [RAD Model](#RAD-Model)                                                                                   |
 | 12  | [Similarities between Waterfall and RAD model](#Similarities-between-Waterfall-and-RAD-model)             |
-| 13  | [Difference between Waterfall and RAD model](#Difference-between-Waterfall-and-RAD-model)                 |
+| 13  | [Differences between Waterfall and RAD model](#Differences-between-Waterfall-and-RAD-model)                 |
 | 14  | [Incremental Model](#incremental-model)                                                                   |
 | 15  | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
-| 16  | [Difference between Waterfall and Incremental model](#Difference-between-Waterfall-and-Incremental-model) |
+| 16  | [Differences between Waterfall and Incremental model](#Differences-between-Waterfall-and-Incremental-model) |
 | 17  | [Iterative Model](#iterative-model)                                                                       |
 | 18  | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
-| 19  | [Difference between Waterfall and Iterative model](#Difference-between-Waterfall-and-Iterative-model)     |
+| 19  | [Differences between Waterfall and Iterative model](#Differences-between-Waterfall-and-Iterative-model)     |
 | 20  | [Spiral Model](#spiral-model)                                                                             |
 | 21  | [Similarities between Waterfall and Prototype model](#Similarities-between-Waterfall-and-prototype-model) |
-| 22  | [Difference between Waterfall and Spiral model](#Difference-between-Waterfall-and-Spiral-model)           |
+| 22  | [Differences between Waterfall and Spiral model](#Differences-between-Waterfall-and-Spiral-model)           |
 | 23  | [References](#references)                                                                                 |
 
 ## Details
