@@ -332,8 +332,7 @@
     -   The Prototype model is an evolutionary software process model that is a combination of the Iterative and waterfall model.
     -   Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.
     -   Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
-
-    Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
+    -   Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/prototype.jpg" width="800" height="450">
@@ -393,14 +392,13 @@
 
 9.  ### RAD (Rapid application development) Model
 
--   The RAD model is an evolutionary software process model that is a combination of the Iterative and Prototyping with the  
+-  The RAD model is a concurrent software process model that is a combination of the Iterative and Prototyping with the  
     systematic, controlled aspects of the waterfall model.
--   RAD Model is generally based on the prototype model and iterative approach.
--   This model is used to completing the process of software product developing in a very short time.
--   The entire project is divided into various small modules and each module is allocated to different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project.
--   If your project can be divided into many parts or modules then the Rapid application development model is used.
--   Each module is developed like the waterfall model.
--   The process of RAD model is building the Rapid prototype and deliver it to the clients and taking the reviews from them . If customer is satisfied then SRS document is created and designing phase is start
+-  The entire project is divided into various small modules and each module is allocated to different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project
+-  Each module is developed using the Prototyping model approach
+-  This model is used to completing the process of software product developing in a very short time.
+-  If your project can be divided into many parts or modules then the Rapid application development model is used.
+
 
       <div  style="text-align: center;">
             <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
