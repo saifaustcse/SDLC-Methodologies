@@ -392,92 +392,149 @@
 
 9.  ### RAD (Rapid application development) Model
 
--  The RAD model is a concurrent software process model that is a combination of the Iterative and Prototyping with the  
-    systematic, controlled aspects of the waterfall model.
--  The entire project is divided into various small modules and each module is allocated to different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project
--  Each module is developed using the Prototyping model approach
--  This model is used to completing the process of software product developing in a very short time.
--  If your project can be divided into many parts or modules then the Rapid application development model is used.
+    -   The RAD model is a concurrent software process model which is generally based on the prototype model.
+    -   The entire project is divided into various small modules and each module is allocated to different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project
+    -   Each module is developed using the Prototyping model approach.
+    -   This model is used to completing the process of software product developing in a very short time.
+    -   If your project can be divided into many parts or modules then the Rapid application development model is used.
 
+        <div  style="text-align: center;">
+              <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
+        <div>
 
-      <div  style="text-align: center;">
-            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
-      <div>
+    Although RAD has changed over the years, following four basic phases provide some continuity over the years.
 
-      <div  style="text-align: center;">
-            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
-      <div>
+       <div  style="text-align: center;">
+               <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
+         <div>
 
-    Steps in Rapid Application Development
+    1. Requirement Analysis
+       There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.
 
-    Although RAD has changed over the years, these four basic steps provide some continuity over the years.
+    2. Customer Evaluation
+       In this phase, developer evaluates the customer satisfaction by delivering the prototype and taking the reviews from them. If the customer is satisfied then developer starts implementation.
 
-    -   Define the requirements
-    -   Prototype
-    -   Receive Feedback
-    -   Finalize Software
+    3. Construction
+       Prototype is refining and all the modification ,correction and improvements is done in this phase. This phase helps us to convert the process and modules into the final working product.
 
-    1. Define the Requirements
-       At the very beginning, rapid application development sets itself apart from traditional software development models. It doesn’t require you to sit with end users and get a detailed list of specifications; instead, it asks for a broad requirement. The broad nature of the requirements helps you give specific requirements at different points of the development cycle.
-
-    2. Prototype
-       This is where the actual development takes place. Instead of following a strict set of requirements, developers create prototypes with different features and functions as fast as they can. These prototypes are then shown to the clients who decide what they like and what they don’t.
-       More often than not, these prototypes are quickly made to work, just to show off certain features, without proper polish. This is normal, and the final product is only created during the finalization stage where the client and developer can both agree on the final product.
-
-    3. Receive Feedback
-       In this stage, feedback on what’s good, what’s not, what works, and what doesn’t is shared. Feedback isn’t limited to just pure functionality, but also visuals and interfaces. With this feedback in mind, prototyping continues. These two steps are repeated until a final product can be realized that fits both the developers’ and client’s requirements.
-
-    4. Finalize Software
-       Here, features, functions, aesthetics, and interface of the software are finalized with the client. Stability, usability, and maintainability are of paramount importance before delivering to the client.
+    4. Cut Over
+       This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.
 
     Use cases for the RAD model:
 
-        * When a system needs to be produced in a short span of time (2-3 months)
-        * When the requirements are known
-        * When the user will be involved all through the life cycle
-        * When technical risk is less
-        * When there is a necessity to create a system that can be modularized in 2-3 months of time
-        * When a budget is high enough to afford designers for modeling along with the cost of automated tools for code generation
-        RAD should be used only when a system can be modularized to be delivered in an incremental manner.
-
-        It should be used if there is a high availability of designers for Modelling.
-
-        It should be used only if the budget permits use of automated code generating tools.
-
-        RAD SDLC model should be chosen only if domain experts are available with relevant business knowledge.
-
-        Should be used where the requirements change during the project and working prototypes are to be presented to customer in small iterations of 2-3 months.
+   
+         * RAD model completes the project in a short period of time.
+         * The progress and development of project can be check on various stages .
+         * This model uses the powerful techniques and tools.
+         * reduce cost because very less developers are needed.
+         * Prototype is delivered to the customer so the customer is satisfied.
+         * It has more flexibility and adaptability to acquire the new requirements.
+         * Reusability of the components is increased.
+         * When the system should need to create the project that modularizes in a short span time (2-3 months).
+         * When the requirements are well-known.
+         * When the technical risk is limited.
+         * When there's a necessity to make a system, which modularized in 2-3 months of period.
+         * It should be used only if the budget allows the use of automatic code generating tools.
+         * RAD should be used only when a system can be modularized to be delivered in an incremental manner.
+         * It should be used if there is a high availability of designers for Modelling.
+         * It should be used only if the budget permits use of automated code generating tools.
+         * RAD SDLC model should be chosen only if domain experts are available with relevant business knowledge.
+         * Should be used where the requirements change during the project and working prototypes are to be presented to customer in small iterations of 2-3 months.
 
     Pros:
 
-        * RAD model completes the project in a short period of time.
-        * The progress and development of project can be check on various stages .
-        * This model uses the powerful techniques and tools.
-        * reduce cost because very less developers are needed.
-        * Prototype is delivered to the customer so the customer is satisfied.
-        * It has more flexibility and adaptability to acquire the new requirements.
-        * Reusability of the components is increased.
+         * Changing requirements can be accommodated.
+         * Progress can be measured.
+         * Iteration time can be short with use of powerful RAD tools.
+         * Productivity with fewer people in a short time.
+         * Reduced development time.
+         * Increases reusability of components.
+         * Quick initial reviews occur.
+         * Encourages customer feedback.
+         * Integration from very beginning solves a lot of integration issues.
+         * RAD model completes the project in a short period of time.
+         * The progress and development of project can be check on various stages .
+         * Requirements can be changed at any time
+         * Encourages and priorities customer feedback
+         * Reviews are quick
+         * Development time is drastically reduced
+         * More productivity with fewer people
+         * Time between prototypes and iterations is short
+         * Integration isn’t a problem, since it integrates from project inception
+         * RAD model completes the project in a short period of time.
+         * The progress and development of project can be check on various stages .
+         * This model uses the powerful techniques and tools.
+         * reduce cost because very less developers are needed.
+         * Prototype is delivered to the customer so the customer is satisfied.
+         * It has more flexibility and adaptability to acquire the new requirements.
+         * Reusability of the components is increased.
+         * This model is flexible for change.
+         * In this model, changes are adoptable.
+         * Each phase in RAD brings highest priority functionality to the customer.
+         * It reduced development time.
+         * It increases the reusability of features.
+         * Reusability of components makes or speeds up the development and reduces the time that
+           it needs for developing a product.
+         * The modularized way of crafting each function within the system makes the development task easier.
+         * Large projects can be done easily through the RAD model.
+         * Rapid Application development model helps to reduce the risk and required efforts on
+           the part of the software developer
+         * This model also helps client’s to take quick reviews for the project
+         * This methodology encourages customer feedback which always provides improvement scope
+           for any software development project
 
     Cons:
 
-        * Team leader must to do work with developers to complete the work on time.
-        * Customer involvement are needed .
-        * There are no reusable component are used to lead the failure of the project .
-        * This model works only when the requirements are clearly specified.
-        * This model can be more complex if prototype is refined again and again.
-        * RAD model is not suitable for the short projects.
+         * Needs strong team collaboration.
+         * Cannot work with large teams
+         * Needs highly skilled developers
+         * Needs user requirement throughout the life cycle of the product
+         * Only suitable for projects which have a small development time
+         * More complex to manage when compared to other models
+         * Only systems which can be modularised can be developed using Rapid application development.
+         * Team leader must to do work with developers to complete the work on time.
+         * Customer involvement are needed .
+         * There are no reusable component are used to lead the failure of the project .
+         * This model works only when the requirements are clearly specified.
+         * This model can be more complex if prototype is refined again and again.
+         * RAD model is not suitable for the short projects.
+         * It required highly skilled designers.
+         * All application is not compatible with RAD.
+         * For smaller projects, we cannot use the RAD model.
+         * On the high technical risk, it's not suitable.
+         * Required user involvement.
+         * A proper time-frame should have to be maintained for both end customer as well
+           as developers for completing the system.
+         * RAD model-based software development fails because of a lack of commitment and dedication.
+         * A slight complexity in the modularizing in RAD model can lead to failure of the entire project.
+         * This model depends on the strong team and individual performances for clearly identifying
+           the exact requirement of the business
+        * It only works on systems that can be modularized can be built using this methodology
+        * This approach demands highly skilled developers and designer’s team which may not be
+          possible for every organization
+        * This method is not applicable for the developer to use in small budget projects
+          as a cost of modeling and automated code generation is very high
+        * Dependency on technically strong team members for identifying business requirements.
+        * Only system that can be modularized can be built using RAD.
+        * Requires highly skilled developers/designers.
+        * High dependency on Modelling skills.
+        * Inapplicable to cheaper projects as cost of Modelling and automated code generation is very high.
+        * Management complexity is more.
+        * Suitable for systems that are component based and scalable.
+        * Requires user involvement throughout the life cycle.
+        * Suitable for project requiring shorter development times.
 
     **Similarities between Waterfall and RAD model:**
 
-    <div  style="text-align: center;">
-           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
-    <div>
+     <div  style="text-align: center;">
+            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
+     <div>
 
     **Differences between Waterfall and RAD model:**
 
-    <div  style="text-align: center;">
-           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="800" height="450">
-    <div>
+     <div  style="text-align: center;">
+            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="800" height="450">
+     <div>
 
     **[⬆ Back to Top](#table-of-contents)**
 
