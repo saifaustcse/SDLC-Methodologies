@@ -329,8 +329,8 @@
 
 8.  ### Prototype Model
 
-    -   The Prototype model is an evolutionary software process model that is a combination of the Iterative and waterfall model.
-    -   Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.
+    -   The Prototype model is an evolutionary software process model that is a combination of the Iterative and waterfall model  
+    -   Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.  
     -   Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
     -   Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
 
