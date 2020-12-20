@@ -11,12 +11,12 @@
 | 3   | [Top SDLC Methodologies?](#top-SDLC-methodologies)           |
 | 4   | [Waterfall Model](#waterfall-model)                          |
 | 5   | [V-Shaped Model](#v-shaped-model)                            |
-| 14  | [Incremental Model](#incremental-model)                      |
-| 17  | [Iterative Model](#iterative-model)                          |
+| 6   | [Incremental Model](#incremental-model)                      |
+| 7   | [Iterative Model](#iterative-model)                          |
 | 8   | [Prototype Model](#prototype-model)                          |
-| 11  | [RAD Model](#RAD-Model)                                      |
-| 20  | [Spiral Model](#spiral-model)                                |
-| 23  | [References](#references)                                    |
+| 9   | [RAD Model](#RAD-Model)                                      |
+| 10  | [Spiral Model](#spiral-model)                                |
+| 11  | [References](#references)                                    |
 
 ## Details
 
@@ -483,7 +483,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-14. ### Spiral Model
+10. ### Spiral Model
 
     -   The spiral model is an evolutionary software process model that is a combination of the Iterative and Prototyping with the systematic, controlled aspects of the waterfall model.
     -   It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
@@ -539,17 +539,13 @@
           * High risk for falling behind schedule or going over budget
           * Large number of intermediate stages requires excessive documentation
 
-    **[⬆ Back to Top](#table-of-contents)**
-
-15. ### Similarities between Waterfall and Spiral model:
+    **Similarities between Waterfall and Spiral model:**
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
     <div>
 
-    **[⬆ Back to Top](#table-of-contents)**
-
-16. ### Differences between Waterfall and Spiral model:
+    **Differences between Waterfall and Spiral model:**
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
@@ -557,7 +553,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-17. ### References
+11. ### References
 
     I have followed many articles but among them, the following articles are really helpful. Those articles helped me a lot and also encourage me to write this article according to my understanding.
 
