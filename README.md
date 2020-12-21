@@ -392,9 +392,10 @@
 
 9.  ### RAD (Rapid application development) Model
 
-    -   The RAD model is a concurrent software process model which is generally based on the prototype model.
+    -   The RAD model is a concurrent software process model which is generally based on the prototype 
+        (Iterative and waterfall) model.
     -   The entire project is divided into various small modules and each module is allocated to different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project
-    -   Each module is developed using the Prototyping model approach.
+    -   Each module is developed using the Prototyping (Iterative and waterfall) model approach.
     -   This model is used to completing the process of software product developing in a very short time.
     -   If your project can be divided into many parts or modules then the Rapid application development model is used.
 
@@ -408,16 +409,16 @@
         <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
     <div>
 
-    1. Requirement Analysis
+    1. Requirement Analysis  
        There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.
 
-    2. Customer Evaluation
+    2. Customer Evaluation  
        In this phase, developer evaluates the customer satisfaction by delivering the prototype and taking the reviews from them. If the customer is satisfied then developer starts implementation.
 
-    3. Construction
+    3. Construction  
        Prototype is refining and all the modification ,correction and improvements is done in this phase. This phase helps us to convert the process and modules into the final working product.
 
-    4. Cut Over
+    4. Cut Over  
        This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.
 
     Use cases for the RAD model:
@@ -607,30 +608,27 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
+11. ### Agile Model
 
-10. ### Agile Model
-
-    -   The Agile Model 
+    -   The Agile Model
 
       <div  style="text-align: center;">
             <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/agile-umbrella.png" width="500" height="500">
       <div>
 
-
     Use cases for the Agile model:
 
-          * The Agile Model 
-         
+          * The Agile Model
+
 
     Pros:
 
-          * The Agile Model 
-         
+          * The Agile Model
+
 
     Cons:
 
-          * The Agile Model 
-        
+          * The Agile Model
 
     **Similarities between Waterfall and Spiral model:**
 
@@ -646,7 +644,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-11. ### References
+12. ### References
 
     I have followed many articles but among them, the following articles are really helpful. Those articles helped me a lot and also encourage me to write this article according to my understanding.
 
