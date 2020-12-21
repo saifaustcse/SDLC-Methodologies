@@ -421,17 +421,13 @@
         <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
     <div>
 
-    1. **Requirement Analysis**   
-       There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.
+    1. **Requirement Analysis:** There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.  
 
-    2. **Customer Evaluation**   
-       In this phase, developer evaluates the customer satisfaction by delivering the prototype and taking the reviews from them. If the customer is satisfied then developer starts implementation.
+    2. **Customer Evaluation:** In this phase, developer evaluates the customer satisfaction by delivering the prototype and taking the reviews from them. If the customer is satisfied then developer starts implementation.  
 
-    3. **Construction**  
-       Prototype is refining and all the modification ,correction and improvements is done in this phase. This phase helps us to convert the process and modules into the final working product.
+    3. **Construction:** Prototype is refining and all the modification ,correction and improvements is done in this phase. This phase helps us to convert the process and modules into the final working product.  
 
-    4. **Cut Over**    
-       This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.
+    4. **Cut Over:** This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.  
 
     Use cases for the RAD model:
          
@@ -544,14 +540,10 @@
 
     Each loop of the spiral is called a Phase of the software development process. Each phase of Spiral Model is divided into four quadrants as shown in the above figure. The functions of these four quadrants are discussed below-
 
-    1. **Determining objectives, alternatives and constraints:**  
-       Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.
-    2. **Evaluating alternatives, identifying and resolving risks:**   
-       During the second quadrant all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution is identified and the risks are resolved using the best possible strategy. At the end of this quadrant, Prototype is built for the best possible solution.
-    3. **Develop and verify next level project:**  
-       During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
-    4. **Review and plan for the next Phase:**  
-       In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.
+    1. **Determining objectives, alternatives and constraints:** Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.  
+    2. **Evaluating alternatives, identifying and resolving risks:** During the second quadrant all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution is identified and the risks are resolved using the best possible strategy. At the end of this quadrant, Prototype is built for the best possible solution.  
+    3. **Develop and verify next level project:** During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.  
+    4. **Review and plan for the next Phase:** In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.  
 
     Use cases for the Waterfall model:
 
