@@ -14,7 +14,7 @@
 | 6   | [Incremental Model](#incremental-model)                                                      |
 | 7   | [Iterative Model](#iterative-model)                                                          |
 | 8   | [Prototype Model](#prototype-model)                                                          |
-| 9   | [RAD (Rapid application development) Model](<#RAD-(Rapid-application-development)-Model)   |
+| 9   | [RAD Model](<#RAD-Model)   |
 | 10  | [Spiral Model](#spiral-model)                                                                |
 | 11  | [References](#references)                                                                    |
 
@@ -402,7 +402,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-9.  ### RAD (Rapid application development) Model
+9.  ### RAD Model
 
     -   The RAD model is a concurrent software process model which is generally based on the prototype
         (Iterative and waterfall) model.
