@@ -4,19 +4,19 @@
 
 ### Table of Contents
 
-| No. | Topic                                                        |
-| --- | ------------------------------------------------------------ |
-| 1   | [What is SDLC?](#what-is-SDLC)                               |
-| 2   | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC) |
-| 3   | [Top SDLC Methodologies?](#top-SDLC-methodologies)           |
-| 4   | [Waterfall Model](#waterfall-model)                          |
-| 5   | [V-Shaped Model](#v-shaped-model)                            |
-| 6   | [Incremental Model](#incremental-model)                      |
-| 7   | [Iterative Model](#iterative-model)                          |
-| 8   | [Prototype Model](#prototype-model)                          |
-| 9   | [RAD Model](#RAD-Model)                                      |
-| 10  | [Spiral Model](#spiral-model)                                |
-| 11  | [References](#references)                                    |
+| No. | Topic                                                                                        |
+| --- | -------------------------------------------------------------------------------------------- |
+| 1   | [What is SDLC?](#what-is-SDLC)                                                               |
+| 2   | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC)                                 |
+| 3   | [Top SDLC Methodologies?](#top-SDLC-methodologies)                                           |
+| 4   | [Waterfall Model](#waterfall-model)                                                          |
+| 5   | [V-Shaped Model](#v-shaped-model)                                                            |
+| 6   | [Incremental Model](#incremental-model)                                                      |
+| 7   | [Iterative Model](#iterative-model)                                                          |
+| 8   | [Prototype Model](#prototype-model)                                                          |
+| 9   | [RAD (Rapid application development) Model](<#RAD-(-Rapid-application-development-)-Model>>) |
+| 10  | [Spiral Model](#spiral-model)                                                                |
+| 11  | [References](#references)                                                                    |
 
 ## Details
 
@@ -34,8 +34,8 @@
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/raw/master/images/sdlc_1.png" width="600" height="500">
     <div>
 
-    **Phase 1 – Analysis/Planning**  
-    
+    **Phase 1 – Analysis/Planning**
+
     The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders.
     It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
     Planning pahse can be divided in 3 sub pahses:
@@ -45,11 +45,11 @@
     -   How the software will be used?
     -   What data will serve as the input of the software?
     -   What data will be the output given by the software?
-    -   Who is going to use the software?  
+    -   Who is going to use the software?
 
     **Sub Phase 2 – Feasibility Study**
 
-    In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of 
+    In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of
     resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
 
     -   Economic: Is it financially viable to invest in the project based on the available resources?
@@ -57,47 +57,47 @@
     -   Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
     -   Technical: What is the availability of technology and HR resources to support the SLDC process?
     -   Schedule: Can we finish the project in time?
-    -   Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.  
+    -   Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
     **Sub Phase 3 – Defining Requirements**
 
-    Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved 
-    from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements 
-    to be designed and developed during the project life cycle.  
+    Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved
+    from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements
+    to be designed and developed during the project life cycle.
 
     **Phase 2 – Design**
 
-    This phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system 
-    which will be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It"s during 
-    this phase that they will consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system 
+    This phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system
+    which will be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It"s during
+    this phase that they will consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system
     to accomplish its objectives.
 
-    SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, 
+    SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS,
     usually more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
 
-    This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time 
+    This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time
     constraints, the best design approach is selected for the product.
 
-    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party 
-    modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.  
+    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party
+    modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.
 
     **Phase 3 – Development/Implementation**
 
-    In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. 
+    In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage.
     If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
 
-    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code.     Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases such as         oracle, MSSQL, MySQL, MongoDb are used for dumping data.  
+    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases such as oracle, MSSQL, MySQL, MongoDb are used for dumping data.
 
     **Phase 4 – Testing/Quality Assurance**
 
     In this phase systems integration and system testing (of programs and procedures)—normally carried out by a Quality Assurance (QA) professional—to determine if the proposed design meets the initial set of business goals. Testing may be repeated, specifically to check for errors, bugs and interoperability. This testing will be performed until the end user finds it acceptable.
 
-    During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the non-functional testing is carried out.  
+    During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the non-functional testing is carried out.
 
     **Phase 5 – Deployment/Release**
 
     This phase is carried out right after the successful testing of the software product. It is simply delivering the software to the end-user or installing it onto the customer’s system(s).
-    The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the developer team working on the project afterward. Once all the changes are complete, the final deployment takes place.  
+    The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the developer team working on the project afterward. Once all the changes are complete, the final deployment takes place.
 
     **Phase 6 – Maiantenance**
 
@@ -404,7 +404,7 @@
 
 9.  ### RAD (Rapid application development) Model
 
-    -   The RAD model is a concurrent software process model which is generally based on the prototype 
+    -   The RAD model is a concurrent software process model which is generally based on the prototype
         (Iterative and waterfall) model.
     -   The entire project is divided into various small modules and each module is allocated to different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project
     -   Each module is developed using the Prototyping (Iterative and waterfall) model approach.
@@ -421,16 +421,16 @@
         <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
     <div>
 
-    1. **Requirement Analysis:** There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.  
+    1. **Requirement Analysis:** There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.
 
-    2. **Customer Evaluation:** In this phase, developer evaluates the customer satisfaction by delivering the prototype and taking the reviews from them. If the customer is satisfied then developer starts implementation.  
+    2. **Customer Evaluation:** In this phase, developer evaluates the customer satisfaction by delivering the prototype and taking the reviews from them. If the customer is satisfied then developer starts implementation.
 
-    3. **Construction:** Prototype is refining and all the modification ,correction and improvements is done in this phase. This phase helps us to convert the process and modules into the final working product.  
+    3. **Construction:** Prototype is refining and all the modification ,correction and improvements is done in this phase. This phase helps us to convert the process and modules into the final working product.
 
-    4. **Cut Over:** This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.  
+    4. **Cut Over:** This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.
 
     Use cases for the RAD model:
-         
+
          * This model works only when the requirements are clearly specified
          * RAD should be used only when a system can be modularized to be delivered in an incremental manner.
          * When there's a necessity to make a system, which modularized in 2-3 months of period.
@@ -477,7 +477,7 @@
          * It increases the reusability of features.
          * Reusability of components makes or speeds up the development and reduces the time that
            it needs for developing a product.
-        
+
          * The modularized way of crafting each function within the system makes the development task easier.
          * Rapid Application development model helps to reduce the risk and required efforts on
            the part of the software developer
@@ -487,7 +487,7 @@
     Cons:
 
          * All application is not compatible with RAD
-         
+
          * Suitable for systems that are component based and scalable
          * It only works on systems that can be modularized can be built using this methodology
          * Only systems which can be modularised can be developed using Rapid application development
@@ -506,7 +506,7 @@
 
          * More complex to manage when compared to other models
          * Management complexity is more
-        
+
          * A proper time-frame should have to be maintained for both end customer as well
            as developers for completing the system
          * A slight complexity in the modularizing in RAD model can lead to failure of the entire project
@@ -540,10 +540,10 @@
 
     Each loop of the spiral is called a Phase of the software development process. Each phase of Spiral Model is divided into four quadrants as shown in the above figure. The functions of these four quadrants are discussed below-
 
-    1. **Determining objectives, alternatives and constraints:** Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.  
-    2. **Evaluating alternatives, identifying and resolving risks:** During the second quadrant all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution is identified and the risks are resolved using the best possible strategy. At the end of this quadrant, Prototype is built for the best possible solution.  
-    3. **Develop and verify next level project:** During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.  
-    4. **Review and plan for the next Phase:** In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.  
+    1. **Determining objectives, alternatives and constraints:** Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.
+    2. **Evaluating alternatives, identifying and resolving risks:** During the second quadrant all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution is identified and the risks are resolved using the best possible strategy. At the end of this quadrant, Prototype is built for the best possible solution.
+    3. **Develop and verify next level project:** During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
+    4. **Review and plan for the next Phase:** In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.
 
     Use cases for the Waterfall model:
 
@@ -606,11 +606,9 @@
 
           * The Agile Model
 
-
     Pros:
 
           * The Agile Model
-
 
     Cons:
 
