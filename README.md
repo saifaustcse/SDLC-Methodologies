@@ -4,19 +4,19 @@
 
 ### Table of Contents
 
-| No. | Topic                                                                                        |
-| --- | -------------------------------------------------------------------------------------------- |
-| 1   | [What is SDLC?](#what-is-SDLC)                                                               |
-| 2   | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC)                                 |
-| 3   | [Top SDLC Methodologies?](#top-SDLC-methodologies)                                           |
-| 4   | [Waterfall Model](#waterfall-model)                                                          |
-| 5   | [V-Shaped Model](#v-shaped-model)                                                            |
-| 6   | [Incremental Model](#incremental-model)                                                      |
-| 7   | [Iterative Model](#iterative-model)                                                          |
-| 8   | [Prototype Model](#prototype-model)                                                          |
-| 9   | [RAD Model](<#RAD-Model)   |
-| 10  | [Spiral Model](#spiral-model)                                                                |
-| 11  | [References](#references)                                                                    |
+| No. | Topic                                                        |
+| --- | ------------------------------------------------------------ |
+| 1   | [What is SDLC?](#what-is-SDLC)                               |
+| 2   | [What are the phases of SDLC?](#what-are-the-phases-of-SDLC) |
+| 3   | [Top SDLC Methodologies?](#top-SDLC-methodologies)           |
+| 4   | [Waterfall Model](#waterfall-model)                          |
+| 5   | [V-Shaped Model](#v-shaped-model)                            |
+| 6   | [Incremental Model](#incremental-model)                      |
+| 7   | [Iterative Model](#iterative-model)                          |
+| 8   | [Prototype Model](#prototype-model)                          |
+| 9   | [RAD Model](#RAD-model)                                      |
+| 10  | [Spiral Model](#spiral-model)                                |
+| 11  | [References](#references)                                    |
 
 ## Details
 
