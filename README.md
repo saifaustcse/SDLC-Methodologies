@@ -434,7 +434,8 @@
        This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.
 
     Use cases for the RAD model:
-
+         
+         * This model works only when the requirements are clearly specified
          * RAD should be used only when a system can be modularized to be delivered in an incremental manner.
          * When there's a necessity to make a system, which modularized in 2-3 months of period.
          * When the requirements are well-known.
@@ -489,44 +490,33 @@
 
     Cons:
 
-         * Needs strong team collaboration.
-         * Cannot work with large teams
-         * Needs highly skilled developers
+         * All application is not compatible with RAD
+         
+         * Suitable for systems that are component based and scalable
+         * It only works on systems that can be modularized can be built using this methodology
+         * Only systems which can be modularised can be developed using Rapid application development
+         * Only system that can be modularized can be built using RAD
+         * High dependency on Modelling skills
+         * Requires highly skilled developers/designers
+         * Needs strong team collaboration
+         * Dependency on technically strong team members for identifying business requirements
+
+         * On the high technical risk, it's not suitable
+
          * Needs user requirement throughout the life cycle of the product
-         * Only suitable for projects which have a small development time
+         * Requires user involvement throughout the life cycle
+         * Customer involvement are needed
+         * Required user involvement
+
          * More complex to manage when compared to other models
-         * Only systems which can be modularised can be developed using Rapid application development.
-         * Team leader must to do work with developers to complete the work on time.
-         * Customer involvement are needed .
-         * There are no reusable component are used to lead the failure of the project .
-         * This model works only when the requirements are clearly specified.
-         * This model can be more complex if prototype is refined again and again.
-         * RAD model is not suitable for the short projects.
-         * It required highly skilled designers.
-         * All application is not compatible with RAD.
-         * For smaller projects, we cannot use the RAD model.
-         * On the high technical risk, it's not suitable.
-         * Required user involvement.
+         * Management complexity is more
+        
          * A proper time-frame should have to be maintained for both end customer as well
-           as developers for completing the system.
-         * RAD model-based software development fails because of a lack of commitment and dedication.
-         * A slight complexity in the modularizing in RAD model can lead to failure of the entire project.
-         * This model depends on the strong team and individual performances for clearly identifying
-           the exact requirement of the business
-        * It only works on systems that can be modularized can be built using this methodology
-        * This approach demands highly skilled developers and designer’s team which may not be
-          possible for every organization
-        * This method is not applicable for the developer to use in small budget projects
-          as a cost of modeling and automated code generation is very high
-        * Dependency on technically strong team members for identifying business requirements.
-        * Only system that can be modularized can be built using RAD.
-        * Requires highly skilled developers/designers.
-        * High dependency on Modelling skills.
-        * Inapplicable to cheaper projects as cost of Modelling and automated code generation is very high.
-        * Management complexity is more.
-        * Suitable for systems that are component based and scalable.
-        * Requires user involvement throughout the life cycle.
-        * Suitable for project requiring shorter development times.
+           as developers for completing the system
+         * A slight complexity in the modularizing in RAD model can lead to failure of the entire project
+         * This method is not applicable for the developer to use in small budget projects
+           as a cost of modeling and automated code generation is very high
+         * Inapplicable to cheaper projects as cost of Modelling and automated code generation is very high
 
     **Similarities between Waterfall and RAD model:**
 
