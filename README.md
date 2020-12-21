@@ -14,7 +14,7 @@
 | 6   | [Incremental Model](#incremental-model)                                                      |
 | 7   | [Iterative Model](#iterative-model)                                                          |
 | 8   | [Prototype Model](#prototype-model)                                                          |
-| 9   | [RAD (Rapid application development) Model](<#RAD-(-Rapid-application-development-)-Model>>) |
+| 9   | [RAD (Rapid application development) Model](<#RAD-(Rapid-application-development)-Model)   |
 | 10  | [Spiral Model](#spiral-model)                                                                |
 | 11  | [References](#references)                                                                    |
 
