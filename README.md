@@ -35,7 +35,9 @@
     <div>
 
     **Phase 1 – Analysis/Planning**  
-    The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
+    
+    The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders.
+    It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
     Planning pahse can be divided in 3 sub pahses:
 
     **Sub Phase 1 – Requirement Analysis**
@@ -47,7 +49,8 @@
 
     **Sub Phase 2 – Feasibility Study**
 
-    In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
+    In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of 
+    resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
 
     -   Economic: Is it financially viable to invest in the project based on the available resources?
     -   Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
@@ -58,23 +61,32 @@
 
     **Sub Phase 3 – Defining Requirements**
 
-    Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.  
+    Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved 
+    from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements 
+    to be designed and developed during the project life cycle.  
 
     **Phase 2 – Design**
 
-    This phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system which will be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It"s during this phase that they will consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system to accomplish its objectives.
+    This phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system 
+    which will be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It"s during 
+    this phase that they will consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system 
+    to accomplish its objectives.
 
-    SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, usually more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
+    SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, 
+    usually more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
 
-    This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time constraints, the best design approach is selected for the product.
+    This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time 
+    constraints, the best design approach is selected for the product.
 
-    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.  
+    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party 
+    modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.  
 
     **Phase 3 – Development/Implementation**
 
-    In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
+    In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. 
+    If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
 
-    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases such as oracle, MSSQL, MySQL, MongoDb are used for dumping data.  
+    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code.     Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases such as         oracle, MSSQL, MySQL, MongoDb are used for dumping data.  
 
     **Phase 4 – Testing/Quality Assurance**
 
