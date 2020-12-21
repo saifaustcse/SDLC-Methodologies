@@ -421,77 +421,69 @@
         <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
     <div>
 
-    1. Requirement Analysis  
+    1. **Requirement Analysis**   
        There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.
 
-    2. Customer Evaluation  
+    2. **Customer Evaluation**   
        In this phase, developer evaluates the customer satisfaction by delivering the prototype and taking the reviews from them. If the customer is satisfied then developer starts implementation.
 
-    3. Construction  
+    3. **Construction**  
        Prototype is refining and all the modification ,correction and improvements is done in this phase. This phase helps us to convert the process and modules into the final working product.
 
-    4. Cut Over  
+    4. **Cut Over**    
        This is the last stage of the RAD model. In this phase, all the independent modules are evaluated separately .The tools and sub-parts of product makes the testing of the product very easy.
 
     Use cases for the RAD model:
 
-         * RAD model completes the project in a short period of time.
-         * The progress and development of project can be check on various stages .
-         * This model uses the powerful techniques and tools.
-         * reduce cost because very less developers are needed.
-         * Prototype is delivered to the customer so the customer is satisfied.
-         * It has more flexibility and adaptability to acquire the new requirements.
-         * Reusability of the components is increased.
-         * When the system should need to create the project that modularizes in a short span time (2-3 months).
+         * RAD should be used only when a system can be modularized to be delivered in an incremental manner.
+         * When there's a necessity to make a system, which modularized in 2-3 months of period.
          * When the requirements are well-known.
          * When the technical risk is limited.
-         * When there's a necessity to make a system, which modularized in 2-3 months of period.
+
+         * This model uses the powerful techniques and tools.
          * It should be used only if the budget allows the use of automatic code generating tools.
-         * RAD should be used only when a system can be modularized to be delivered in an incremental manner.
          * It should be used if there is a high availability of designers for Modelling.
          * It should be used only if the budget permits use of automated code generating tools.
          * RAD SDLC model should be chosen only if domain experts are available with relevant business knowledge.
-         * Should be used where the requirements change during the project and working prototypes are to be presented to customer in small iterations of 2-3 months.
 
     Pros:
 
          * Changing requirements can be accommodated.
-         * Progress can be measured.
-         * Iteration time can be short with use of powerful RAD tools.
-         * Productivity with fewer people in a short time.
-         * Reduced development time.
-         * Increases reusability of components.
-         * Quick initial reviews occur.
-         * Encourages customer feedback.
-         * Integration from very beginning solves a lot of integration issues.
-         * RAD model completes the project in a short period of time.
-         * The progress and development of project can be check on various stages .
          * Requirements can be changed at any time
-         * Encourages and priorities customer feedback
-         * Reviews are quick
-         * Development time is drastically reduced
-         * More productivity with fewer people
-         * Time between prototypes and iterations is short
-         * Integration isn’t a problem, since it integrates from project inception
-         * RAD model completes the project in a short period of time.
-         * The progress and development of project can be check on various stages .
-         * This model uses the powerful techniques and tools.
-         * reduce cost because very less developers are needed.
-         * Prototype is delivered to the customer so the customer is satisfied.
          * It has more flexibility and adaptability to acquire the new requirements.
-         * Reusability of the components is increased.
          * This model is flexible for change.
          * In this model, changes are adoptable.
-         * Each phase in RAD brings highest priority functionality to the customer.
+
          * It reduced development time.
+         * Reduced development time.
+         * Development time is drastically reduced
+         * RAD model completes the project in a short period of time.
+
+         * Reviews are quick
+         * This model also helps client’s to take quick reviews for the project
+         * Encourages customer feedback.
+         * Encourages and priorities customer feedback
+
+         * Reduce cost because very less developers are needed.
+         * More productivity with fewer people
+
+         * Iteration time can be short with use of powerful RAD tools.
+         * Time between prototypes and iterations is short
+
+         * The progress and development of project can be check on various stages .
+
+         * Integration from very beginning solves a lot of integration issues.
+         * Integration isn’t a problem, since it integrates from project inception
+         * Prototype is delivered to the customer so the customer is satisfied.
+
+         * Reusability of the components is increased.
          * It increases the reusability of features.
          * Reusability of components makes or speeds up the development and reduces the time that
            it needs for developing a product.
+        
          * The modularized way of crafting each function within the system makes the development task easier.
-         * Large projects can be done easily through the RAD model.
          * Rapid Application development model helps to reduce the risk and required efforts on
            the part of the software developer
-         * This model also helps client’s to take quick reviews for the project
          * This methodology encourages customer feedback which always provides improvement scope
            for any software development project
 
@@ -562,13 +554,13 @@
 
     Each loop of the spiral is called a Phase of the software development process. Each phase of Spiral Model is divided into four quadrants as shown in the above figure. The functions of these four quadrants are discussed below-
 
-    1. **Determining objectives, alternatives and constraints:**
+    1. **Determining objectives, alternatives and constraints:**  
        Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.
-    2. **Evaluating alternatives, identifying and resolving risks:**  
+    2. **Evaluating alternatives, identifying and resolving risks:**   
        During the second quadrant all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution is identified and the risks are resolved using the best possible strategy. At the end of this quadrant, Prototype is built for the best possible solution.
-    3. **Develop and verify next level project:**
+    3. **Develop and verify next level project:**  
        During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
-    4. **Review and plan for the next Phase:**
+    4. **Review and plan for the next Phase:**  
        In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.
 
     Use cases for the Waterfall model:
