@@ -31,7 +31,7 @@
     The SDLC methodology consists of the following phases of software development:
 
     <div  style="text-align: center;">
-          <img src="https://github.com/saifaustcse/SDLC_Methodologies/raw/master/images/sdlc_1.png" width="800" height="300">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/raw/master/images/sdlc_1.png" width="600" height="500">
     <div>
 
     **Phase 1 – Analysis/Planning**  
@@ -592,6 +592,45 @@
           * End of the project may not be known early
           * High risk for falling behind schedule or going over budget
           * Large number of intermediate stages requires excessive documentation
+
+    **Similarities between Waterfall and Spiral model:**
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
+    <div>
+
+    **Differences between Waterfall and Spiral model:**
+
+    <div  style="text-align: center;">
+           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
+    <div>
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+
+10. ### Agile Model
+
+    -   The Agile Model 
+
+      <div  style="text-align: center;">
+            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/agile-umbrella.png" width="500" height="500">
+      <div>
+
+
+    Use cases for the Agile model:
+
+          * The Agile Model 
+         
+
+    Pros:
+
+          * The Agile Model 
+         
+
+    Cons:
+
+          * The Agile Model 
+        
 
     **Similarities between Waterfall and Spiral model:**
 
