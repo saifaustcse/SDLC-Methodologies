@@ -43,7 +43,7 @@
     -   How the software will be used?
     -   What data will serve as the input of the software?
     -   What data will be the output given by the software?
-    -   Who is going to use the software?
+    -   Who is going to use the software?  
 
     **Sub Phase 2 – Feasibility Study**
 
@@ -54,11 +54,11 @@
     -   Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
     -   Technical: What is the availability of technology and HR resources to support the SLDC process?
     -   Schedule: Can we finish the project in time?
-    -   Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
+    -   Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.  
 
     **Sub Phase 3 – Defining Requirements**
 
-    Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
+    Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.  
 
     **Phase 2 – Design**
 
@@ -68,24 +68,24 @@
 
     This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time constraints, the best design approach is selected for the product.
 
-    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.
+    A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.  
 
     **Phase 3 – Development/Implementation**
 
     In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
 
-    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases such as oracle, MSSQL, MySQL, MongoDb are used for dumping data.
+    Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structued and non structured) databases such as oracle, MSSQL, MySQL, MongoDb are used for dumping data.  
 
     **Phase 4 – Testing/Quality Assurance**
 
     In this phase systems integration and system testing (of programs and procedures)—normally carried out by a Quality Assurance (QA) professional—to determine if the proposed design meets the initial set of business goals. Testing may be repeated, specifically to check for errors, bugs and interoperability. This testing will be performed until the end user finds it acceptable.
 
-    During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the non-functional testing is carried out.
+    During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as the non-functional testing is carried out.  
 
     **Phase 5 – Deployment/Release**
 
     This phase is carried out right after the successful testing of the software product. It is simply delivering the software to the end-user or installing it onto the customer’s system(s).
-    The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the developer team working on the project afterward. Once all the changes are complete, the final deployment takes place.
+    The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the developer team working on the project afterward. Once all the changes are complete, the final deployment takes place.  
 
     **Phase 6 – Maiantenance**
 
