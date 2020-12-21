@@ -20,13 +20,13 @@
 
 ## Details
 
-1. ### What is SDLC?
+1.  ### What is SDLC?
 
     The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
 
     **[⬆ Back to Top](#table-of-contents)**
 
-2. ### What are the phases of SDLC?
+2.  ### What are the phases of SDLC?
 
     The SDLC methodology consists of the following phases of software development:
 
@@ -40,21 +40,21 @@
 
     **Sub Phase 1 – Requirement Analysis**
 
-    - How the software will be used?
-    - What data will serve as the input of the software?
-    - What data will be the output given by the software?
-    - Who is going to use the software?
+    -   How the software will be used?
+    -   What data will serve as the input of the software?
+    -   What data will be the output given by the software?
+    -   Who is going to use the software?
 
     **Sub Phase 2 – Feasibility Study**
 
     In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
 
-    - Economic: Is it financially viable to invest in the project based on the available resources?
-    - Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
-    - Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
-    - Technical: What is the availability of technology and HR resources to support the SLDC process?
-    - Schedule: Can we finish the project in time?
-    - Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
+    -   Economic: Is it financially viable to invest in the project based on the available resources?
+    -   Legal: What is the scope of regulations and the organization’s capacity to guarantee compliance?
+    -   Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
+    -   Technical: What is the availability of technology and HR resources to support the SLDC process?
+    -   Schedule: Can we finish the project in time?
+    -   Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
 
     **Sub Phase 3 – Defining Requirements**
 
@@ -93,11 +93,11 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-3. ### Top-SDLC-methodologies
+3.  ### Top-SDLC-methodologies
 
-![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
+    ![](https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/flow-chart.png)
 
-**[⬆ Back to Top](#table-of-contents)**
+    **[⬆ Back to Top](#table-of-contents)**
 
 4.  ### Waterfall Model
 
@@ -329,8 +329,8 @@
 
 8.  ### Prototype Model
 
-    -   The Prototype model is an evolutionary software process model that is a combination of the Iterative and waterfall model  
-    -   Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.  
+    -   The Prototype model is an evolutionary software process model that is a combination of the Iterative and waterfall model
+    -   Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.
     -   Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is build using the Waterfall model approach.
     -   Software prototyping is used in typical cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
 
@@ -398,15 +398,15 @@
     -   This model is used to completing the process of software product developing in a very short time.
     -   If your project can be divided into many parts or modules then the Rapid application development model is used.
 
-        <div  style="text-align: center;">
-              <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
-        <div>
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad.png" width="800" height="400">
+    <div>
 
     Although RAD has changed over the years, following four basic phases provide some continuity over the years.
 
-       <div  style="text-align: center;">
-               <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
-         <div>
+    <div  style="text-align: center;">
+        <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/rad_iterative.png" width="800" height="400">
+    <div>
 
     1. Requirement Analysis
        There are various approaches which is used in requirement planning like brainstorming , task analysis ,form analysis ,user scenario etc. This phase consists plan or designing of each module which contains data, methods and other resources.
@@ -422,7 +422,6 @@
 
     Use cases for the RAD model:
 
-   
          * RAD model completes the project in a short period of time.
          * The progress and development of project can be check on various stages .
          * This model uses the powerful techniques and tools.
@@ -526,9 +525,9 @@
 
     **Similarities between Waterfall and RAD model:**
 
-     <div  style="text-align: center;">
-            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
-     <div>
+    <div  style="text-align: center;">
+          <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
+    <div>
 
     **Differences between Waterfall and RAD model:**
 
