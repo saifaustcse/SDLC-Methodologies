@@ -16,7 +16,8 @@
 | 8   | [Prototype Model](#prototype-model)                          |
 | 9   | [RAD Model](#RAD-model)                                      |
 | 10  | [Spiral Model](#spiral-model)                                |
-| 11  | [References](#references)                                    |
+| 11  | [Agile Model](#agile-model)                                  |
+| 12  | [References](#references)                                    |
 
 ## Details
 
@@ -633,18 +634,25 @@
     I have followed many articles but among them, the following articles are really helpful. Those articles helped me a lot and also encourage me to write this article according to my understanding.
 
     -   [tutorialspoint](https://www.tutorialspoint.com/sdlc/index.htm)
-    -   [Top 12 SDLC Methodologies with Pros and Cons](https://www.techuz.com/blog/top-12-sdlc-methodologies-with-pros-and-cons/)
-    -   [SDLC Methodologies](https://svitla.com/blog/sdlc-methodologies)
-    -   [Top 6 SDLC Methodologies And How To Choose The Best One?](https://www.goodcore.co.uk/blog/sdlc-methodologies/)
-    -   [Top 7 SDLC Methodologies](https://hackr.io/blog/sdlc-methodologies)
-    -   [SDLC Models Explained: Agile, Waterfall, V-Shaped, Iterative, Spiral](https://existek.com/blog/sdlc-models/)
-    -   [TOP SOFTWARE DEVELOPMENT MODELS: THEIR PROS & CONS](https://cybercraftinc.com/blog/top-software-development-models-their-pros-cons)
-    -   [SDLC (Software Development Life Cycle) Phases, Methodologies, Process, And Models](https://www.softwaretestinghelp.com/software-development-life-cycle-sdlc/)
-    -   [Waterfall vs. Incremental vs. Spiral vs. Rad Model: Key Difference](https://www.guru99.com/compare-waterfall-vs-incremental-vs-spiral-vs-rad.html)
-    -   [What are the Different Types of Agile Methodologies?](https://www.wrike.com/project-management-guide/faq/what-are-the-different-types-of-agile-methodologies/)
-    -   [Agile Methodologies](https://www.blueprintsys.com/agile-development-101/agile-methodologies)
-    -   [Difference between V-model and Waterfall model](https://www.geeksforgeeks.org/difference-between-v-model-and-waterfall-model/)
-    -   [Choosing the right Software development life cycle model](https://melsatar.blog/2012/03/21/choosing-the-right-software-development-life-cycle-model/?fbclid=IwAR1mpCDGUxD0CuhdSWtgtHsUEXQWMtPi4aWCdG03P1p-bYoXXY9M_geNZl4)
-    -   [Spiral Model – What Is SDLC Spiral Model?](https://www.softwaretestinghelp.com/spiral-model-what-is-sdlc-spiral-model/)
+    -   [tatvasoft](https://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantages-disadvantages/)
+    -   [scnsoft](https://www.scnsoft.com/blog/software-development-models)
+    -   [cs.odu.edu](https://www.cs.odu.edu/~zeil/cs350/f15/Public/processModels/)
+    -   [visual-paradigm](https://www.visual-paradigm.com/guide/software-development-process/what-is-a-software-process-model/)
+    -   [javatpoint](https://www.javatpoint.com/software-engineering-sdlc-models)
+    -   [w3schools.in](https://www.w3schools.in/sdlc-tutorial/software-development-life-cycle-sdlc/)
+    -   [prepinsta](https://prepinsta.com/software-engineering/software-development-life-cycle-models/)
+    -   [techuz](https://www.techuz.com/blog/top-12-sdlc-methodologies-with-pros-and-cons/)
+    -   [softwaretestinghelp](https://www.softwaretestinghelp.com/software-development-life-cycle-sdlc/)
+    -   [cybercraftinc](https://cybercraftinc.com/blog/top-software-development-models-their-pros-cons)
+    -   [existek](https://existek.com/blog/sdlc-models/)
+    -   [guru99](https://www.guru99.com/compare-waterfall-vs-incremental-vs-spiral-vs-rad.html)
+    -   [agility](https://agility.im/frequent-agile-question/difference-incremental-iterative-development/)
+    -   [quora](https://www.quora.com/What-is-the-difference-between-agile-incremental-and-iterative)
+    -   [availagility](https://availagility.co.uk/2009/12/22/fidelity-the-lost-dimension-of-the-iron-triangle/)
+    -   [wrike](https://www.wrike.com/project-management-guide/faq/what-are-the-different-types-of-agile-methodologies/)
+    -   [blueprintsys](https://www.blueprintsys.com/agile-development-101/agile-methodologies)
+    -   [melsatar](https://melsatar.blog/2012/03/21/choosing-the-right-software-development-life-cycle-model/?fbclid=IwAR1mpCDGUxD0CuhdSWtgtHsUEXQWMtPi4aWCdG03P1p-bYoXXY9M_geNZl4)
+    -   [softwaretestingclass](https://www.softwaretestingclass.com/what-is-the-difference-between-scrum-kanban-and-xp/)
 
+    
     **[⬆ Back to Top](#table-of-contents)**
