@@ -181,9 +181,7 @@
 
     </details>
     <details>
-    <summary><b>V-Model - Verification Phases </b></summary>
-
-    **V-Model - Validation Phases:**
+    <summary><b>V-Model - Validation Phases: </b></summary>
 
     1. **Unit Testing:** Unit Test Plans are developed during module design phase. These Unit Test Plans are executed to eliminate bugs at code or unit level.
 
@@ -192,7 +190,7 @@
     3. **System Testing:** System testing test the complete application with its functionality, inter dependency, and communication.It tests the functional and non-functional requirements of the developed application.
 
     4. **User Acceptance Testing (UAT):** UAT is performed in a user environment that resembles the production environment. UAT verifies that the delivered system meets user’s requirement and system is ready for use in real world.
-    </details>
+     </details>
 
     Use cases for the Waterfall model:
 
