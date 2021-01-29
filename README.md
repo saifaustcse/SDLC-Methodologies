@@ -166,7 +166,8 @@
 
     **Validation:** It involves dynamic analysis method (functional, non-functional), testing is done by executing code. Validation is the process to classify the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.
 
-    **V-Model - Verification Phases:**
+    <details>
+    <summary><b>V-Model - Verification Phases </b></summary>
 
     1. **Business requirement analysis:** This is the first step where product requirements understood from the customer's side. This phase contains detailed communication to understand customer's expectations and exact requirements.
 
@@ -178,6 +179,10 @@
 
     5. **Coding Phase:** After designing, the coding phase is started. Based on the requirements, a suitable programming language is decided. There are some guidelines and standards for coding. Before checking in the repository, the final build is optimized for better performance, and the code goes through many code reviews to check the performance.
 
+    </details>
+    <details>
+    <summary><b>V-Model - Verification Phases </b></summary>
+
     **V-Model - Validation Phases:**
 
     1. **Unit Testing:** Unit Test Plans are developed during module design phase. These Unit Test Plans are executed to eliminate bugs at code or unit level.
@@ -187,6 +192,7 @@
     3. **System Testing:** System testing test the complete application with its functionality, inter dependency, and communication.It tests the functional and non-functional requirements of the developed application.
 
     4. **User Acceptance Testing (UAT):** UAT is performed in a user environment that resembles the production environment. UAT verifies that the delivered system meets user’s requirement and system is ready for use in real world.
+    </details>
 
     Use cases for the Waterfall model:
 
