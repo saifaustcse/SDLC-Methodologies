@@ -42,7 +42,6 @@
 
     <details>
     <summary><b>Sub Phases of Analysis/Planning </b></summary>
-    
 
     Planning pahse can be divided in 3 sub pahses:
 
@@ -661,5 +660,4 @@
     -   [melsatar](https://melsatar.blog/2012/03/21/choosing-the-right-software-development-life-cycle-model/?fbclid=IwAR1mpCDGUxD0CuhdSWtgtHsUEXQWMtPi4aWCdG03P1p-bYoXXY9M_geNZl4)
     -   [softwaretestingclass](https://www.softwaretestingclass.com/what-is-the-difference-between-scrum-kanban-and-xp/)
 
-    
     **[⬆ Back to Top](#table-of-contents)**
