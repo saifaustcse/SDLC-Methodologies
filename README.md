@@ -42,6 +42,7 @@
 
     <details>
     <summary><b>Sub Phases of Analysis/Planning </b></summary>
+    
 
     Planning pahse can be divided in 3 sub pahses:
 
