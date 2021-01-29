@@ -39,13 +39,11 @@
 
     The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders.
     It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
-    Planning pahse can be divided in 3 sub pahses:
-    -   Sub Phase 1 – Requirement Analysis
-    -   Sub Phase 2 – Feasibility Study
-    -   Sub Phase 3 – Defining Requirements
 
     <details>
     <summary><b>Sub Phases of Analysis/Planning </b></summary>
+
+    Planning pahse can be divided in 3 sub pahses:
 
     **Sub Phase 1 – Requirement Analysis**
 
