@@ -227,17 +227,19 @@
           * Not suitable for the projects where requirements are at a moderate to high risk of changing
           * Not a good model for large or complex and object-oriented projects
 
-    **Similarities between Waterfall and V-model:**
-
+    <details>
+    <summary><b>Similarities between Waterfall and V-model :</b></summary>
      <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_similarities.PNG" width="800" height="450">
     <div>
+    </details>
 
-    **Differences between Waterfall and V-model:**
-
+    <details>
+    <summary><b>Differences between Waterfall and V-model :</b></summary>
       <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_vmodel_differences.PNG" width="800" height="200">
     <div>
+    </details>
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -283,17 +285,19 @@
         * Highly skilled resources are required for risk analysis
         * More management attention is required
 
-    **Similarities between Waterfall and Incremental model:**
-
+    <details>
+    <summary><b>Similarities between Waterfall and Incremental model: </b></summary>
      <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
     <div>
+    </details>
 
-    **Differences between Waterfall and Incremental model:**
-
+    <details>
+    <summary><b>Differences between Waterfall and Incremental model: </b></summary>
      <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
     <div>
+    </details>
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -336,17 +340,21 @@
         * Highly skilled resources are required for risk analysis
         * More management attention is required
 
-    **Similarities between Waterfall and Iterative model:**
+    <details>
+    <summary><b>Similarities between Waterfall and Iterative model: </b></summary>
 
      <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
     <div>
+    </details>
 
-    **Differences between Waterfall and Iterative model:**
+    <details>
+    <summary><b>Differences between Waterfall and Iterative model: </b></summary>
 
      <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
     <div>
+    </details>
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -399,17 +407,20 @@
          * Developers may try to reuse the existing prototypes to build the actual system, even when it is
            not technically feasible
 
-    **Similarities between Waterfall and Prototype model:**
-
+    <details>
+    <summary><b>Similarities between Waterfall and Prototype model: </b></summary>
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
     <div>
+    </details>
 
-    **Differences between Waterfall and Prototype model:**
+    <details>
+    <summary><b>Differences between Waterfall and Prototype model: </b></summary>
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="800" height="450">
     <div>
+    </details>
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -525,17 +536,21 @@
            as a cost of modeling and automated code generation is very high
          * Inapplicable to cheaper projects as cost of Modelling and automated code generation is very high
 
-    **Similarities between Waterfall and RAD model:**
+    <details>
+    <summary><b>Similarities between Waterfall and RAD model: </b></summary>
 
     <div  style="text-align: center;">
           <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_similarities.PNG" width="800" height="250">
     <div>
+    </details>
 
-    **Differences between Waterfall and RAD model:**
+    <details>
+    <summary><b>Differences between Waterfall and RAD model: </b></summary>
 
      <div  style="text-align: center;">
             <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_prototype_differences.PNG" width="800" height="450">
      <div>
+    </details>
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -591,17 +606,21 @@
           * High risk for falling behind schedule or going over budget
           * Large number of intermediate stages requires excessive documentation
 
-    **Similarities between Waterfall and Spiral model:**
+    <details>
+    <summary><b>Similarities between Waterfall and Spiral model: </b></summary>
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
     <div>
+    </details>
 
-    **Differences between Waterfall and Spiral model:**
+    <details>
+    <summary><b>Differences between Waterfall and Spiral model: </b></summary>
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
     <div>
+    </details>
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -625,17 +644,20 @@
 
           * The Agile Model
 
-    **Similarities between Waterfall and Spiral model:**
-
+    <details>
+    <summary><b>Similarities between Waterfall and Spiral model: </b></summary>
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_similarities.PNG" width="800" height="200">
     <div>
+    </details>
 
-    **Differences between Waterfall and Spiral model:**
+    <details>
+    <summary><b>Differences between Waterfall and Spiral model: </b></summary>
 
     <div  style="text-align: center;">
            <img src="https://github.com/saifaustcse/SDLC_Methodologies/blob/master/images/water_incemental_differences.PNG" width="800" height="450">
     <div>
+    </details>
 
     **[⬆ Back to Top](#table-of-contents)**
 
