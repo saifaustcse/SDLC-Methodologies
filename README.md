@@ -114,7 +114,7 @@ The final phase involves maintenance and regular required updates. This step is 
 The process is outlined by a series of finite stages, each of which must be fully completed before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and moves forward in a linear flow.
 
 <p align="center">
-    <img src="images/waterfall.jpg" alt="Waterfall Model" width="800" height="450">
+    <img src="images/waterfall.png" alt="Waterfall Model" width="800" height="450">
 </p>
 
 **Use cases for the Waterfall model:**
