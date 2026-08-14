@@ -127,7 +127,6 @@ SDLC Approaches
     └── DSDM
 ```
 
-
 ## 4. Waterfall Model
 
 > **Waterfall is a sequential and linear flow for developing a software application.**
@@ -232,7 +231,6 @@ The V-Model places Verification phases on one side and Validation phases on the 
 - Not a good model for large, complex, or object-oriented projects
 
 **[⬆ Back to Top](#table-of-contents)**
-
 
 ## 6. Prototyping Model
 
