@@ -35,7 +35,7 @@ The SDLC methodology consists of the following phases of software development:
 
 **Phase 1 – Analysis/Planning**
 
-The very first phase of the SDLC known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders.
+The very first phase of the SDLC is known as the planning stage. It is the most important phase of the entire SDLC from the perspective of project managers and stakeholders.
 It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
 
 <details>
@@ -242,10 +242,6 @@ In this incremental model, the whole requirement is divided into various builds.
     <img src="images/incremental.png" alt="Incremental Model" width="800" height="450">
 </p>
 
-<p align="center">
-    <img src="images/incremental_.png" alt="Incremental Model 2" width="800" height="450">
-</p>
-
 **Use cases for the Incremental model:**
 
 - This model can be used when the requirements of the complete system are clearly defined and understood
@@ -354,7 +350,7 @@ Each iteration goes through its own planning, design, coding and testing phases,
 - Software prototyping is used in certain cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
 
 <p align="center">
-    <img src="images/prototype.jpg" alt="Prototype Model" width="800" height="450">
+    <img src="images/prototype.png" alt="Prototype Model" width="800" height="450">
 </p>
 
 **Use cases for the Prototype model:**
