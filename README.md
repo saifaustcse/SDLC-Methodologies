@@ -52,18 +52,18 @@ The Planning phase can be divided into 3 sub-phases:
 
 **Sub Phase 2 – Feasibility Study**
 
-In this phase, evaluate the requirements for feasibility. The goal is to quantify the opportunities and risk of addressing the agreed requirements with the variety of resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
+In this phase, the requirements are evaluated for feasibility. The goal is to quantify the opportunities and risks of addressing the agreed requirements with the variety of resources and strategies available to the organization. The feasibility study evaluates the following key aspects, among others:
 
 - Economic: Is it financially viable to invest in the project based on the available resources?
 - Legal: What is the scope of regulations and the organization's capacity to guarantee compliance?
 - Operational: Can we satisfy the requirements within scope definition according to the proposed operational framework and workflows?
 - Technical: What is the availability of technology and HR resources to support the SDLC process?
 - Schedule: Can we finish the project in time?
-- Executive decision makers should answer and document these questions and study them carefully—before proceeding with the software design and implementation process.
+- Executive decision makers should answer, document, and study these questions carefully before proceeding with the software design and implementation process.
 
 **Sub Phase 3 – Defining Requirements**
 
-Once the requirement analysis and feasibility study is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirements Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
+Once the requirement analysis and feasibility study is complete, the next step is to clearly define and document the product requirements and get them approved by the customer or the market analysts. This is done through an SRS (Software Requirements Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
 
 </details>
 
@@ -79,9 +79,9 @@ The chosen design clearly defines all the architectural modules of the product a
 
 **Phase 3 – Development/Implementation**
 
-In this phase the actual development starts and the product is built. The code is generated and the database is designed as per the DDS. If the design is detailed and organized, code generation can be done without much hassle.
+In this phase, the actual development starts and the product is built. The code is generated and the database is designed as per the DDS. If the design is detailed and organized, code generation can be done without much hassle.
 
-Developers must follow the coding guidelines defined by their organization, and tools such as compilers, interpreters and debuggers are used to generate the code. High-level programming languages such as C, C++, Pascal, Java and PHP are used for coding, and structured and non-structured databases such as Oracle, MSSQL, MySQL and MongoDB are used for storing data.
+Developers must follow the coding guidelines defined by their organization, and tools such as compilers, interpreters and debuggers are used to generate the code. High-level programming languages such as C, C++, Java and PHP are used for coding, and relational databases (e.g., Oracle, MSSQL, MySQL) as well as NoSQL databases (e.g., MongoDB) are used for storing data.
 
 **Phase 4 – Testing/Quality Assurance**
 
@@ -122,9 +122,6 @@ SDLC Methodologies
 │   ├── Extreme Programming (XP)
 │   ├── Feature-Driven Development (FDD)
 │   └── Dynamic Systems Development Method (DSDM)
-│
-└── DevOps
-    └── Development + Operations + Automation
 ```
 
 ## 4. Waterfall Model
@@ -170,7 +167,7 @@ The project moves through a series of finite stages, and each stage must be full
     <img src="images/v-model.png" alt="V-Shaped Model" width="800" height="450">
 </p>
 
-The V-Model contains Verification phases on one side and the Validation phases on the other side. Verification and Validation process is joined by the coding phase in V-shape. Thus it is known as V-Model.
+The V-Model places Verification phases on one side and Validation phases on the other, joined by the coding phase at the bottom to form a V-shape. Hence the name V-Model.
 
 **Verification:** A static analysis method (review) done without executing code. It evaluates the development process to find whether the specified requirements are met.
 
@@ -179,15 +176,15 @@ The V-Model contains Verification phases on one side and the Validation phases o
 <details>
 <summary><b>V-Model - Verification Phases </b></summary>
 
-1. **Business requirement analysis:** This is the first step where product requirements understood from the customer's side. This phase contains detailed communication to understand the customer's expectations and exact requirements.
+1. **Business requirement analysis:** This is the first step where product requirements are understood from the customer's side. This phase contains detailed communication to understand the customer's expectations and exact requirements.
 
-2. **System Design:** In this stage system engineers analyze and interpret the business of the proposed system by studying the user requirements document.
+2. **System Design:** In this stage, system engineers analyze and interpret the business requirements of the proposed system by studying the user requirements document.
 
-3. **Architecture Design:** The baseline for selecting the architecture is that it should cover everything, which typically consists of the list of modules, brief functionality of each module, their interface relationships, dependencies, database tables, architecture diagrams, technology details, etc. The integration testing model is carried out in a particular phase.
+3. **Architecture Design:** The baseline for selecting the architecture is that it should cover everything, which typically consists of the list of modules, brief functionality of each module, their interface relationships, dependencies, database tables, architecture diagrams, technology details, etc. Integration testing is planned during this phase.
 
 4. **Module Design:** In the module design phase, the system breaks down into small modules. The detailed design of the modules is specified, which is known as Low-Level Design.
 
-5. **Coding Phase:** After designing, the coding phase is started. Based on the requirements, a suitable programming language is decided. There are some guidelines and standards for coding. Before checking in the repository, the final build is optimized for better performance, and the code goes through many code reviews to check the performance.
+5. **Coding Phase:** After designing, the coding phase is started. Based on the requirements, a suitable programming language is decided. There are some guidelines and standards for coding. Before being committed to the repository, the final build is optimized for better performance, and the code goes through many code reviews to verify its quality.
 
 </details>
 <details>
@@ -195,11 +192,11 @@ The V-Model contains Verification phases on one side and the Validation phases o
 
 1. **Unit Testing:** Unit Test Plans are developed during module design phase. These Unit Test Plans are executed to eliminate bugs at code or unit level.
 
-2. **Integration testing:** After completion of unit testing Integration testing is performed. In integration testing, the modules are integrated and the system is tested. Integration testing is performed in the Architecture design phase. This test verifies the communication of modules among themselves.
+2. **Integration testing:** After completion of unit testing, integration testing is performed. In integration testing, the modules are integrated and the system is tested. Integration testing is performed in the Architecture design phase. This test verifies the communication of modules among themselves.
 
 3. **System Testing:** System testing tests the complete application with its functionality, interdependency, and communication. It tests the functional and non-functional requirements of the developed application.
 
-4. **User Acceptance Testing (UAT):** UAT is performed in a user environment that resembles the production environment. UAT verifies that the delivered system meets user's requirement and system is ready for use in real world.
+4. **User Acceptance Testing (UAT):** UAT is performed in a user environment that resembles the production environment. UAT verifies that the delivered system meets the user's requirements and is ready for use in the real world.
 
 </details>
 
@@ -228,23 +225,7 @@ The V-Model contains Verification phases on one side and the Validation phases o
 - No working software module is produced until late in the life cycle
 - The progress of the stage is hard to measure while it is still in the development
 - Not suitable for the projects where requirements are at a moderate to high risk of changing
-- Not a good model for large or complex and object-oriented projects
-
-<details>
-<summary><b>Similarities between Waterfall and V-model :</b></summary>
-
-<p align="center">
-    <img src="images/water_vmodel_similarities.PNG" alt="Similarities between Waterfall and V-model" width="800" height="450">
-</p>
-</details>
-
-<details>
-<summary><b>Differences between Waterfall and V-model :</b></summary>
-
-<p align="center">
-    <img src="images/water_vmodel_differences.PNG" alt="Differences between Waterfall and V-model" width="800" height="200">
-</p>
-</details>
+- Not a good model for large, complex, or object-oriented projects
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -285,22 +266,6 @@ The whole requirement is divided into various builds. Each build goes through th
 - Highly skilled resources are required for risk analysis
 - More management attention is required
 
-<details>
-<summary><b>Similarities between Waterfall and Incremental model: </b></summary>
-
-<p align="center">
-    <img src="images/water_incemental_similarities.PNG" alt="Similarities between Waterfall and Incremental model" width="800" height="200">
-</p>
-</details>
-
-<details>
-<summary><b>Differences between Waterfall and Incremental model: </b></summary>
-
-<p align="center">
-    <img src="images/water_incemental_differences.PNG" alt="Differences between Waterfall and Incremental model" width="800" height="450">
-</p>
-</details>
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ## 7. Iterative Model
@@ -335,7 +300,7 @@ Each iteration goes through its own planning, design, coding and testing phases,
 
 ## 8. Prototype Model
 
-- The Prototype model is an evolutionary software process model that is a combination of the Iterative and waterfall model
+- The Prototype model is an evolutionary software process model that is a combination of the Iterative and Waterfall models
 - Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.
 - Customer feedback and the refined requirement is used to modify the prototype and is again presented to the customer for evaluation. Once the customer approves the prototype, it is used as a requirement for building the actual software. The actual software is built using the Waterfall model approach.
 - Software prototyping is used in certain cases and the decision should be taken very carefully so that the efforts spent in building the prototype add considerable value to the final software developed.
@@ -371,28 +336,12 @@ Each iteration goes through its own planning, design, coding and testing phases,
 - Poor documentation because the requirements of the customers are insufficient
 - Risk of insufficient requirement analysis owing to too much dependency on the prototype.
 - Prototyping may encourage excessive change requests
-- There may be far too many variations in software requirements when each time the prototype is evaluated by the customer
+- There may be far too many variations in software requirements each time the prototype is evaluated by the customer
 - It is very difficult for software developers to accommodate all the changes demanded by the clients.
 - Users may get confused in the prototypes and actual systems
 - After seeing an early prototype model, the customers may think that the actual product will be delivered to them soon
 - Developers who want to build prototypes quickly may end up building sub-standard development solutions
 - Developers may try to reuse the existing prototypes to build the actual system, even when it is not technically feasible
-
-<details>
-<summary><b>Similarities between Waterfall and Prototype model: </b></summary>
-
-<p align="center">
-    <img src="images/water_prototype_similarities.PNG" alt="Similarities between Waterfall and Prototype model" width="800" height="250">
-</p>
-</details>
-
-<details>
-<summary><b>Differences between Waterfall and Prototype model: </b></summary>
-
-<p align="center">
-    <img src="images/water_prototype_differences.PNG" alt="Differences between Waterfall and Prototype model" width="800" height="450">
-</p>
-</details>
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -408,9 +357,9 @@ Each iteration goes through its own planning, design, coding and testing phases,
     <img src="images/rad.png" alt="RAD Model" width="800" height="400">
 </p>
 
-Although RAD has changed over the years, following four basic phases provide some continuity over the years.
+Although RAD has evolved over the years, the following four basic phases provide some continuity:
 
-1. **Requirement Analysis:** There are various approaches used in requirement planning like brainstorming, task analysis, form analysis, user scenario, etc. This phase consists of planning or designing of each module which contains data, methods and other resources.
+1. **Requirement Analysis:** There are various approaches used in requirement planning like brainstorming, task analysis, form analysis, user scenario, etc. This phase consists of planning and designing each module, which contains data, methods and other resources.
 
 2. **Customer Evaluation:** In this phase, developers evaluate customer satisfaction by delivering the prototype and taking their reviews. If the customer is satisfied then the developer starts implementation.
 
@@ -470,12 +419,12 @@ Although RAD has changed over the years, following four basic phases provide som
     <img src="images/spiral.png" alt="Spiral Model" width="800" height="400">
 </p>
 
-Each loop of the spiral is called a Phase of the software development process. Each phase of Spiral Model is divided into four quadrants as shown in the above figure. The functions of these four quadrants are discussed below-
+Each loop of the spiral is called a phase of the software development process. Each phase of the Spiral Model is divided into four quadrants, as shown in the figure above. The functions of these four quadrants are discussed below:
 
 1. **Determining objectives, alternatives and constraints:** Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.
-2. **Evaluating alternatives, identifying and resolving risks:** During the second quadrant all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution is identified and the risks are resolved using the best possible strategy. At the end of this quadrant, Prototype is built for the best possible solution.
+2. **Evaluating alternatives, identifying and resolving risks:** During the second quadrant, all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution are identified and resolved using the best possible strategy. At the end of this quadrant, a prototype is built for the best possible solution.
 3. **Develop and verify next level project:** During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
-4. **Review and plan for the next Phase:** In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.
+4. **Review and plan for the next Phase:** In the fourth quadrant, customers evaluate the version of the software developed so far. Finally, planning for the next phase is started.
 
 **Use cases for the Spiral model:**
 
@@ -548,60 +497,52 @@ Each loop of the spiral is called a Phase of the software development process. E
 
 **[⬆ Back to Top](#table-of-contents)**
 
-SDLC Methodologies — Generic Comparison:
+## 11. SDLC Methodologies — Comparison
 
-| Characteristic           | Waterfall           | V-Model                         | Prototyping          | Spiral             | RAD                     | Iterative & Incremental | Agile                 | DevOps                       |
-| ------------------------ | ------------------- | ------------------------------- | -------------------- | ------------------ | ----------------------- | ----------------------- | --------------------- | ---------------------------- |
-| **Requirements**         | Predefined          | Predefined                      | Initially unclear    | Evolving           | Flexible                | Evolving                | Continuously evolving | Continuously evolving        |
-| **Customer Involvement** | Low                 | Low                             | High                 | High               | High                    | Regular                 | Very High             | Continuous                   |
-| **Feedback**             | End of project      | End of project                  | Frequent             | Frequent           | Frequent                | Every iteration         | Continuous            | Continuous                   |
-| **Working Software**     | End of project      | End of project                  | Early prototype      | Early & iterative  | Early                   | Every increment         | Frequent increments   | Continuous delivery          |
-| **Testing**              | After development   | Planned from early stages       | Iterative            | Every cycle        | Iterative               | Every increment         | Continuous            | Continuous & automated       |
-| **Change Handling**      | Difficult           | Difficult                       | Easy                 | Easy               | Easy                    | Easy                    | Very Easy             | Very Easy                    |
-| **Progress Visibility**  | Low                 | Low                             | Moderate             | High               | High                    | High                    | High                  | Very High                    |
-| **Risk Management**      | Low                 | Medium                          | Medium               | High               | Medium                  | High                    | High                  | High                         |
-| **Delivery Frequency**   | Once                | Once                            | Prototype + final    | Iterative          | Frequent                | Incremental             | Frequent              | Continuous                   |
-| **Documentation**        | Extensive           | Extensive                       | Moderate             | Extensive          | Moderate                | Moderate–High           | Just enough           | Automated where possible     |
-| **Development Approach** | Sequential          | Sequential + verification       | Prototype-driven     | Risk-driven        | Rapid development       | Incremental             | Adaptive              | Continuous                   |
-| **Best Suited For**      | Stable requirements | Safety/quality-critical systems | Unclear requirements | High-risk projects | Time-sensitive projects | Evolving products       | Dynamic products      | Continuous software delivery |
+| Characteristic           | Waterfall           | V-Model                         | Prototyping          | Spiral             | RAD                     | Iterative & Incremental | Agile                 |
+| ------------------------ | ------------------- | ------------------------------- | -------------------- | ------------------ | ----------------------- | ----------------------- | --------------------- |
+| **Requirements**         | Predefined          | Predefined                      | Initially unclear    | Evolving           | Flexible                | Evolving                | Continuously evolving |
+| **Customer Involvement** | Low                 | Low                             | High                 | High               | High                    | Regular                 | Very High             |
+| **Feedback**             | End of project      | End of project                  | Frequent             | Frequent           | Frequent                | Every iteration         | Continuous            |
+| **Working Software**     | End of project      | End of project                  | Early prototype      | Early & iterative  | Early                   | Every increment         | Frequent increments   |
+| **Testing**              | After development   | Planned from early stages       | Iterative            | Every cycle        | Iterative               | Every increment         | Continuous            |
+| **Change Handling**      | Difficult           | Difficult                       | Easy                 | Easy               | Easy                    | Easy                    | Very Easy             |
+| **Progress Visibility**  | Low                 | Low                             | Moderate             | High               | High                    | High                    | High                  |
+| **Risk Management**      | Low                 | Medium                          | Medium               | High               | Medium                  | High                    | High                  |
+| **Delivery Frequency**   | Once                | Once                            | Prototype + final    | Iterative          | Frequent                | Incremental             | Frequent              |
+| **Documentation**        | Extensive           | Extensive                       | Moderate             | Extensive          | Moderate                | Moderate–High           | Just enough           |
+| **Development Approach** | Sequential          | Sequential + verification       | Prototype-driven     | Risk-driven        | Rapid development       | Incremental             | Adaptive              |
+| **Best Suited For**      | Stable requirements | Safety/quality-critical systems | Unclear requirements | High-risk projects | Time-sensitive projects | Evolving products       | Dynamic products      |
 
-````
+## 11. How to Choose
+
+```
 What are your requirements like?
 │
 ├── Stable and well-defined
-│   │
 │   ├── Need strict verification/testing?
 │   │      └── V-Model
-│   │
 │   └── Otherwise
 │          └── Waterfall
 │
 ├── Unclear or uncertain
-│   │
 │   ├── Need to validate requirements through prototypes?
 │   │      └── Prototyping
-│   │
 │   └── High technical/business risk?
 │          └── Spiral
 │
 ├── Need gradual delivery?
-│   │
 │   └── Iterative & Incremental
 │
-├── Requirements change frequently?
-│   │
-│   ├── Structured iterations and sprints?
-│   │      └── Scrum
-│   │
-│   ├── Continuous incoming work?
-│   │      └── Kanban
-│   │
-│   └── Strong engineering practices and rapid feedback?
-│          └── XP
-│
-└── Need continuous build → test → release → deployment?
-       └── DevOps
-       ```
+└── Requirements change frequently?
+    ├── Structured iterations and sprints?
+    │      └── Scrum
+    ├── Continuous incoming work?
+    │      └── Kanban
+    └── Strong engineering practices and rapid feedback?
+           └── XP
+```
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ## 12. References
@@ -611,23 +552,9 @@ I have followed many articles, but among them the following were really helpful.
 - [tutorialspoint](https://www.tutorialspoint.com/sdlc/index.htm)
 - [tatvasoft](https://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantages-disadvantages/)
 - [scnsoft](https://www.scnsoft.com/blog/software-development-models)
-- [cs.odu.edu](https://www.cs.odu.edu/~zeil/cs350/f15/Public/processModels/)
 - [visual-paradigm](https://www.visual-paradigm.com/guide/software-development-process/what-is-a-software-process-model/)
-- [javatpoint](https://www.javatpoint.com/software-engineering-sdlc-models)
 - [w3schools.in](https://www.w3schools.in/sdlc-tutorial/software-development-life-cycle-sdlc/)
-- [prepinsta](https://prepinsta.com/software-engineering/software-development-life-cycle-models/)
-- [techuz](https://www.techuz.com/blog/top-12-sdlc-methodologies-with-pros-and-cons/)
-- [softwaretestinghelp](https://www.softwaretestinghelp.com/software-development-life-cycle-sdlc/)
-- [cybercraftinc](https://cybercraftinc.com/blog/top-software-development-models-their-pros-cons)
-- [existek](https://existek.com/blog/sdlc-models/)
-- [guru99](https://www.guru99.com/compare-waterfall-vs-incremental-vs-spiral-vs-rad.html)
-- [agility](https://agility.im/frequent-agile-question/difference-incremental-iterative-development/)
-- [quora](https://www.quora.com/What-is-the-difference-between-agile-incremental-and-iterative)
-- [availagility](https://availagility.co.uk/2009/12/22/fidelity-the-lost-dimension-of-the-iron-triangle/)
-- [wrike](https://www.wrike.com/project-management-guide/faq/what-are-the-different-types-of-agile-methodologies/)
-- [blueprintsys](https://www.blueprintsys.com/agile-development-101/agile-methodologies)
 - [melsatar](https://melsatar.blog/2012/03/21/choosing-the-right-software-development-life-cycle-model/?fbclid=IwAR1mpCDGUxD0CuhdSWtgtHsUEXQWMtPi4aWCdG03P1p-bYoXXY9M_geNZl4)
-- [softwaretestingclass](https://www.softwaretestingclass.com/what-is-the-difference-between-scrum-kanban-and-xp/)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -640,4 +567,3 @@ _A Software Engineer interested in Software Design & Architecture_
 **LinkedIn:** [Md. Saiful Islam](https://www.linkedin.com/in/saif-aust-cse/)
 
 If you find this guide useful, please give :star:. Your support is appreciated!
-````
