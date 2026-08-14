@@ -10,12 +10,12 @@ A concise, easy-to-follow guide to the **Software Development Life Cycle (SDLC)*
 | 2   | [The Phases of the SDLC](#2-the-phases-of-the-sdlc)                         |
 | 3   | [SDLC Methodologies: An Overview](#3-sdlc-methodologies-an-overview)        |
 | 4   | [Waterfall Model](#4-waterfall-model)                                       |
-| 5   | [V-Model](#5-v-model)                                                       |
-| 6   | [Incremental Model](#6-incremental-model)                                   |
-| 7   | [Iterative Model](#7-iterative-model)                                       |
-| 8   | [Prototyping Model](#8-prototyping-model)                                   |
-| 9   | [Rapid Application Development (RAD)](#9-rapid-application-development-rad) |
-| 10  | [Spiral Model](#10-spiral-model)                                            |
+| 5   | [V-Model](#4-v-model)                                                       |
+| 6   | [Prototyping Model](#6-prototyping-model)                                   |
+| 7   | [Spiral Model](#7-spiral-model)                                             |
+| 8   | [Rapid Application Development (RAD)](#8-rapid-application-development-rad) |
+| 9   | [Incremental Model](#9-incremental-model)                                   |
+| 10  | [Iterative Model](#10-iterative-model)                                      |
 | 11  | [Agile Model](#11-agile-model)                                              |
 | 12  | [Comparison of SDLC Methodologies](#12-comparison-of-sdlc-methodologies)    |
 | 13  | [Selecting the Right Methodology](#13-selecting-the-right-methodology)      |
@@ -114,8 +114,8 @@ SDLC Approaches
 │   └── RAD
 │
 ├── Iterative & Incremental
-│   ├── Iterative
-│   └── Incremental
+│   ├── Incremental
+│   └── Iterative
 │
 └── Agile
     ├── Scrum
@@ -126,6 +126,7 @@ SDLC Approaches
     ├── Feature-Driven Development (FDD)
     └── DSDM
 ```
+
 
 ## 4. Waterfall Model
 
@@ -232,76 +233,8 @@ The V-Model places Verification phases on one side and Validation phases on the 
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 6. Incremental Model
 
-> **The iterative and incremental methodology is designed to overcome the shortcomings of the Waterfall methodology.**
-
-The whole system is divided into various builds. Each build goes through the requirements, design, implementation and testing phases, and each subsequent release adds function to the previous one. The process continues until the complete system is ready.
-
-<p align="center">
-    <img src="images/incremental.png" alt="Incremental Model" width="800" height="450">
-</p>
-
-**Use cases for the Incremental model:**
-
-- This model can be used when the requirements of the complete system are clearly defined and understood
-- There is a need to get a functional module of the product to the market early
-
-**Pros:**
-
-- It supports changing requirements
-- Less costly to change the scope/requirements
-- Results are obtained early and periodically
-- An operational product is delivered with every increment
-- It delivers business value early in the development lifecycle
-- Progress can be measured
-- Parallel development can be planned
-- Testing and debugging during each smaller iteration is easy
-- Customer evaluation and feedback in each increment leads to better solutions
-- Issues, challenges and risks identified from each increment can be resolved to the next increment
-
-**Cons:**
-
-- Needs a clear and complete definition of the whole system before it can be broken down and built incrementally
-- Each iteration is rigid
-- Although cost of change is lesser, it is not very suitable for changing requirements
-- More resources may be required
-- Highly skilled resources are required for risk analysis
-- More management attention is required
-
-**[⬆ Back to Top](#table-of-contents)**
-
-## 7. Iterative Model
-
-> **The iterative model is an evolutionary approach in which the software is developed and delivered in small pieces, called iterations.**
-
-Each iteration goes through its own planning, design, coding and testing phases, and produces a working version of the software. This version is then refined in the next iteration based on feedback, until the complete system meets the requirements.
-
-<p align="center">
-    <img src="images/iterative.png" alt="Iterative Model" width="800" height="450">
-</p>
-
-**Use cases for the Iterative model:**
-
-- The requirements are not fully known at the start and are expected to evolve
-- A working version of the product is needed early to gather customer feedback
-
-**Pros:**
-
-- Supports changing requirements
-- A working version of the product is delivered with every iteration
-- Customer feedback from each iteration leads to better solutions
-- Risks are identified early and resolved in the next iteration
-
-**Cons:**
-
-- Requires active customer involvement throughout the project
-- Scope can keep expanding, delaying the final product
-- More resources and management attention may be required
-
-**[⬆ Back to Top](#table-of-contents)**
-
-## 8. Prototyping Model
+## 6. Prototyping Model
 
 - The Prototype model is an evolutionary software process model that is a combination of the Iterative and Waterfall models
 - Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.
@@ -348,7 +281,59 @@ Each iteration goes through its own planning, design, coding and testing phases,
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 9. Rapid Application Development (RAD)
+## 7. Spiral Model
+
+- The spiral model is an evolutionary software process model combining the Iterative and Prototyping models with the systematic, controlled aspects of the Waterfall model.
+- It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
+- It places very high emphasis on risk analysis during each iteration
+
+<p align="center">
+    <img src="images/spiral.png" alt="Spiral Model" width="800" height="400">
+</p>
+
+Each loop of the spiral is called a phase of the software development process. Each phase of the Spiral Model is divided into four quadrants, as shown in the figure above. The functions of these four quadrants are discussed below:
+
+1. **Determining objectives, alternatives and constraints:** Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.
+2. **Evaluating alternatives, identifying and resolving risks:** During the second quadrant, all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution are identified and resolved using the best possible strategy. At the end of this quadrant, a prototype is built for the best possible solution.
+3. **Develop and verify next level project:** During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
+4. **Review and plan for the next Phase:** In the fourth quadrant, customers evaluate the version of the software developed so far. Finally, planning for the next phase is started.
+
+**Use cases for the Spiral model:**
+
+- Customer isn't sure about the requirements
+- Requirements are unclear or complicated and require continuous clarification
+- Frequent releases of modules are required
+- When creation of a prototype is applicable
+- Customer evaluation and feedback is required in each increment to develop better solutions
+- Significant changes are expected in the product during the development cycle
+- Projects in which continuous risk evaluation is needed
+- It is suitable for large and complex projects
+
+**Pros:**
+
+- Requirement changes can be easily adopted and incorporated at the later stage of the development
+- Requirements can be captured more accurately by emphasizing customer feedback of each phase
+- Any enhancement or change in the functionality can be done in the next iteration
+- Customer evaluation and feedback is available in each iteration which leads to better solutions
+- Handling risk analysis in every phase improves security and mitigates the chances of attacks and breakages
+- Allows extensive use of prototypes
+- Users see the system early
+- More and more features are added in a systematic way
+
+**Cons:**
+
+- It is complex to understand, manage and implement
+- Requires high risk-analysis expertise
+- Demands risk management expertise
+- Since the number of iterations is unknown, the time required to complete the project remains a mystery
+- The project takes a significantly long time to develop, increasing the overall expense of the project
+- End of the project may not be known early
+- High risk for falling behind schedule or going over budget
+- Large number of intermediate stages requires excessive documentation
+
+**[⬆ Back to Top](#table-of-contents)**
+
+## 8. Rapid Application Development (RAD)
 
 - The RAD model is a concurrent software process model generally based on the prototype (Iterative and waterfall) model.
 - The entire project is divided into small modules; each module is developed in parallel by a different party, and then all modules are combined into the final project.
@@ -412,55 +397,72 @@ Although RAD has evolved over the years, the following four basic phases provide
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 10. Spiral Model
+## 9. Incremental Model
 
-- The spiral model is an evolutionary software process model combining the Iterative and Prototyping models with the systematic, controlled aspects of the Waterfall model.
-- It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
-- It places very high emphasis on risk analysis during each iteration
+> **The iterative and incremental methodology is designed to overcome the shortcomings of the Waterfall methodology.**
+
+The whole system is divided into various builds. Each build goes through the requirements, design, implementation and testing phases, and each subsequent release adds function to the previous one. The process continues until the complete system is ready.
 
 <p align="center">
-    <img src="images/spiral.png" alt="Spiral Model" width="800" height="400">
+    <img src="images/incremental.png" alt="Incremental Model" width="800" height="450">
 </p>
 
-Each loop of the spiral is called a phase of the software development process. Each phase of the Spiral Model is divided into four quadrants, as shown in the figure above. The functions of these four quadrants are discussed below:
+**Use cases for the Incremental model:**
 
-1. **Determining objectives, alternatives and constraints:** Requirements are gathered from the customers and the objectives are identified, constraints are evaluated and different alternative solutions for the development are proposed in this quadrant.
-2. **Evaluating alternatives, identifying and resolving risks:** During the second quadrant, all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution are identified and resolved using the best possible strategy. At the end of this quadrant, a prototype is built for the best possible solution.
-3. **Develop and verify next level project:** During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
-4. **Review and plan for the next Phase:** In the fourth quadrant, customers evaluate the version of the software developed so far. Finally, planning for the next phase is started.
-
-**Use cases for the Spiral model:**
-
-- Customer isn't sure about the requirements
-- Requirements are unclear or complicated and require continuous clarification
-- Frequent releases of modules are required
-- When creation of a prototype is applicable
-- Customer evaluation and feedback is required in each increment to develop better solutions
-- Significant changes are expected in the product during the development cycle
-- Projects in which continuous risk evaluation is needed
-- It is suitable for large and complex projects
+- This model can be used when the requirements of the complete system are clearly defined and understood
+- There is a need to get a functional module of the product to the market early
 
 **Pros:**
 
-- Requirement changes can be easily adopted and incorporated at the later stage of the development
-- Requirements can be captured more accurately by emphasizing customer feedback of each phase
-- Any enhancement or change in the functionality can be done in the next iteration
-- Customer evaluation and feedback is available in each iteration which leads to better solutions
-- Handling risk analysis in every phase improves security and mitigates the chances of attacks and breakages
-- Allows extensive use of prototypes
-- Users see the system early
-- More and more features are added in a systematic way
+- It supports changing requirements
+- Less costly to change the scope/requirements
+- Results are obtained early and periodically
+- An operational product is delivered with every increment
+- It delivers business value early in the development lifecycle
+- Progress can be measured
+- Parallel development can be planned
+- Testing and debugging during each smaller iteration is easy
+- Customer evaluation and feedback in each increment leads to better solutions
+- Issues, challenges and risks identified from each increment can be resolved to the next increment
 
 **Cons:**
 
-- It is complex to understand, manage and implement
-- Requires high risk-analysis expertise
-- Demands risk management expertise
-- Since the number of iterations is unknown, the time required to complete the project remains a mystery
-- The project takes a significantly long time to develop, increasing the overall expense of the project
-- End of the project may not be known early
-- High risk for falling behind schedule or going over budget
-- Large number of intermediate stages requires excessive documentation
+- Needs a clear and complete definition of the whole system before it can be broken down and built incrementally
+- Each iteration is rigid
+- Although cost of change is lesser, it is not very suitable for changing requirements
+- More resources may be required
+- Highly skilled resources are required for risk analysis
+- More management attention is required
+
+**[⬆ Back to Top](#table-of-contents)**
+
+## 10. Iterative Model
+
+> **The iterative model is an evolutionary approach in which the software is developed and delivered in small pieces, called iterations.**
+
+Each iteration goes through its own planning, design, coding and testing phases, and produces a working version of the software. This version is then refined in the next iteration based on feedback, until the complete system meets the requirements.
+
+<p align="center">
+    <img src="images/iterative.png" alt="Iterative Model" width="800" height="450">
+</p>
+
+**Use cases for the Iterative model:**
+
+- The requirements are not fully known at the start and are expected to evolve
+- A working version of the product is needed early to gather customer feedback
+
+**Pros:**
+
+- Supports changing requirements
+- A working version of the product is delivered with every iteration
+- Customer feedback from each iteration leads to better solutions
+- Risks are identified early and resolved in the next iteration
+
+**Cons:**
+
+- Requires active customer involvement throughout the project
+- Scope can keep expanding, delaying the final product
+- More resources and management attention may be required
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -506,11 +508,11 @@ Each loop of the spiral is called a phase of the software development process. E
 | --------------- | -------------- | ----------- | ---------- | ------------------- | --------------------------------------------- |
 | **Waterfall**   | Fixed          | Low         | High       | End                 | Requirements are stable                       |
 | **V-Model**     | Fixed          | Low         | Medium     | End                 | Testing and verification are critical         |
+| **Prototyping** | Unclear        | High        | Medium     | Early prototype     | Requirements need validation                  |
+| **Spiral**      | Evolving       | High        | High       | Iterative cycles    | Risk is the primary concern                   |
+| **RAD**         | Flexible       | High        | Medium     | Very fast           | Speed is the priority                         |
 | **Incremental** | Mostly defined | Medium–High | Low–Medium | Feature increments  | Features can be delivered independently       |
 | **Iterative**   | Evolving       | High        | Medium     | Repeated refinement | The solution needs continuous refinement      |
-| **Prototyping** | Unclear        | High        | Medium     | Early prototype     | Requirements need validation                  |
-| **RAD**         | Flexible       | High        | Medium     | Very fast           | Speed is the priority                         |
-| **Spiral**      | Evolving       | High        | High       | Iterative cycles    | Risk is the primary concern                   |
 | **Agile**       | Changing       | Very High   | Low        | Frequent increments | Requirements and priorities change frequently |
 
 ## 13. Selecting the Right Methodology
