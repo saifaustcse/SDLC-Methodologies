@@ -127,8 +127,6 @@ SDLC Methodologies
     └── Development + Operations + Automation
 ```
 
-**[⬆ Back to Top](#table-of-contents)**
-
 ## 4. Waterfall Model
 
 > **Waterfall is a sequential and linear flow for developing a software application.**
@@ -550,6 +548,62 @@ Each loop of the spiral is called a Phase of the software development process. E
 
 **[⬆ Back to Top](#table-of-contents)**
 
+SDLC Methodologies — Generic Comparison:
+
+| Characteristic           | Waterfall           | V-Model                         | Prototyping          | Spiral             | RAD                     | Iterative & Incremental | Agile                 | DevOps                       |
+| ------------------------ | ------------------- | ------------------------------- | -------------------- | ------------------ | ----------------------- | ----------------------- | --------------------- | ---------------------------- |
+| **Requirements**         | Predefined          | Predefined                      | Initially unclear    | Evolving           | Flexible                | Evolving                | Continuously evolving | Continuously evolving        |
+| **Customer Involvement** | Low                 | Low                             | High                 | High               | High                    | Regular                 | Very High             | Continuous                   |
+| **Feedback**             | End of project      | End of project                  | Frequent             | Frequent           | Frequent                | Every iteration         | Continuous            | Continuous                   |
+| **Working Software**     | End of project      | End of project                  | Early prototype      | Early & iterative  | Early                   | Every increment         | Frequent increments   | Continuous delivery          |
+| **Testing**              | After development   | Planned from early stages       | Iterative            | Every cycle        | Iterative               | Every increment         | Continuous            | Continuous & automated       |
+| **Change Handling**      | Difficult           | Difficult                       | Easy                 | Easy               | Easy                    | Easy                    | Very Easy             | Very Easy                    |
+| **Progress Visibility**  | Low                 | Low                             | Moderate             | High               | High                    | High                    | High                  | Very High                    |
+| **Risk Management**      | Low                 | Medium                          | Medium               | High               | Medium                  | High                    | High                  | High                         |
+| **Delivery Frequency**   | Once                | Once                            | Prototype + final    | Iterative          | Frequent                | Incremental             | Frequent              | Continuous                   |
+| **Documentation**        | Extensive           | Extensive                       | Moderate             | Extensive          | Moderate                | Moderate–High           | Just enough           | Automated where possible     |
+| **Development Approach** | Sequential          | Sequential + verification       | Prototype-driven     | Risk-driven        | Rapid development       | Incremental             | Adaptive              | Continuous                   |
+| **Best Suited For**      | Stable requirements | Safety/quality-critical systems | Unclear requirements | High-risk projects | Time-sensitive projects | Evolving products       | Dynamic products      | Continuous software delivery |
+
+````
+What are your requirements like?
+│
+├── Stable and well-defined
+│   │
+│   ├── Need strict verification/testing?
+│   │      └── V-Model
+│   │
+│   └── Otherwise
+│          └── Waterfall
+│
+├── Unclear or uncertain
+│   │
+│   ├── Need to validate requirements through prototypes?
+│   │      └── Prototyping
+│   │
+│   └── High technical/business risk?
+│          └── Spiral
+│
+├── Need gradual delivery?
+│   │
+│   └── Iterative & Incremental
+│
+├── Requirements change frequently?
+│   │
+│   ├── Structured iterations and sprints?
+│   │      └── Scrum
+│   │
+│   ├── Continuous incoming work?
+│   │      └── Kanban
+│   │
+│   └── Strong engineering practices and rapid feedback?
+│          └── XP
+│
+└── Need continuous build → test → release → deployment?
+       └── DevOps
+       ```
+**[⬆ Back to Top](#table-of-contents)**
+
 ## 12. References
 
 I have followed many articles, but among them the following were really helpful. They helped me a lot and also encouraged me to write this article based on my understanding.
@@ -586,3 +640,4 @@ _A Software Engineer interested in Software Design & Architecture_
 **LinkedIn:** [Md. Saiful Islam](https://www.linkedin.com/in/saif-aust-cse/)
 
 If you find this guide useful, please give :star:. Your support is appreciated!
+````
