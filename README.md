@@ -30,7 +30,7 @@ A concise, easy-to-follow guide to the **Software Development Life Cycle (SDLC)*
 The SDLC methodology consists of the following phases of software development:
 
 <p align="center">
-    <img src="images/sdlc_1.png" alt="Phases of SDLC" width="600" height="500">
+    <img src="images/sdlc.png" alt="Phases of SDLC" width="600" height="500">
 </p>
 
 **Phase 1 – Analysis/Planning**
@@ -69,41 +69,59 @@ Once the requirement analysis and feasibility study is done the next step is to 
 
 **Phase 2 – Design**
 
-This phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system which will be in place. This is the step for end users to discuss and determine their specific business information needs for the proposed system. It's during this phase that they will consider the essential components (hardware and/or software) structure (networking capabilities), processing and procedures for the system to accomplish its objectives.
+This phase defines the specifications, features and operations that will satisfy the functional requirements of the proposed system. End users determine their specific business information needs, along with the essential components (hardware and/or software), structure (networking capabilities), processing and procedures needed to accomplish the objectives.
 
-SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, usually more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
+The SRS is the reference for product architects to design the best architecture for the product. Based on the SRS, usually more than one design approach is proposed and documented in a DDS (Design Document Specification).
 
-This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time constraints, the best design approach is selected for the product.
+The DDS is reviewed by all the important stakeholders. Based on parameters such as risk assessment, product robustness, design modularity, budget and time constraints, the best design approach is selected.
 
-A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest details in the DDS.
+The chosen design clearly defines all the architectural modules of the product along with their communication and data flow representation with external and third-party modules (if any). The internal design of every module should be defined in detail in the DDS.
 
 **Phase 3 – Development/Implementation**
 
-In this phase of SDLC the actual development starts and the product is built. The programming code is generated and database is designed as per DDS during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
+In this phase the actual development starts and the product is built. The code is generated and the database is designed as per the DDS. If the design is detailed and organized, code generation can be done without much hassle.
 
-Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high-level programming languages such as C, C++, Pascal, Java and PHP are used for coding and different types (structured and non-structured) of databases such as Oracle, MSSQL, MySQL, MongoDB are used for storing data.
+Developers must follow the coding guidelines defined by their organization, and tools such as compilers, interpreters and debuggers are used to generate the code. High-level programming languages such as C, C++, Pascal, Java and PHP are used for coding, and structured and non-structured databases such as Oracle, MSSQL, MySQL and MongoDB are used for storing data.
 
 **Phase 4 – Testing/Quality Assurance**
 
-In this phase systems integration and system testing (of programs and procedures) are normally carried out by a Quality Assurance (QA) professional to determine if the proposed design meets the initial set of business goals. Testing may be repeated, specifically to check for errors, bugs and interoperability. This testing will be performed until the end user finds it acceptable.
+In this phase, systems integration and system testing are normally carried out by a Quality Assurance (QA) professional to determine if the proposed design meets the initial set of business goals. Testing may be repeated to check for errors, bugs and interoperability, and continues until the end user finds it acceptable.
 
-During this phase of the SDLC, various types of functional testing, such as acceptance testing, integration testing, system testing, and unit testing, as well as non-functional testing, are carried out.
+Various types of functional testing — acceptance, integration, system and unit testing — as well as non-functional testing, are carried out.
 
 **Phase 5 – Deployment/Release**
 
-This phase is carried out right after the successful testing of the software product. It is simply delivering the software to the end-user or installing it onto the customer's system(s). The first thing that takes place once the product is delivered to the customer is beta testing. All the bugs and enhancements are then reported to the development team working on the project afterward. Once all the changes are complete, the final deployment takes place.
+This phase is carried out right after the successful testing of the software product. It delivers the software to the end-user or installs it onto the customer's system(s). Once the product is delivered, beta testing begins and all bugs and enhancements are reported to the development team. Once the changes are complete, the final deployment takes place.
 
 **Phase 6 – Maintenance**
 
-The final phase involves maintenance and regular required updates. This step is when end users can fine-tune the system, if they wish, to boost performance, add new capabilities or meet additional user requirements
+The final phase involves maintenance and regular required updates. End users can fine-tune the system to boost performance, add new capabilities or meet additional user requirements.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ## 3. Top SDLC Methodologies?
 
-<p align="center">
-    <img src="images/flow-chart.png" alt="Top SDLC Methodologies">
-</p>
+```
+SDLC Methodologies
+│
+├── Waterfall
+├── Prototyping
+├── Spiral
+├── V-Model
+├── RAD (Rapid Application Development)
+├── Iterative and Incremental
+│
+├── Agile
+│   ├── Scrum
+│   ├── Kanban
+│   ├── Lean
+│   ├── Crystal
+│   ├── Extreme Programming (XP)
+│   ├── Feature-Driven Development (FDD)
+│   └── Dynamic Systems Development Method (DSDM)
+│
+└── DevOps
+```
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -111,7 +129,7 @@ The final phase involves maintenance and regular required updates. This step is 
 
 > **Waterfall is a sequential and linear flow for developing a software application.**
 
-The process is outlined by a series of finite stages, each of which must be fully completed before moving on to the next one. The idea here is quite simple: develop one phase of the project completely and move on to the next. In this way, the project progresses and moves forward in a linear flow.
+The project moves through a series of finite stages, and each stage must be fully completed before the next one begins. The idea is simple: finish one phase completely, then move on to the next.
 
 <p align="center">
     <img src="images/waterfall.png" alt="Waterfall Model" width="800" height="450">
@@ -152,9 +170,9 @@ The process is outlined by a series of finite stages, each of which must be full
 
 The V-Model contains Verification phases on one side and the Validation phases on the other side. Verification and Validation process is joined by the coding phase in V-shape. Thus it is known as V-Model.
 
-**Verification:** It involves a static analysis method (review) done without executing code. It is the process of evaluation of the product development process to find whether specified requirements meet.
+**Verification:** A static analysis method (review) done without executing code. It evaluates the development process to find whether the specified requirements are met.
 
-**Validation:** It involves dynamic analysis method (functional, non-functional), testing is done by executing code. Validation is the process to evaluate the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.
+**Validation:** A dynamic analysis method (functional and non-functional) done by executing code. It evaluates the completed software to determine whether it meets the customer's expectations and requirements.
 
 <details>
 <summary><b>V-Model - Verification Phases </b></summary>
@@ -185,12 +203,8 @@ The V-Model contains Verification phases on one side and the Validation phases o
 
 **Use cases for the V-shaped model:**
 
-- This model is used only when the requirements are very well known, clear and fixed
-- There are no ambiguous or undefined requirements
-- The requirements are precisely documented
-- The technology stack is predefined which makes it not dynamic
-- The project is small or mid-sized
-- For the projects where an accurate product testing is required
+- Same as the Waterfall model — requirements are well known, clear, fixed and precisely documented
+- For projects where accurate product testing is required
 
 **Pros:**
 
@@ -236,7 +250,7 @@ The V-Model contains Verification phases on one side and the Validation phases o
 
 > **The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.**
 
-In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
+The whole requirement is divided into various builds. Each build goes through the requirements, design, implementation and testing phases, and each subsequent release adds function to the previous one. The process continues until the complete system is ready.
 
 <p align="center">
     <img src="images/incremental.png" alt="Incremental Model" width="800" height="450">
@@ -299,46 +313,21 @@ Each iteration goes through its own planning, design, coding and testing phases,
 
 **Use cases for the Iterative model:**
 
-- This model can be used when the requirements of the complete system are clearly defined and understood
-- There is a need to get a functional module of the product to the market early
+- The requirements are not fully known at the start and are expected to evolve
+- A working version of the product is needed early to gather customer feedback
 
 **Pros:**
 
-- It supports changing requirements
-- Less costly to change the scope/requirements
-- Results are obtained early and periodically
-- With every iteration, a working version of the product is delivered
-- It delivers business value early in the development lifecycle
-- Progress can be measured
-- Parallel development can be planned
-- Testing and debugging during smaller iterations is easy
-- Customer evaluation and feedback is available in each iteration which leads to better solutions
-- Issues, challenges and risks identified from each iteration can be resolved in the next iteration
+- Supports changing requirements
+- A working version of the product is delivered with every iteration
+- Customer feedback from each iteration leads to better solutions
+- Risks are identified early and resolved in the next iteration
 
 **Cons:**
 
-- Needs a clear and complete definition of the whole system before it can be broken down and built incrementally
-- Each iteration is rigid
-- Although cost of change is lesser, it is not very suitable for changing requirements
-- More resources may be required
-- Highly skilled resources are required for risk analysis
-- More management attention is required
-
-<details>
-<summary><b>Similarities between Waterfall and Iterative model: </b></summary>
-
-<p align="center">
-    <img src="images/water_incemental_similarities.PNG" alt="Similarities between Waterfall and Iterative model" width="800" height="200">
-</p>
-</details>
-
-<details>
-<summary><b>Differences between Waterfall and Iterative model: </b></summary>
-
-<p align="center">
-    <img src="images/water_incemental_differences.PNG" alt="Differences between Waterfall and Iterative model" width="800" height="450">
-</p>
-</details>
+- Requires active customer involvement throughout the project
+- Scope can keep expanding, delaying the final product
+- More resources and management attention may be required
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -407,11 +396,11 @@ Each iteration goes through its own planning, design, coding and testing phases,
 
 ## 9. RAD Model
 
-- The RAD model is a concurrent software process model which is generally based on the prototype (Iterative and waterfall) model.
-- The entire project is divided into various small modules and each module is allocated to a different party to finish the working of the small modules. After that, all small modules are combined together to obtain the final project
-- Each module is developed using the Prototyping (Iterative and waterfall) model approach.
-- This model is used for completing the process of software product development in a very short time.
-- If your project can be divided into many parts or modules then the Rapid application development model is used.
+- The RAD model is a concurrent software process model generally based on the prototype (Iterative and waterfall) model.
+- The entire project is divided into small modules; each module is developed in parallel by a different party, and then all modules are combined into the final project.
+- Each module is developed using the Prototyping (Iterative and waterfall) approach.
+- This model is used to complete software product development in a very short time.
+- Use it when your project can be divided into many parts or modules.
 
 <p align="center">
     <img src="images/rad.png" alt="RAD Model" width="800" height="400">
@@ -467,29 +456,13 @@ Although RAD has changed over the years, following four basic phases provide som
 - A slight complexity in modularizing in the RAD model can lead to failure of the entire project
 - Inapplicable to small-budget projects as the cost of modeling and automated code generation is very high
 
-<details>
-<summary><b>Similarities between Waterfall and RAD model: </b></summary>
-
-<p align="center">
-    <img src="images/water_prototype_similarities.PNG" alt="Similarities between Waterfall and RAD model" width="800" height="250">
-</p>
-</details>
-
-<details>
-<summary><b>Differences between Waterfall and RAD model: </b></summary>
-
-<p align="center">
-    <img src="images/water_prototype_differences.PNG" alt="Differences between Waterfall and RAD model" width="800" height="450">
-</p>
-</details>
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ## 10. Spiral Model
 
-- The spiral model is an evolutionary software process model that is a combination of the Iterative and Prototyping with the systematic, controlled aspects of the waterfall model.
+- The spiral model is an evolutionary software process model combining the Iterative and Prototyping models with the systematic, controlled aspects of the Waterfall model.
 - It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
-- It has very high emphasis on risk analysis during each iteration
+- It places very high emphasis on risk analysis during each iteration
 
 <p align="center">
     <img src="images/spiral.png" alt="Spiral Model" width="800" height="400">
@@ -534,22 +507,6 @@ Each loop of the spiral is called a Phase of the software development process. E
 - End of the project may not be known early
 - High risk for falling behind schedule or going over budget
 - Large number of intermediate stages requires excessive documentation
-
-<details>
-<summary><b>Similarities between Waterfall and Spiral model: </b></summary>
-
-<p align="center">
-    <img src="images/water_incemental_similarities.PNG" alt="Similarities between Waterfall and Spiral model" width="800" height="200">
-</p>
-</details>
-
-<details>
-<summary><b>Differences between Waterfall and Spiral model: </b></summary>
-
-<p align="center">
-    <img src="images/water_incemental_differences.PNG" alt="Differences between Waterfall and Spiral model" width="800" height="450">
-</p>
-</details>
 
 **[⬆ Back to Top](#table-of-contents)**
 
