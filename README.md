@@ -419,10 +419,6 @@ Each iteration goes through its own planning, design, coding and testing phases,
 
 Although RAD has changed over the years, following four basic phases provide some continuity over the years.
 
-<p align="center">
-    <img src="images/rad_iterative.png" alt="RAD Model phases" width="800" height="400">
-</p>
-
 1. **Requirement Analysis:** There are various approaches used in requirement planning like brainstorming, task analysis, form analysis, user scenario, etc. This phase consists of planning or designing of each module which contains data, methods and other resources.
 
 2. **Customer Evaluation:** In this phase, developers evaluate customer satisfaction by delivering the prototype and taking their reviews. If the customer is satisfied then the developer starts implementation.
@@ -496,7 +492,7 @@ Although RAD has changed over the years, following four basic phases provide som
 - It has very high emphasis on risk analysis during each iteration
 
 <p align="center">
-    <img src="images/spiral_model.png" alt="Spiral Model" width="800" height="400">
+    <img src="images/spiral.png" alt="Spiral Model" width="800" height="400">
 </p>
 
 Each loop of the spiral is called a Phase of the software development process. Each phase of Spiral Model is divided into four quadrants as shown in the above figure. The functions of these four quadrants are discussed below-
@@ -564,7 +560,7 @@ Each loop of the spiral is called a Phase of the software development process. E
 - Common Agile frameworks include Scrum, Kanban, and Extreme Programming (XP).
 
 <p align="center">
-    <img src="images/agile-umbrella.png" alt="Agile Model" width="500" height="500">
+    <img src="images/agile.png" alt="Agile Model" width="500" height="500">
 </p>
 
 **Use cases for the Agile model:**
