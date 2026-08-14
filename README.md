@@ -4,28 +4,28 @@ A concise, easy-to-follow guide to the **Software Development Life Cycle (SDLC)*
 
 ## Table of Contents
 
-| No. | Topic                                                          |
-| --- | -------------------------------------------------------------- |
-| 1   | [What is SDLC?](#1-what-is-sdlc)                               |
-| 2   | [What are the phases of SDLC?](#2-what-are-the-phases-of-sdlc) |
-| 3   | [Top SDLC Methodologies?](#3-top-sdlc-methodologies)           |
-| 4   | [Waterfall Model](#4-waterfall-model)                          |
-| 5   | [V-Shaped Model](#5-v-shaped-model)                            |
-| 6   | [Incremental Model](#6-incremental-model)                      |
-| 7   | [Iterative Model](#7-iterative-model)                          |
-| 8   | [Prototype Model](#8-prototype-model)                          |
-| 9   | [RAD Model](#9-rad-model)                                      |
-| 10  | [Spiral Model](#10-spiral-model)                               |
-| 11  | [Agile Model](#11-agile-model)                                 |
-| 12  | [References](#12-references)                                   |
+| No. | Topic                                                                       |
+| --- | --------------------------------------------------------------------------- |
+| 1   | [What Is the SDLC?](#1-what-is-the-sdlc)                                    |
+| 2   | [The Phases of the SDLC](#2-the-phases-of-the-sdlc)                         |
+| 3   | [SDLC Methodologies: An Overview](#3-sdlc-methodologies-an-overview)        |
+| 4   | [Waterfall Model](#4-waterfall-model)                                       |
+| 5   | [V-Model](#5-v-model)                                                       |
+| 6   | [Incremental Model](#6-incremental-model)                                   |
+| 7   | [Iterative Model](#7-iterative-model)                                       |
+| 8   | [Prototyping Model](#8-prototyping-model)                                   |
+| 9   | [Rapid Application Development (RAD)](#9-rapid-application-development-rad) |
+| 10  | [Spiral Model](#10-spiral-model)                                            |
+| 11  | [Agile Model](#11-agile-model)                                              |
+| 12  | [Comparison of SDLC Methodologies](#12-comparison-of-sdlc-methodologies)    |
+| 13  | [Selecting the Right Methodology](#13-selecting-the-right-methodology)      |
+| 14  | [References](#14-references)                                                |
 
-## 1. What is SDLC?
+## 1. What Is the SDLC?
 
 > **The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.**
 
-**[⬆ Back to Top](#table-of-contents)**
-
-## 2. What are the phases of SDLC?
+## 2. The Phases of the SDLC
 
 The SDLC methodology consists of the following phases of software development:
 
@@ -39,7 +39,7 @@ The very first phase of the SDLC is known as the planning stage. It is the most 
 It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
 
 <details>
-<summary><b>Sub Phases of Analysis/Planning </b></summary>
+<summary><b>Sub Phases of Analysis/Planning</b></summary>
 
 The Planning phase can be divided into 3 sub-phases:
 
@@ -99,7 +99,7 @@ The final phase involves maintenance and regular required updates. End users can
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 3. Top SDLC Methodologies?
+## 3. SDLC Methodologies: An Overview
 
 ```
 SDLC Methodologies
@@ -154,14 +154,14 @@ The project moves through a series of finite stages, and each stage must be full
 - Cannot accommodate changing requirements
 - Requirement changes at the later stages would lead to higher costs as the changes would be required in all the phases
 - No working software module is produced until late in the life cycle
-- The progress of the stage is hard to measure while it is still in the development
+- The progress of a stage is hard to measure while it is still in development
 - Not suitable for the projects where requirements are at a moderate to high risk of changing
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 5. V-Shaped Model
+## 5. V-Model
 
-> **V-shaped SDLC model is an expansion of classic waterfall model where each development activity is associated with a testing phase. It is also known as Verification and Validation model.**
+> **V-shaped SDLC model is an expansion of the classic Waterfall model where each development activity is associated with a testing phase. It is also known as the Verification and Validation (V) model.**
 
 <p align="center">
     <img src="images/v-model.png" alt="V-Shaped Model" width="800" height="450">
@@ -188,7 +188,7 @@ The V-Model places Verification phases on one side and Validation phases on the 
 
 </details>
 <details>
-<summary><b>V-Model - Validation Phases: </b></summary>
+<summary><b>V-Model - Validation Phases</b></summary>
 
 1. **Unit Testing:** Unit Test Plans are developed during module design phase. These Unit Test Plans are executed to eliminate bugs at code or unit level.
 
@@ -223,7 +223,7 @@ The V-Model places Verification phases on one side and Validation phases on the 
 - Requirement changes at the later stages would lead to higher costs as the changes would be required in all the phases
 - Requirement and test documents need to be updated if any changes have to be made amid the software development
 - No working software module is produced until late in the life cycle
-- The progress of the stage is hard to measure while it is still in the development
+- The progress of a stage is hard to measure while it is still in development
 - Not suitable for the projects where requirements are at a moderate to high risk of changing
 - Not a good model for large, complex, or object-oriented projects
 
@@ -231,9 +231,9 @@ The V-Model places Verification phases on one side and Validation phases on the 
 
 ## 6. Incremental Model
 
-> **The iterative and incremental methodology is designed to overcome any fault or shortcoming of the Waterfall methodology.**
+> **The iterative and incremental methodology is designed to overcome the shortcomings of the Waterfall methodology.**
 
-The whole requirement is divided into various builds. Each build goes through the requirements, design, implementation and testing phases, and each subsequent release adds function to the previous one. The process continues until the complete system is ready.
+The whole system is divided into various builds. Each build goes through the requirements, design, implementation and testing phases, and each subsequent release adds function to the previous one. The process continues until the complete system is ready.
 
 <p align="center">
     <img src="images/incremental.png" alt="Incremental Model" width="800" height="450">
@@ -249,12 +249,12 @@ The whole requirement is divided into various builds. Each build goes through th
 - It supports changing requirements
 - Less costly to change the scope/requirements
 - Results are obtained early and periodically
-- With every increment, operational product is delivered
+- An operational product is delivered with every increment
 - It delivers business value early in the development lifecycle
 - Progress can be measured
 - Parallel development can be planned
-- Testing and debugging during smaller iteration is easy
-- Customer evaluation and feedback is available in each increment which leads to better solutions
+- Testing and debugging during each smaller iteration is easy
+- Customer evaluation and feedback in each increment leads to better solutions
 - Issues, challenges and risks identified from each increment can be resolved to the next increment
 
 **Cons:**
@@ -298,7 +298,7 @@ Each iteration goes through its own planning, design, coding and testing phases,
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 8. Prototype Model
+## 8. Prototyping Model
 
 - The Prototype model is an evolutionary software process model that is a combination of the Iterative and Waterfall models
 - Prototype is built, tested, and reworked using iterative methodology until the model is accepted by the customer.
@@ -345,7 +345,7 @@ Each iteration goes through its own planning, design, coding and testing phases,
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 9. RAD Model
+## 9. Rapid Application Development (RAD)
 
 - The RAD model is a concurrent software process model generally based on the prototype (Iterative and waterfall) model.
 - The entire project is divided into small modules; each module is developed in parallel by a different party, and then all modules are combined into the final project.
@@ -497,24 +497,23 @@ Each loop of the spiral is called a phase of the software development process. E
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 11. SDLC Methodologies — Comparison
+## 12. Comparison of SDLC Methodologies
 
-| Characteristic           | Waterfall           | V-Model                         | Prototyping          | Spiral             | RAD                     | Iterative & Incremental | Agile                 |
-| ------------------------ | ------------------- | ------------------------------- | -------------------- | ------------------ | ----------------------- | ----------------------- | --------------------- |
-| **Requirements**         | Predefined          | Predefined                      | Initially unclear    | Evolving           | Flexible                | Evolving                | Continuously evolving |
-| **Customer Involvement** | Low                 | Low                             | High                 | High               | High                    | Regular                 | Very High             |
-| **Feedback**             | End of project      | End of project                  | Frequent             | Frequent           | Frequent                | Every iteration         | Continuous            |
-| **Working Software**     | End of project      | End of project                  | Early prototype      | Early & iterative  | Early                   | Every increment         | Frequent increments   |
-| **Testing**              | After development   | Planned from early stages       | Iterative            | Every cycle        | Iterative               | Every increment         | Continuous            |
-| **Change Handling**      | Difficult           | Difficult                       | Easy                 | Easy               | Easy                    | Easy                    | Very Easy             |
-| **Progress Visibility**  | Low                 | Low                             | Moderate             | High               | High                    | High                    | High                  |
-| **Risk Management**      | Low                 | Medium                          | Medium               | High               | Medium                  | High                    | High                  |
-| **Delivery Frequency**   | Once                | Once                            | Prototype + final    | Iterative          | Frequent                | Incremental             | Frequent              |
-| **Documentation**        | Extensive           | Extensive                       | Moderate             | Extensive          | Moderate                | Moderate–High           | Just enough           |
-| **Development Approach** | Sequential          | Sequential + verification       | Prototype-driven     | Risk-driven        | Rapid development       | Incremental             | Adaptive              |
-| **Best Suited For**      | Stable requirements | Safety/quality-critical systems | Unclear requirements | High-risk projects | Time-sensitive projects | Evolving products       | Dynamic products      |
+| Methodology                 | Requirements | Change    | Risk       | Delivery        | Best When                                     |
+| --------------------------- | ------------ | --------- | ---------- | --------------- | --------------------------------------------- |
+| **Waterfall**               | Fixed        | Low       | High       | End             | Requirements are stable                       |
+| **V-Model**                 | Fixed        | Low       | Medium     | End             | Testing is critical                           |
+| **Prototyping**             | Unclear      | High      | Medium     | Early prototype | Requirements need validation                  |
+| **Spiral**                  | Evolving     | High      | High       | Iterative       | Risk is the primary concern                   |
+| **RAD**                     | Flexible     | High      | Medium     | Very Fast       | Speed is the priority                         |
+| **Iterative & Incremental** | Evolving     | High      | Low–Medium | Incremental     | Features can be delivered gradually           |
+| **Agile**                   | Changing     | Very High | Low        | Frequent        | Requirements and priorities change frequently |
 
-## 11. How to Choose
+## 13. Selecting the Right Methodology
+
+There is no single "best" methodology — the right choice depends on the project. Evaluate the factors below, then use the scenario table and the decision tree to narrow down the options.
+
+**Decision tree:**
 
 ```
 What are your requirements like?
@@ -531,10 +530,13 @@ What are your requirements like?
 │   └── High technical/business risk?
 │          └── Spiral
 │
-├── Need gradual delivery?
-│   └── Iterative & Incremental
+├── Gradual delivery needed
+│   ├── Defined scope, partial delivery early?
+│   │      └── Incremental
+│   └── Requirements evolve through feedback?
+│          └── Iterative
 │
-└── Requirements change frequently?
+└── Requirements change frequently
     ├── Structured iterations and sprints?
     │      └── Scrum
     ├── Continuous incoming work?
@@ -545,7 +547,7 @@ What are your requirements like?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 12. References
+## 14. References
 
 I have followed many articles, but among them the following were really helpful. They helped me a lot and also encouraged me to write this article based on my understanding.
 
