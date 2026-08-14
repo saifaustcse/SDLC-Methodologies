@@ -104,12 +104,15 @@ The final phase involves maintenance and regular required updates. End users can
 ```
 SDLC Methodologies
 │
-├── Waterfall
-├── Prototyping
-├── Spiral
-├── V-Model
-├── RAD (Rapid Application Development)
-├── Iterative and Incremental
+├── Predictive / Plan-Driven
+│   ├── Waterfall
+│   └── V-Model
+│
+├── Iterative / Incremental
+│   ├── Prototyping
+│   ├── Spiral
+│   ├── RAD
+│   └── Iterative & Incremental
 │
 ├── Agile
 │   ├── Scrum
@@ -121,6 +124,7 @@ SDLC Methodologies
 │   └── Dynamic Systems Development Method (DSDM)
 │
 └── DevOps
+    └── Development + Operations + Automation
 ```
 
 **[⬆ Back to Top](#table-of-contents)**
