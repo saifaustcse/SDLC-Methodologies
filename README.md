@@ -102,26 +102,29 @@ The final phase involves maintenance and regular required updates. End users can
 ## 3. SDLC Methodologies: An Overview
 
 ```
-SDLC Methodologies
+SDLC Approaches
 │
 ├── Predictive / Plan-Driven
 │   ├── Waterfall
 │   └── V-Model
 │
-├── Iterative / Incremental
+├── Evolutionary / Iterative
 │   ├── Prototyping
 │   ├── Spiral
-│   ├── RAD
-│   └── Iterative & Incremental
+│   └── RAD
 │
-├── Agile
-│   ├── Scrum
-│   ├── Kanban
-│   ├── Lean
-│   ├── Crystal
-│   ├── Extreme Programming (XP)
-│   ├── Feature-Driven Development (FDD)
-│   └── Dynamic Systems Development Method (DSDM)
+├── Iterative & Incremental
+│   ├── Iterative
+│   └── Incremental
+│
+└── Agile
+    ├── Scrum
+    ├── Kanban
+    ├── Extreme Programming (XP)
+    ├── Lean
+    ├── Crystal
+    ├── Feature-Driven Development (FDD)
+    └── DSDM
 ```
 
 ## 4. Waterfall Model
@@ -499,50 +502,54 @@ Each loop of the spiral is called a phase of the software development process. E
 
 ## 12. Comparison of SDLC Methodologies
 
-| Methodology                 | Requirements | Change    | Risk       | Delivery        | Best When                                     |
-| --------------------------- | ------------ | --------- | ---------- | --------------- | --------------------------------------------- |
-| **Waterfall**               | Fixed        | Low       | High       | End             | Requirements are stable                       |
-| **V-Model**                 | Fixed        | Low       | Medium     | End             | Testing is critical                           |
-| **Prototyping**             | Unclear      | High      | Medium     | Early prototype | Requirements need validation                  |
-| **Spiral**                  | Evolving     | High      | High       | Iterative       | Risk is the primary concern                   |
-| **RAD**                     | Flexible     | High      | Medium     | Very Fast       | Speed is the priority                         |
-| **Iterative & Incremental** | Evolving     | High      | Low–Medium | Incremental     | Features can be delivered gradually           |
-| **Agile**                   | Changing     | Very High | Low        | Frequent        | Requirements and priorities change frequently |
+| Methodology     | Requirements   | Change      | Risk       | Delivery            | Best When                                     |
+| --------------- | -------------- | ----------- | ---------- | ------------------- | --------------------------------------------- |
+| **Waterfall**   | Fixed          | Low         | High       | End                 | Requirements are stable                       |
+| **V-Model**     | Fixed          | Low         | Medium     | End                 | Testing and verification are critical         |
+| **Incremental** | Mostly defined | Medium–High | Low–Medium | Feature increments  | Features can be delivered independently       |
+| **Iterative**   | Evolving       | High        | Medium     | Repeated refinement | The solution needs continuous refinement      |
+| **Prototyping** | Unclear        | High        | Medium     | Early prototype     | Requirements need validation                  |
+| **RAD**         | Flexible       | High        | Medium     | Very fast           | Speed is the priority                         |
+| **Spiral**      | Evolving       | High        | High       | Iterative cycles    | Risk is the primary concern                   |
+| **Agile**       | Changing       | Very High   | Low        | Frequent increments | Requirements and priorities change frequently |
 
 ## 13. Selecting the Right Methodology
 
-There is no single "best" methodology — the right choice depends on the project. Evaluate the factors below, then use the scenario table and the decision tree to narrow down the options.
+There is no single "best" methodology — the right choice depends on the project, its requirements, risks, constraints, and delivery needs. Use the comparison table in Section 12 and the decision tree below to narrow down the options.
 
-**Decision tree:**
+Decision tree:
 
 ```
-What are your requirements like?
+Requirements / Solution
 │
 ├── Stable and well-defined
-│   ├── Need strict verification/testing?
-│   │      └── V-Model
-│   └── Otherwise
-│          └── Waterfall
+│   ├── Rigorous verification & validation → V-Model
+│   └── Otherwise → Waterfall
 │
-├── Unclear or uncertain
-│   ├── Need to validate requirements through prototypes?
+├── Need to discover or refine the solution
+│   ├── Need a prototype mainly to understand/validate requirements
 │   │      └── Prototyping
-│   └── High technical/business risk?
-│          └── Spiral
+│   │
+│   ├── High technical/business risk
+│   │      └── Spiral
+│   │
+│   └── Need short cycles, rapid construction,
+│       reusable components, and frequent user feedback
+│          └── RAD
 │
-├── Gradual delivery needed
-│   ├── Defined scope, partial delivery early?
-│   │      └── Incremental
-│   └── Requirements evolve through feedback?
-│          └── Iterative
+├── Need to develop progressively
+│   ├── Add functionality piece by piece → Incremental
+│   ├── Repeatedly refine functionality → Iterative
+│   └── Both → Iterative + Incremental
 │
-└── Requirements change frequently
-    ├── Structured iterations and sprints?
-    │      └── Scrum
-    ├── Continuous incoming work?
-    │      └── Kanban
-    └── Strong engineering practices and rapid feedback?
-           └── XP
+└── Requirements and priorities change continuously
+    ├── Fixed-length iterations → Scrum
+    ├── Continuous flow → Kanban
+    ├── Engineering practices → XP
+    ├── Waste reduction → Lean
+    ├── Lightweight/team-focused → Crystal
+    ├── Feature-driven → FDD
+    └── Timeboxed/business-focused → DSDM
 ```
 
 **[⬆ Back to Top](#table-of-contents)**
