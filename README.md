@@ -17,9 +17,10 @@ A concise guide to the **Software Development Life Cycle (SDLC)** and its core *
 | 9   | [Incremental Model](#9-incremental-model)                                   |
 | 10  | [Iterative Model](#10-iterative-model)                                      |
 | 11  | [Agile Model](#11-agile-model)                                              |
-| 12  | [Comparison of SDLC Methodologies](#12-comparison-of-sdlc-methodologies)    |
-| 13  | [Selecting the Right Methodology](#13-selecting-the-right-methodology)      |
-| 14  | [References](#14-references)                                                |
+| 12  | [Agile Frameworks (Scrum, Kanban, XP)](#12-agile-frameworks-scrum-kanban-xp)                |
+| 13  | [Comparison of SDLC Methodologies](#13-comparison-of-sdlc-methodologies)    |
+| 14  | [Selecting the Right Methodology](#14-selecting-the-right-methodology)      |
+| 15  | [References](#15-references)                                                |
 
 ## 1. What Is the SDLC?
 
@@ -33,35 +34,80 @@ The SDLC consists of the following phases of software development:
     <img src="images/sdlc.png" alt="Phases of SDLC" width="600" height="500">
 </p>
 
+Each phase is described below with its key activities and the deliverable it produces.
+
 **Phase 1 – Analysis/Planning**
 
 The planning stage is the most important phase of the entire SDLC from the perspective of project managers and stakeholders. It is performed by the senior members of the team with inputs from the customer, sales, market surveys and domain experts.
 
-It consists of three sub-phases:
+**Key activities:**
 
-- **Requirement Analysis** – defines how the software will be used, the data it takes in and produces, and who will use it.
-- **Feasibility Study** – evaluates the project's economic, legal, operational, technical and schedule feasibility, so that executives can decide whether to proceed.
-- **Defining Requirements** – documents and gets approval for the product requirements in an SRS (Software Requirements Specification) document.
+- **Requirement analysis** – understand how the software will be used, its inputs and outputs, and who will use it
+- **Feasibility study** – evaluate the project's economic, legal, operational, technical and schedule feasibility before proceeding
+- **Defining requirements** – document and get approval for the product requirements
+
+**Deliverable:** SRS (Software Requirements Specification)
 
 **Phase 2 – Design**
 
-This phase translates the SRS into a system architecture. Based on the SRS, one or more design approaches are proposed and documented in a DDS (Design Document Specification). The DDS is reviewed by all important stakeholders, and the best design is selected based on risk, robustness, modularity, budget and time constraints. The chosen design defines all architectural modules along with their communication and data flow with external and third-party modules (if any).
+This phase translates the SRS into a system architecture.
+
+**Key activities:**
+
+- Propose one or more design approaches based on the SRS and document them in a DDS
+- Review the DDS with all important stakeholders
+- Select the best design based on risk, robustness, modularity, budget and time constraints
+- Define all architectural modules along with their communication and data flow with external and third-party modules (if any)
+
+**Deliverable:** DDS (Design Document Specification)
 
 **Phase 3 – Development/Implementation**
 
-In this phase the actual development starts and the product is built. Code is generated and the database is designed as per the DDS. Developers follow the coding guidelines defined by their organization, using tools such as compilers, interpreters and debuggers.
+In this phase the actual development starts and the product is built.
+
+**Key activities:**
+
+- Generate code as per the DDS
+- Design the database
+- Follow the organization's coding guidelines, using tools such as compilers, interpreters and debuggers
+
+**Deliverable:** Working software (code and database)
 
 **Phase 4 – Testing/Quality Assurance**
 
-In this phase, systems integration and system testing are carried out by a Quality Assurance (QA) professional to determine whether the proposed design meets the initial set of business goals. Testing is repeated to check for errors, bugs and interoperability, and continues until the end user finds it acceptable. Functional testing (acceptance, integration, system and unit) as well as non-functional testing are carried out.
+In this phase, the software is verified by a Quality Assurance (QA) professional to determine whether the proposed design meets the initial set of business goals.
+
+**Key activities:**
+
+- Perform systems integration and system testing
+- Carry out functional testing (unit, integration, system and acceptance) as well as non-functional testing
+- Fix errors, bugs and interoperability issues until the end user finds the software acceptable
+
+**Deliverable:** Tested, quality-approved software
 
 **Phase 5 – Deployment/Release**
 
-This phase follows successful testing and delivers the software to the end user or installs it onto the customer's system(s). Once the product is delivered, beta testing begins and all bugs and enhancements are reported to the development team. Once the changes are complete, the final deployment takes place.
+This phase follows successful testing and makes the software available to the end user.
+
+**Key activities:**
+
+- Deliver the software to the end user or install it onto the customer's system(s)
+- Run beta testing and collect bug reports and enhancement requests
+- Apply the changes and carry out the final deployment
+
+**Deliverable:** Software released to end users
 
 **Phase 6 – Maintenance**
 
-The final phase involves maintenance and regular updates. End users can fine-tune the system to boost performance, add new capabilities or meet additional user requirements.
+The final phase keeps the software useful over time.
+
+**Key activities:**
+
+- Perform regular updates and maintenance
+- Fine-tune the system to boost performance
+- Add new capabilities to meet additional user requirements
+
+**Deliverable:** Maintained, up-to-date software
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -86,11 +132,7 @@ SDLC Approaches
 └── Agile
     ├── Scrum
     ├── Kanban
-    ├── Extreme Programming (XP)
-    ├── Lean
-    ├── Crystal
-    ├── Feature-Driven Development (FDD)
-    └── DSDM
+    └── Extreme Programming (XP)
 ```
 
 ## 4. Waterfall Model
@@ -368,7 +410,7 @@ Each iteration goes through its own planning, design, coding and testing phases 
 
 > **An iterative and incremental approach that delivers working software in small, frequent releases called sprints or iterations.**
 
-Agile emphasizes collaboration, customer feedback and adaptability to change rather than a rigid, pre-planned process. Common Agile frameworks include Scrum, Kanban and Extreme Programming (XP).
+Agile emphasizes collaboration, customer feedback and adaptability to change rather than a rigid, pre-planned process. The three most popular Agile frameworks — Scrum, Kanban and Extreme Programming (XP) — are covered in Section 12.
 
 <p align="center">
     <img src="images/agile.png" alt="Agile Model" width="500" height="500">
@@ -398,7 +440,91 @@ Agile emphasizes collaboration, customer feedback and adaptability to change rat
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 12. Comparison of SDLC Methodologies
+## 12. Agile Frameworks (Scrum, Kanban, XP)
+
+Agile is not a single process — it is a family of frameworks, each with its own rules, roles and practices. Each framework below follows the same structure: a short definition, its use cases, pros and cons.
+
+### Scrum
+
+> **Scrum is an agile framework that delivers working software in fixed-length iterations called sprints.**
+
+Scrum organizes work around three roles — the Product Owner, the Scrum Master and the Development Team — with regular ceremonies such as sprint planning, daily stand-ups, sprint reviews and retrospectives. Work is managed through a Product Backlog and a Sprint Backlog.
+
+**Use cases:**
+
+- Requirements and priorities are expected to change frequently
+- The team can self-organize and is committed full-time
+- Working software is needed in regular, short increments (typically 2–4 week sprints)
+
+**Pros:**
+
+- Delivers working software every sprint, enabling quick feedback
+- Adapts easily to changing requirements and priorities
+- High transparency through daily stand-ups, reviews and retrospectives
+- Clear roles and responsibilities
+
+**Cons:**
+
+- Requires a dedicated, full-time and experienced team
+- Difficult to estimate total cost and timeline up front
+- Can be hard to scale to large or distributed teams
+- The ceremony can feel like overhead on small projects
+
+### Kanban
+
+> **Kanban is an agile framework that visualizes the workflow on a board and limits work in progress (WIP).**
+
+Work items flow continuously through columns (e.g., To Do, In Progress, Done) instead of fixed iterations. The team pulls new work only when capacity is free, which makes bottlenecks visible and keeps the flow predictable.
+
+**Use cases:**
+
+- Ongoing or maintenance work with a steady stream of incoming tasks
+- A continuous, predictable flow is preferred over fixed-length iterations
+- Priorities change often and the team wants a minimal process change
+
+**Pros:**
+
+- Very flexible — priorities can be changed at any time
+- Continuous delivery instead of waiting for an iteration to end
+- WIP limits reduce bottlenecks and improve focus
+- Minimal ceremony and easy to adopt on top of an existing process
+
+**Cons:**
+
+- No timeboxes, so there is less urgency and predictability
+- No defined roles or ceremonies can lead to unclear ownership
+- Requires discipline to enforce WIP limits
+- Not well suited to projects with tight fixed deadlines
+
+### Extreme Programming (XP)
+
+> **Extreme Programming (XP) is an agile framework that focuses on engineering practices to produce high-quality software.**
+
+XP relies on practices such as test-driven development (TDD), pair programming, continuous integration, refactoring and small releases, with a customer representative available on-site to answer questions.
+
+**Use cases:**
+
+- Requirements change frequently and code quality is critical
+- Small to medium teams with experienced, disciplined developers
+- A customer representative can be available on-site
+
+**Pros:**
+
+- Very high code quality with fewer defects
+- Strong testing culture (TDD) reduces bugs
+- Adapts quickly to changing requirements
+- Continuous integration keeps the software always releasable
+
+**Cons:**
+
+- Demands experienced, disciplined developers
+- Pair programming increases development cost
+- Requires an on-site customer representative
+- Difficult to scale to large teams
+
+**[⬆ Back to Top](#table-of-contents)**
+
+## 13. Comparison of SDLC Methodologies
 
 | Methodology     | Requirements   | Change      | Risk       | Delivery            | Best When                                     |
 | --------------- | -------------- | ----------- | ---------- | ------------------- | --------------------------------------------- |
@@ -411,9 +537,9 @@ Agile emphasizes collaboration, customer feedback and adaptability to change rat
 | **Iterative**   | Evolving       | High        | Medium     | Repeated refinement | The solution needs continuous refinement      |
 | **Agile**       | Changing       | Very High   | Low        | Frequent increments | Requirements and priorities change frequently |
 
-## 13. Selecting the Right Methodology
+## 14. Selecting the Right Methodology
 
-There is no single "best" methodology — the right choice depends on the project, its requirements, risks, constraints and delivery needs. Use the comparison table in Section 12 and the decision tree below to narrow down the options.
+There is no single "best" methodology — the right choice depends on the project, its requirements, risks, constraints and delivery needs. Use the comparison table in Section 13 and the decision tree below to narrow down the options.
 
 ```
 Requirements / Solution
@@ -441,16 +567,12 @@ Requirements / Solution
 └── Requirements and priorities change continuously
     ├── Fixed-length iterations → Scrum
     ├── Continuous flow → Kanban
-    ├── Engineering practices → XP
-    ├── Waste reduction → Lean
-    ├── Lightweight/team-focused → Crystal
-    ├── Feature-driven → FDD
-    └── Timeboxed/business-focused → DSDM
+    └── Engineering practices → XP
 ```
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 14. References
+## 15. References
 
 - [tutorialspoint](https://www.tutorialspoint.com/sdlc/index.htm)
 - [tatvasoft](https://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantages-disadvantages/)
